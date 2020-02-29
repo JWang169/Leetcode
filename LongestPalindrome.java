@@ -2,9 +2,7 @@ package algorithm;
 import java.util.*;
 
 public class LongestPalindrome {
-	
 	public int longestPalindrome(String s) {
-		
 		HashMap<Character, Integer> map = new HashMap<>();
 		
 		for(Character ch: s.toCharArray()) {
@@ -25,12 +23,9 @@ public class LongestPalindrome {
 				result += map.get(key) - 1;
 			}
 		}
-		
 		if(odd) result ++;
 		return result;	
-
 	}
-	
 	
 	public static void main(String[] args) {
 		LongestPalindrome lp = new LongestPalindrome();
@@ -38,9 +33,7 @@ public class LongestPalindrome {
 		String s2 = "";
 		System.out.println(lp.longestPalindrome(s1));
 		System.out.println(lp.longestPalindrome(s2));
-		
 	}
-
 }
 
 
