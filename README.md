@@ -21,6 +21,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 |  41     | Maximum Subarray.   |[41](MaximumSubarray.java)| Easy | 
 |  152    | Decode Ways         |[152](DecodeWays.java)  | Medium | 
 |  436    | Maximal Square      |[436](MaximalSquare.java)  | Medium | 
+|  200    | Longest Palindromic Substring      |[200](LongestPalindromicSubstring.java)  | Medium | 
 |  168    | BurstBalloons       |[168](BurstBalloon.java)| Hard | 
 
 
