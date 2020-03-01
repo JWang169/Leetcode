@@ -16,7 +16,8 @@ Data Structure and Algorithms - Lintcode Solution in Java
 #### 5 - Dynamic Problem I 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
 |:-------:|:--------------------|:------------:|---------------:|
-|  397    | Longest Continuous Increasing Subsequence |[397](LongestIncreasingContinuousSubsequence.java)| Easy | 
+|  397    | Longest Continuous Increasing Subsequence |[397](MinimumPathSum.java)| Easy | 
+|  110    | Minimum Path Sum    |[110](LongestIncreasingContinuousSubsequence.java)| Easy | 
 |  152    | Decode Ways         |[152](DecodeWays.java)  | Medium | 
 |  168    | BurstBalloons       |[168](BurstBalloon.java)| Hard | 
 
