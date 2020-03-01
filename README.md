@@ -14,5 +14,5 @@ Data Structure and Algorithms - Lintcode Solution in Java
 #### 5 - Dynamic Problem I 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
 |:-------:|:--------------------|:------------:|---------------:|
-|  152    | Decode Ways         |[152](DecodeWays.java)  | Hard | 
+|  152    | Decode Ways         |[152](DecodeWays.java)  | Medium | 
 |  168    | BurstBalloons       |[168](BurstBalloon.java)| Hard | 
