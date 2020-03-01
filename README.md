@@ -22,7 +22,11 @@ Data Structure and Algorithms - Lintcode Solution in Java
 |  152    | Decode Ways         |[152](DecodeWays.java)  | Medium | 
 |  436    | Maximal Square      |[436](MaximalSquare.java)  | Medium | 
 |  200    | Longest Palindromic Substring      |[200](LongestPalindromicSubstring.java)  | Medium | 
+|  395    | Coins in a Line II     |[395](CoinsinaLineII.java)  | Medium | 
+|  394    | Coins in a Line     |[394](CoinsinaLine.java)  | Medium | 
+|  392    | House Robber     |[392](HouseRobber.java)  | Medium | 
 |  168    | BurstBalloons       |[168](BurstBalloon.java)| Hard | 
+|  430    | Scramble String     |[430](ScrambleString.java)  | Hard | 
 
 
 
