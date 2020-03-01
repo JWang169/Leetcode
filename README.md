@@ -8,3 +8,10 @@ Data Structure and Algorithms - Lintcode Solution in Java
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
 |:-------:|:--------------------|:------------:|---------------:|
 |  627    | Longest Palindrome  |[627](LongestPalindrome.java)| Easy | 
+
+
+
+#### 5 - Dynamic Problem I 
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
+|:-------:|:--------------------|:------------:|---------------:|
+|  168    | BurstBalloons       |[168](BurstBalloon.java)| Hard | 
