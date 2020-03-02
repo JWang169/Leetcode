@@ -57,4 +57,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 |  3    | Coins in a Line II         |[395](./Java/CoinsinaLineII.java)    | Medium | 
 |  4    | Coins in a Line  |[394](./Java/CoinsinaLine.java)  | Medium |
 |  5    | Backpack II  |[125](./Java/BackpackII.java)  | Medium | 
+|  5    | Edit Distance  |[119](./Java/EditDistance.java)  | Medium | 
+
+
 |  0    | Interleaving String     |[29](./Java/InterleavingString.java)  | Medium | DP / Recursion | in class | 
