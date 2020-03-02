@@ -62,7 +62,7 @@ Data Structure and Algorithms
 |  29    | Interleaving String     |[Java](./Java/InterleavingString.java)  | Medium | DP / Recursion | in class | 
 
 
-#### 0 - Where it starts ::
+#### 0 - Where it starts  :muscle::muscle::muscle:
 |      __Title__      |       __Solution__      |   __Tags__ |__Notes__|
 |:--------------------|:-----------------------:|:--------------:|:------------:|
 |Watering Flowers 2.0|| New Grad, 2019|
