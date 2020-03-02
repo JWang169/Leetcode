@@ -31,7 +31,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 ### Ladder - Advanced Algorithm 
 
 #### 5 - Dynamic Problem I 
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Note4myself__ |
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
 |:-------:|:--------------------|:------------:|:--------------:|:------------:|:---------------|
 |  1    | Longest Continuous Increasing Subsequence |[397](./Java/MinimumPathSum.java)| Easy | 
 |  2    | Minimum Path Sum    |[110](./Java/LongestIncreasingContinuousSubsequence.java)| Easy | 
@@ -59,3 +59,10 @@ Data Structure and Algorithms - Lintcode Solution in Java
 |  5    | Backpack II  |[125](./Java/BackpackII.java)  | Medium | 
 |  5    | Edit Distance  |[119](./Java/EditDistance.java)  | Medium | 
 |  0    | Interleaving String     |[29](./Java/InterleavingString.java)  | Medium | DP / Recursion | in class | 
+
+
+#### 0 - Where it starts
+|      __Title__      |       __Solution__      |   __Tags__ |__Notes__|
+|:--------------------|:-----------------------:|:--------------:|:------------:|
+|Watering Flowers 2.0|| New Grad, 2019|
+
