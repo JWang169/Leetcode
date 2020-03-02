@@ -5,25 +5,25 @@ Data Structure and Algorithms - Lintcode Solution in Java
 ### Ladder - Algorithm 
 ----
 #### 1 - Defeat the Algorithm Interview 
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | 
-|:-------:|:--------------------|:-----------:|:---------------:|:------------:|
-|  627    | Longest Palindrome  |[627](LongestPalindrome.java)| Easy | HashMap |
-|  13     | Implement strStr    |[13](StrStr.java)| Easy | String |
-|  415    | Valid Palindrome    |[415](ValidPalindrome.java)| Medium | Character |
-|  200    | Longest Palindrome Substring  |[200](LongestPalindromicSubstring.java)| Medium | DP |
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
+|:-------:|:--------------------|:-----------:|:---------------:|:------------:|:---------------|
+|  1    | Longest Palindrome  |[627](./Java/LongestPalindrome.java)| Easy | HashMap |
+|  2     | Implement strStr    |[13](./Java/StrStr.java)| Easy | String |
+|  3    | Valid Palindrome    |[415](./Java/ValidPalindrome.java)| Medium | Character |
+|  4    | Longest Palindrome Substring  |[200](./Java/LongestPalindromicSubstring.java)| Medium | DP |
 
 #### 2 - Breadth First Search 
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
-|:-------:|:--------------------|:------------:|:---------------:|
-|  433    | Number of Islands   |[433](NumIslands.java)| Easy | 
-|  69     | Binary Tree Level Order Traversal |[69](BinaryTreeLevelOrderTraversal.java)| Easy | 
-|  615    | Course Schedule     |[615](CourseSchedule.java)| Medium | 
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ |  __Note4myself__ |
+|:-------:|:--------------------|:------------:|:---------------:|:---------------|
+|  1    | Number of Islands   |[433](./Java/NumIslands.java)| Easy | 
+|  2     | Binary Tree Level Order Traversal |[69](BinaryTreeLevelOrderTraversal.java)| Easy | Topological sort,  Queue|
+|  3    | Course Schedule     |[615](./Java/CourseSchedule.java)| Medium | 
 
 
 
 #### 3 - Binary Search 
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
-|:-------:|:--------------------|:------------:|:---------------:|
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Note4myself__ |
+|:-------:|:--------------------|:------------:|:---------------:|:------------:|:--------------|
 
 
 
@@ -31,28 +31,30 @@ Data Structure and Algorithms - Lintcode Solution in Java
 ### Ladder - Advanced Algorithm 
 
 #### 5 - Dynamic Problem I 
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
-|:-------:|:--------------------|:------------:|:--------------:|
-|  397    | Longest Continuous Increasing Subsequence |[397](MinimumPathSum.java)| Easy | 
-|  110    | Minimum Path Sum    |[110](LongestIncreasingContinuousSubsequence.java)| Easy | 
-|  41     | Maximum Subarray.   |[41](MaximumSubarray.java)| Easy | 
-|  152    | Decode Ways         |[152](DecodeWays.java)  | Medium | 
-|  436    | Maximal Square      |[436](MaximalSquare.java)  | Medium | 
-|  200    | Longest Palindromic Substring      |[200](LongestPalindromicSubstring.java)  | Medium | 
-|  395    | Coins in a Line II     |[395](CoinsinaLineII.java)  | Medium | 
-|  394    | Coins in a Line     |[394](CoinsinaLine.java)  | Medium | 
-|  392    | House Robber     |[392](HouseRobber.java)  | Medium | 
-|  191    | Max Product Subarray     |[191](MaxProductSubarray.java)  | Medium | 
-|  76     | Longest Increasing Subsequence     |[76](LongestIncreasingSubsequence.java)  | Medium |
-|  676    | Decode Ways II        |[676](DecodeWaysII.java)  | Hard |  
-|  168    | BurstBalloons       |[168](BurstBalloon.java)| Hard | 
-|  430    | Scramble String     |[430](ScrambleString.java)  | Hard | 
-|  398    | Longest Continuous Increasing Subsequence II     |[398](LongestContinuousIncreasingSubsequenceII.java)  | Hard |
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Note4myself__ |
+|:-------:|:--------------------|:------------:|:--------------:|:------------:|:---------------|
+|  1    | Longest Continuous Increasing Subsequence |[397](./Java/MinimumPathSum.java)| Easy | 
+|  2    | Minimum Path Sum    |[110](./Java/LongestIncreasingContinuousSubsequence.java)| Easy | 
+|  3     | Maximum Subarray.   |[41](./Java/MaximumSubarray.java)| Easy | 
+|  4    | Decode Ways         |[152](./Java/DecodeWays.java)  | Medium | 
+|  5    | Maximal Square      |[436](./Java/MaximalSquare.java)  | Medium | 
+|  6    | Longest Palindromic Substring      |[200](./Java/LongestPalindromicSubstring.java)  | Medium | 
+|  7    | Coins in a Line II     |[395](./ava/CoinsinaLineII.java)  | Medium | 
+|  8    | Coins in a Line     |[394](./Java/CoinsinaLine.java)  | Medium | 
+|  9    | House Robber     |[392](./Java/HouseRobber.java)  | Medium | 
+|  10    | Max Product Subarray     |[191](.Java/MaxProductSubarray.java)  | Medium | 
+|  11     | Longest Increasing Subsequence     |[76](./Java/LongestIncreasingSubsequence.java)  | Medium |
+|  12    | Decode Ways II        |[676](./Java/DecodeWaysII.java)  | Hard |  
+|  13    | BurstBalloons       |[168](./Java/BurstBalloon.java)| Hard | 
+|  14    | Scramble String     |[430](./Java/ScrambleString.java)  | Hard | 
+|  15    | Longest Continuous Increasing Subsequence II     |[398](./Java/LongestContinuousIncreasingSubsequenceII.java)  | Hard |
 
 #### 6 - Dynamic Problem II
-| __No.__ |      __Title__      |       __Solution__      | __Difficulty__ | 
-|:-------:|:--------------------|:-----------------------:|:--------------:|
-|  593    | Stone Game II       |[593](StoneGameII.java)  | Medium | 
-|  476    | Stone Game          |[476](StoneGame.java)    | Medium | 
-|  395    | Coins in a Line II  |[395](CoinsinaLineII.java)  | Medium | 
-
+| __No.__ |      __Title__      |       __Solution__      | __Difficulty__ |  __Tags__ |__Note4myself__|
+|:-------:|:--------------------|:-----------------------:|:--------------:|:------------:|:--------------|
+|  1    | Stone Game II       |[593](./Java/StoneGameII.java)  | Medium | 
+|  2    | Stone Game          |[476](./Java/StoneGame.java)  | Medium | 
+|  3    | Coins in a Line II         |[395](./Java/CoinsinaLineII.java)    | Medium | 
+|  4    | Coins in a Line  |[394](./Java/CoinsinaLine.java)  | Medium |
+|  5    | Backpack II  |[125](./Java/BackpackII.java)  | Medium | 
+|  0    | Interleaving String     |[29](./Java/InterleavingString.java)  | Medium | DP / Recursion | in class | 
