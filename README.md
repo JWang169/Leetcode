@@ -16,7 +16,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
 |:-------:|:--------------------|:------------:|:---------------:|
 |  433    | Number of Islands   |[433](NumIslands.java)| Easy | 
-|  69     | Longest Palindrome  |[69](LongestPalindrome.java)| Easy | 
+|  69     | Binary Tree Level Order Traversal |[69](BinaryTreeLevelOrderTraversal.java)| Easy | 
 |  615    | Course Schedule     |[615](CourseSchedule.java)| Medium | 
 
 
