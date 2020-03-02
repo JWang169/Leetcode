@@ -11,8 +11,3 @@ Progress in completing the Ladders
 |  Daily     | 22    | |
 |  Total    | 22  |Java is so weird. |
 -------
-| __Day 2.__ |           |      |
-|:-------:|:--------------------:|:--------------------:|
-|  Goal      | Dynamic Problems II   | |
-|  Daily     |    | |
-|  Total    |   | |
