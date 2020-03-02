@@ -9,7 +9,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 |:-------:|:--------------------|:------------:|---------------:|
 |  627    | Longest Palindrome  |[627](LongestPalindrome.java)| Easy | 
 |  13     | Implement strStr    |[13](StrStr.java)| Easy | 
-|  415    | Valid Palindrome    |[415](ValidPalindrome().java)| Medium | 
+|  415    | Valid Palindrome    |[415](ValidPalindrome.java)| Medium | 
 |  200    | LongestPalindrome   |[200](longestPalindrome.java)| Medium | 
 
 #### 2 - Breadth First Search 
