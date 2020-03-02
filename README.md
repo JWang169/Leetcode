@@ -8,7 +8,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
 |:-------:|:--------------------|:------------:|---------------:|
 |  627    | Longest Palindrome  |[627](LongestPalindrome.java)| Easy | 
-|  13     | Implement strStr()  |[13](StrStr.java)| Easy | 
+|  13     | Implement strStr    |[13](StrStr.java)| Easy | 
 |  415    | Valid Palindrome    |[415](ValidPalindrome().java)| Medium | 
 |  200    | LongestPalindrome   |[200](longestPalindrome.java)| Medium | 
 
