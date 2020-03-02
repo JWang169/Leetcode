@@ -13,7 +13,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 |  4    | Longest Palindrome Substring  |[200](./Java/LongestPalindromicSubstring.java)| Medium | DP |
 
 #### 2 - Breadth First Search 
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ |  __Note4myself__ |
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ |  __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:---------------|
 |  1    | Number of Islands   |[433](./Java/NumIslands.java)| Easy | 
 |  2     | Binary Tree Level Order Traversal |[69](BinaryTreeLevelOrderTraversal.java)| Easy | Topological sort,  Queue|
@@ -22,7 +22,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 
 
 #### 3 - Binary Search 
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Note4myself__ |
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:------------:|:--------------|
 
 
@@ -50,7 +50,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 |  15    | Longest Continuous Increasing Subsequence II     |[398](./Java/LongestContinuousIncreasingSubsequenceII.java)  | Hard |
 
 #### 6 - Dynamic Problem II
-| __No.__ |      __Title__      |       __Solution__      | __Difficulty__ |  __Tags__ |__Note4myself__|
+| __No.__ |      __Title__      |       __Solution__      | __Difficulty__ |  __Tags__ |__Notes__|
 |:-------:|:--------------------|:-----------------------:|:--------------:|:------------:|:--------------|
 |  1    | Stone Game II       |[593](./Java/StoneGameII.java)  | Medium | 
 |  2    | Stone Game          |[476](./Java/StoneGame.java)  | Medium | 
@@ -58,6 +58,4 @@ Data Structure and Algorithms - Lintcode Solution in Java
 |  4    | Coins in a Line  |[394](./Java/CoinsinaLine.java)  | Medium |
 |  5    | Backpack II  |[125](./Java/BackpackII.java)  | Medium | 
 |  5    | Edit Distance  |[119](./Java/EditDistance.java)  | Medium | 
-
-
 |  0    | Interleaving String     |[29](./Java/InterleavingString.java)  | Medium | DP / Recursion | in class | 
