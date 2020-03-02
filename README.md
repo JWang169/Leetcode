@@ -6,7 +6,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 ----
 #### 1 - Defeat the Algorithm Interview 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | 
-|:-------:|:--------------------|:------------:|---------------:|:------------:|
+|:-------:|:--------------------|:-----------:|:---------------:|:------------:|
 |  627    | Longest Palindrome  |[627](LongestPalindrome.java)| Easy | HashMap |
 |  13     | Implement strStr    |[13](StrStr.java)| Easy | String |
 |  415    | Valid Palindrome    |[415](ValidPalindrome.java)| Medium | Character |
@@ -14,8 +14,8 @@ Data Structure and Algorithms - Lintcode Solution in Java
 
 #### 2 - Breadth First Search 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
-|:-------:|:--------------------|:------------:|---------------:|
-|  433    | Number of Islands   |[433](numIslands.java)| Easy | 
+|:-------:|:--------------------|:------------:|:---------------:|
+|  433    | Number of Islands   |[433](NumIslands.java)| Easy | 
 |  69     | Longest Palindrome  |[69](LongestPalindrome.java)| Easy | 
 |  615    | Course Schedule     |[615](CourseSchedule.java)| Medium | 
 
@@ -23,7 +23,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 
 #### 3 - Binary Search 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
-|:-------:|:--------------------|:------------:|---------------:|
+|:-------:|:--------------------|:------------:|:---------------:|
 
 
 
@@ -32,7 +32,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 
 #### 5 - Dynamic Problem I 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
-|:-------:|:--------------------|:------------:|---------------:|
+|:-------:|:--------------------|:------------:|:--------------:|
 |  397    | Longest Continuous Increasing Subsequence |[397](MinimumPathSum.java)| Easy | 
 |  110    | Minimum Path Sum    |[110](LongestIncreasingContinuousSubsequence.java)| Easy | 
 |  41     | Maximum Subarray.   |[41](MaximumSubarray.java)| Easy | 
@@ -51,7 +51,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 
 #### 6 - Dynamic Problem II
 | __No.__ |      __Title__      |       __Solution__      | __Difficulty__ | 
-|:-------:|:--------------------|:-----------------------:|---------------:|
+|:-------:|:--------------------|:-----------------------:|:--------------:|
 |  593    | Stone Game II       |[593](StoneGameII.java)  | Medium | 
 |  476    | Stone Game          |[476](StoneGame.java)    | Medium | 
 |  395    | Coins in a Line II  |[395](CoinsinaLineII.java)  | Medium | 
