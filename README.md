@@ -4,10 +4,27 @@ Data Structure and Algorithms - Lintcode Solution in Java
 
 ### Ladder - Algorithm 
 ----
-#### 1- Defeat the Algorithm Interview 
+#### 1 - Defeat the Algorithm Interview 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
 |:-------:|:--------------------|:------------:|---------------:|
 |  627    | Longest Palindrome  |[627](LongestPalindrome.java)| Easy | 
+|  13     | Implement strStr()  |[13](StrStr().java)| Easy | 
+|  415    | Valid Palindrome    |[415](ValidPalindrome().java)| Medium | 
+|  200    | LongestPalindrome   |[200](longestPalindrome.java)| Medium | 
+
+#### 2 - Breadth First Search 
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
+|:-------:|:--------------------|:------------:|---------------:|
+|  433    | Number of Islands   |[433](numIslands.java)| Easy | 
+|  69     | Longest Palindrome  |[69](LongestPalindrome.java)| Easy | 
+|  615    | Course Schedule     |[615](CourseSchedule.java)| Medium | 
+
+
+
+#### 3 - Binary Search 
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
+|:-------:|:--------------------|:------------:|---------------:|
+
 
 
 -----
