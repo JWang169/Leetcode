@@ -32,4 +32,10 @@ Data Structure and Algorithms - Lintcode Solution in Java
 |  430    | Scramble String     |[430](ScrambleString.java)  | Hard | 
 |  398     | Longest Continuous Increasing Subsequence II     |[398](LongestContinuousIncreasingSubsequenceII.java)  | Hard |
 
+#### 6 - Dynamic Problem II
+| __No.__ |      __Title__      |       __Solution__      | __Difficulty__ | 
+|:-------:|:--------------------|:-----------------------:|---------------:|
+|  593    | Stone Game II       |[593](StoneGameII.java)  | Medium | 
+|  476    | Stone Game          |[476](StoneGame.java)    | Medium | 
+|  395    | Coins in a Line II  |[395](CoinsinaLineII.java)  | Medium | 
 
