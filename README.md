@@ -10,7 +10,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 |  627    | Longest Palindrome  |[627](LongestPalindrome.java)| Easy | 
 |  13     | Implement strStr    |[13](StrStr.java)| Easy | 
 |  415    | Valid Palindrome    |[415](ValidPalindrome.java)| Medium | 
-|  200    | LongestPalindrome   |[200](longestPalindrome.java)| Medium | 
+|  200    | Longest Palindrome Substring  |[200](LongestPalindromicSubstring.java)| Medium | 
 
 #### 2 - Breadth First Search 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
@@ -47,7 +47,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 |  676    | Decode Ways II        |[676](DecodeWaysII.java)  | Hard |  
 |  168    | BurstBalloons       |[168](BurstBalloon.java)| Hard | 
 |  430    | Scramble String     |[430](ScrambleString.java)  | Hard | 
-|  398     | Longest Continuous Increasing Subsequence II     |[398](LongestContinuousIncreasingSubsequenceII.java)  | Hard |
+|  398    | Longest Continuous Increasing Subsequence II     |[398](LongestContinuousIncreasingSubsequenceII.java)  | Hard |
 
 #### 6 - Dynamic Problem II
 | __No.__ |      __Title__      |       __Solution__      | __Difficulty__ | 
