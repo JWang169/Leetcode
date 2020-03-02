@@ -6,7 +6,7 @@ Data Structure and Algorithms - Lintcode Solution in Java
 ----
 #### 1 - Defeat the Algorithm Interview 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | 
-|:-------:|:--------------------|:------------:|---------------:|
+|:-------:|:--------------------|:------------:|---------------:|:------------:|
 |  627    | Longest Palindrome  |[627](LongestPalindrome.java)| Easy | HashMap |
 |  13     | Implement strStr    |[13](StrStr.java)| Easy | String |
 |  415    | Valid Palindrome    |[415](ValidPalindrome.java)| Medium | Character |
