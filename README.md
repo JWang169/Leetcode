@@ -5,12 +5,12 @@ Data Structure and Algorithms - Lintcode Solution in Java
 ### Ladder - Algorithm 
 ----
 #### 1 - Defeat the Algorithm Interview 
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | 
 |:-------:|:--------------------|:------------:|---------------:|
-|  627    | Longest Palindrome  |[627](LongestPalindrome.java)| Easy | 
-|  13     | Implement strStr    |[13](StrStr.java)| Easy | 
-|  415    | Valid Palindrome    |[415](ValidPalindrome.java)| Medium | 
-|  200    | Longest Palindrome Substring  |[200](LongestPalindromicSubstring.java)| Medium | 
+|  627    | Longest Palindrome  |[627](LongestPalindrome.java)| Easy | HashMap |
+|  13     | Implement strStr    |[13](StrStr.java)| Easy | String |
+|  415    | Valid Palindrome    |[415](ValidPalindrome.java)| Medium | Character |
+|  200    | Longest Palindrome Substring  |[200](LongestPalindromicSubstring.java)| Medium | DP |
 
 #### 2 - Breadth First Search 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | 
