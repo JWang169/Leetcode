@@ -1,6 +1,6 @@
 Data Structure and Algorithms 
 ==========================================================
-![](static/dragonMaid.gif)
+![](static/Gifs/dragonMaid.gif)
 
 ## Lintcode Solution 
 ### Ladder - Algorithm 
