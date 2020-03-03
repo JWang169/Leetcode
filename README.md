@@ -5,9 +5,9 @@ Data Structure and Algorithms
 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
 |:-------:|:--------------------|:-----------:|:---------------:|:------------|:---------------|
-|  973    | K Closest Points to Origin |[Python](./Python/KClosestPointstoOrigin.py)| Medium | Kth: Heap/Quick Select  |:star: return list(map(lambda x: x[1], h))|
-|  1007    | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array | :star: | 
-|  1161    | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | BSF | :star: |
+|  973:star:    | K Closest Points to Origin |[Python](./Python/KClosestPointstoOrigin.py)| Medium |Kth: Heap / Quick Select  |list(map(lambda x: x[1], h))|
+|  1007:star:    | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array |  | 
+|  1161  :star:  | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | BSF |  |
 
 
 ## Lintcode Solution 
