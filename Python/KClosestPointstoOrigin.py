@@ -1,4 +1,4 @@
-import heapq
+ Product of the Last K Numbersimport heapq
 class Solution(object):
     def kClosest(self, points, K):
         """
