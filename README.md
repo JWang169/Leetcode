@@ -8,6 +8,7 @@ Data Structure and Algorithms
 |:star:973  | K Closest Points to Origin |[Python](./Python/KClosestPointstoOrigin.py)| Medium |Kth: Heap / Quick Select  |list(map(lambda x: x[1], h))|
 |:star:1007 | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array |  | 
 |:star:1161 | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | BSF |  |
+|:telephone:1352 | Product of the Last K Numbers|[Python](./Python/1352.py)| Medium |  |  |
 
 
 ## Lintcode Solution 
