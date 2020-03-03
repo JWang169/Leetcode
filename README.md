@@ -1,6 +1,13 @@
 Data Structure and Algorithms 
 ==========================================================
 ![](static/Gifs/dragonMaid.gif)
+## Leetcode Solution 
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
+|:-------:|:--------------------|:-----------:|:---------------:|:------------:|:---------------|
+|  1007    | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | | :star: |
+|  1161    | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | | :star: |
+
 
 ## Lintcode Solution 
 ### Ladder - Algorithm 
