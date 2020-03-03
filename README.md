@@ -4,10 +4,10 @@ Data Structure and Algorithms
 ## Leetcode Solution 
 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
-|:-------:|:--------------------|:-----------:|:---------------:|:------------:|:---------------|
-|  973    | K Closest Points to Origin |[Python](./Python/KClosestPointstoOrigin.py)| Medium | :star: |return list(map(lambda x: x[1], h))|
-|  1007    | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | :star: | |
-|  1161    | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | :star: | |
+|:-------:|:--------------------|:-----------:|:---------------:|:------------|:---------------|
+|  973    | K Closest Points to Origin |[Python](./Python/KClosestPointstoOrigin.py)| Medium | Kth: Heap/Quick Select  |:star: return list(map(lambda x: x[1], h))|
+|  1007    | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array | :star: | 
+|  1161    | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | BSF | :star: |
 
 
 ## Lintcode Solution 
@@ -15,7 +15,7 @@ Data Structure and Algorithms
 ----
 #### 1 - Defeat the Algorithm Interview 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
-|:-------:|:--------------------|:-----------:|:---------------:|:------------:|:---------------|
+|:-------:|:--------------------|:-----------:|:---------------:|:------------|:---------------|
 |  627    | Longest Palindrome  |[Java](./Java/LongestPalindrome.java)| Easy | HashMap |
 |  13     | Implement strStr    |[Java](./Java/StrStr.java)| Easy | String |
 |  415    | Valid Palindrome    |[Java](./Java/ValidPalindrome.java)| Medium | Character |
@@ -32,7 +32,7 @@ Data Structure and Algorithms
 
 #### 3 - Binary Search 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
-|:-------:|:--------------------|:------------:|:---------------:|:------------:|:--------------|
+|:-------:|:--------------------|:------------:|:---------------:|:------------|:--------------|
 
 
 
@@ -41,7 +41,7 @@ Data Structure and Algorithms
 
 #### 5 - Dynamic Problem I 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
-|:-------:|:--------------------|:------------:|:--------------:|:------------:|:---------------|
+|:-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
 |  397    | Longest Continuous Increasing Subsequence |[Java](./Java/MinimumPathSum.java)| Easy | 
 |  110    | Minimum Path Sum    |[Java](./Java/LongestIncreasingContinuousSubsequence.java)| Easy | 
 |  41     | Maximum Subarray.   |[Java](./Java/MaximumSubarray.java)| Easy | 
@@ -72,6 +72,6 @@ Data Structure and Algorithms
 
 #### 0 - Where it starts  :muscle::muscle::muscle:
 |      __Title__      |       __Solution__      |   __Tags__ |__Notes__|
-|:--------------------|:-----------------------:|:--------------:|:------------:|
+|:--------------------|:-----------------------:|:--------------|:------------:|
 |Watering Flowers 2.0|| New Grad, 2019|
 
