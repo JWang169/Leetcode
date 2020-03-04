@@ -9,6 +9,8 @@ Data Structure and Algorithms
 |:star:1007 | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array |  | 
 |:star:1161 | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | BSF |  |
 |:telephone:1352 | Product of the Last K Numbers|[Python](./Python/1352.py)| Medium |  |  |
+|:star:904 | Fruit Into Baskets|[Python](./Python/904.py)| Medium | sliding window  |  |
+|:star:929 | Unique Email Addresses |[Python](./Python/929.py)| Easy | String |  |
 |:star:975 | Odd Even Jump|[Python](./Python/975.py)| Hard |  |  |
 
 
