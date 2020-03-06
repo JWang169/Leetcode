@@ -11,7 +11,11 @@ Data Structure and Algorithms
 |:telephone:1352 | Product of the Last K Numbers|[Python](./Python/1352.py)| Medium |  |  |
 |:star:904 | Fruit Into Baskets|[Python](./Python/904.py)| Medium | sliding window  |  |
 |:star:929 | Unique Email Addresses |[Python](./Python/929.py)| Easy | String |  |
+|:star:299 | Bulls and Cows |[Python](./Python/299.py)| Easy |  |  |
 |:star:975 | Odd Even Jump|[Python](./Python/975.py)| Hard |  |  |
+| 459 | Repeated Substring Pattern|[Python](./Python/459.py)| Easy | String |  |
+| 951 | Flip Equivalent Binary Trees |[Python](./Python/951.py)| Medium | Binary Tree / Divide&Conquer|  |
+
 
 
 ## Lintcode Solution 
