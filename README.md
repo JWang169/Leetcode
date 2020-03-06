@@ -15,6 +15,8 @@ Data Structure and Algorithms
 |:star:975 | Odd Even Jump|[Python](./Python/975.py)| Hard |  |  |
 | 459 | Repeated Substring Pattern|[Python](./Python/459.py)| Easy | String |  |
 | 951 | Flip Equivalent Binary Trees |[Python](./Python/951.py)| Medium | Binary Tree / Divide&Conquer|  |
+| 1110 | Delete Nodes And Return Forest |[Python](./Python/1110.py)| Medium | BFS |  |
+| 889 | Construct Binary Tree from Preorder and Postorder Traversal |[Python](./Python/889.py)| Medium | Binary Tree | pre/post order |
 
 
 
