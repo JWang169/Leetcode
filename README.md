@@ -54,10 +54,16 @@ Data Structure and Algorithms
 -----
 ### Ladder - Advanced Algorithm 
 
-#### 5 - Union Find & Trie
+#### 2 - Union Find & Trie
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
 |:-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
-|  589    | Connecting Graph |[Python](./Python/ladder598.py)| Medium | 
+|  1070   | Accounts Merge   |[Python](./Python/ladder1070.py)| Medium |
+|  589    | Connecting Graph |[Python](./Python/ladder589.py)| Medium |
+|  590    | Connecting Graph II |[Python](./Python/ladder590.py)| Medium |
+|  591    | Connecting Graph III|[Python](./Python/ladder591.py)| Medium |
+|  178    | Graph Valid Tree |[Python](./Python/ladder178.py)| Medium | 
+
+
 
 
 
