@@ -9,17 +9,21 @@ Data Structure and Algorithms
 |:star:1007 | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array |  | 
 |:star:1161 | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | BSF |  |
 |:telephone:1352 | Product of the Last K Numbers|[Python](./Python/1352.py)| Medium |  |  |
-|:star:904 | Fruit Into Baskets|[Python](./Python/904.py)| Medium | sliding window  |  |
+|:star:904 | Fruit Into Baskets|[Python](./Python/904.py)| Medium | Sliding Window  |  |
 |:star:929 | Unique Email Addresses |[Python](./Python/929.py)| Easy | String |  |
 |:star:299 | Bulls and Cows |[Python](./Python/299.py)| Easy |  |  |
 |:star:975 | Odd Even Jump|[Python](./Python/975.py)| Hard |  |  |
 | 459 | Repeated Substring Pattern|[Python](./Python/459.py)| Easy | String |  |
 | 951 | Flip Equivalent Binary Trees |[Python](./Python/951.py)| Medium | Binary Tree / Divide&Conquer|  |
 | 1110 | Delete Nodes And Return Forest |[Python](./Python/1110.py)| Medium | BFS |  |
-| :heavy_exclamation_mark:889 | Construct Binary Tree from Preorder and Postorder Traversal |[Python](./Python/889.py)| Medium | Binary Tree | pre/post order |
-| 1219 | Path with Maximum Gold |[Python](./Python/1219.py)| Medium | search |  |
+| :heavy_exclamation_mark:889 | Construct Binary Tree from Preorder and Postorder Traversal |[Python](./Python/889.py)| Medium | Binary Tree | Pre/Post order |
+| 1219 | Path with Maximum Gold |[Python](./Python/1219.py)| Medium | Search |  |
 | 362 | Design Hit Counter |[Python](./Python/362.py)| Medium | queue |  |
-| 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | stack |  |
+| 642 | Design Search Autocomplete System |[Python](./Python/642.py)| Hard | Heap/Queue | Edge Case |
+| 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |  |
+| 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
+| :heavy_exclamation_mark:1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
+
 
 ## Lintcode Solution 
 ### Ladder - Algorithm 
@@ -36,7 +40,7 @@ Data Structure and Algorithms
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ |  __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:---------------|
 |  433    | Number of Islands   |[Java](./Java/NumIslands.java)| Easy | 
-|  69     | Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)| Easy | Topological sort,  Queue|
+|  69     | Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)| Easy | Topological Sort,  Queue|
 |  615    | Course Schedule     |[Java](./Java/CourseSchedule.java)| Medium | 
 
 
@@ -49,6 +53,13 @@ Data Structure and Algorithms
 
 -----
 ### Ladder - Advanced Algorithm 
+
+#### 5 - Union Find & Trie
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|:-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+|  589    | Connecting Graph |[Python](./Python/ladder598.py)| Medium | 
+
+
 
 #### 5 - Dynamic Problem I 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
