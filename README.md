@@ -16,9 +16,10 @@ Data Structure and Algorithms
 | 459 | Repeated Substring Pattern|[Python](./Python/459.py)| Easy | String |  |
 | 951 | Flip Equivalent Binary Trees |[Python](./Python/951.py)| Medium | Binary Tree / Divide&Conquer|  |
 | 1110 | Delete Nodes And Return Forest |[Python](./Python/1110.py)| Medium | BFS |  |
-| 889 | Construct Binary Tree from Preorder and Postorder Traversal |[Python](./Python/889.py)| Medium | Binary Tree | pre/post order |
-
-
+| :heavy_exclamation_mark:889 | Construct Binary Tree from Preorder and Postorder Traversal |[Python](./Python/889.py)| Medium | Binary Tree | pre/post order |
+| 1219 | Path with Maximum Gold |[Python](./Python/1219.py)| Medium | search |  |
+| 362 | Design Hit Counter |[Python](./Python/362.py)| Medium | queue |  |
+| 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | stack |  |
 
 ## Lintcode Solution 
 ### Ladder - Algorithm 
