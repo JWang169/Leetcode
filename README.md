@@ -89,12 +89,12 @@ Data Structure and Algorithms
 #### 6 - Dynamic Problem II
 | __No.__ |      __Title__      |       __Solution__      | __Difficulty__ |  __Tags__ |__Notes__|
 |:-------:|:--------------------|:-----------------------:|:--------------:|:------------:|:--------------|
-|  593    | Stone Game II       |[Java](./Java/StoneGameII.java)  | Medium | 
-|  476    | Stone Game          |[Java](./Java/StoneGame.java)  | Medium | 
+|  593    | Stone Game II       |  | Medium | 
+|  476    | Stone Game          || Medium | 
 |  395    | Coins in a Line II         |[Java](./Java/CoinsinaLineII.java)    | Medium | 
 |  394    | Coins in a Line  |[Java](./Java/CoinsinaLine.java)  | Medium |
 |  92     | Backpack I  |[Python](./Python/ladder92.py) | Medium | 
-|  125    | Backpack II  |[Java](./Java/BackpackII.java), [Python](./Python/ladder125.py) | Medium | 
+|  125    | Backpack II  | [Python](./Python/ladder125.py) | Medium | 
 |  440    | Backpack III  | [Python](./Python/ladder440.py) | Medium | 
 |  119    | Edit Distance  |[Java](./Java/EditDistance.java)  | Medium | 
 |  29    | Interleaving String     |[Java](./Java/InterleavingString.java)  | Medium | DP / Recursion | in class | 
