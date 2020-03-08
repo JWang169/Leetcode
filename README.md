@@ -89,15 +89,26 @@ Data Structure and Algorithms
 #### 6 - Dynamic Problem II
 | __No.__ |      __Title__      |       __Solution__      | __Difficulty__ |  __Tags__ |__Notes__|
 |:-------:|:--------------------|:-----------------------:|:--------------:|:------------:|:--------------|
-|  593    | Stone Game II       |  | Medium | 
-|  476    | Stone Game          || Medium | 
-|  395    | Coins in a Line II         |[Java](./Java/CoinsinaLineII.java)    | Medium | 
-|  394    | Coins in a Line  |[Java](./Java/CoinsinaLine.java)  | Medium |
+|  :heavy_exclamation_mark:593    | Stone Game II       | [Python](./Python/ladder593.py) | Medium | 
+|  :heavy_exclamation_mark:476    | Stone Game          |[Python](./Python/ladder476.py)  | Medium | 
+| :heavy_exclamation_mark: 395    | Coins in a Line II         |[Java](./Java/CoinsinaLineII.java)    | Medium | 
+| :heavy_exclamation_mark: 394    | Coins in a Line  |[Java](./Java/CoinsinaLine.java)  | Medium |
 |  92     | Backpack I  |[Python](./Python/ladder92.py) | Medium | 
 |  125    | Backpack II  | [Python](./Python/ladder125.py) | Medium | 
 |  440    | Backpack III  | [Python](./Python/ladder440.py) | Medium | 
 |  119    | Edit Distance  |[Java](./Java/EditDistance.java)  | Medium | 
 |  29    | Interleaving String     |[Java](./Java/InterleavingString.java)  | Medium | DP / Recursion | in class | 
+| :heavy_exclamation_mark:396    | Coins in a Line III        |[Python](./Python/ladder596.py)) | Hard|
+| :heavy_exclamation_mark:623    | K Edit Distance  |[Python](./Python/ladder623.py)  | Hard | 119 follow-up/Trie | 
+| :heavy_exclamation_mark:89   | K Sum |[Python](./Python/ladder89.py)  | Hard | DP[][][] | 
+
+
+#### 7 - Follow Up
+| __No.__ |      __Title__      |       __Solution__      | __Difficulty__ |  __Tags__ |__Notes__|
+|:-------:|:--------------------|:-----------------------:|:--------------:|:------------:|:--------------|
+|  138    | Subarray Sum        | [Python](./Python/ladder138.py)  | Easy | Prefix Sum & Hashmap
+|  139    | Subarray Sum Closest       | [Python](./Python/ladder139.py)  | Medium | 138 follow up
+|  404    | Subarray Sum II       | [Python](./Python/ladder404.py)  | Medium | Two Pointers| Edge case j == rStart
 
 
 #### 0 - Where it starts  :muscle::muscle::muscle:
