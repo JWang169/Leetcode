@@ -64,6 +64,10 @@ Data Structure and Algorithms
 |  178    | Graph Valid Tree |[Python](./Python/ladder178.py)| Medium | 
 
 
+#### 3 - Stack, Deque, Heap
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+
 
 
 
@@ -108,7 +112,12 @@ Data Structure and Algorithms
 |:-------:|:--------------------|:-----------------------:|:--------------:|:------------:|:--------------|
 |  138    | Subarray Sum        | [Python](./Python/ladder138.py)  | Easy | Prefix Sum & Hashmap
 |  139    | Subarray Sum Closest       | [Python](./Python/ladder139.py)  | Medium | 138 follow up
-|  404    | Subarray Sum II       | [Python](./Python/ladder404.py)  | Medium | Two Pointers| Edge case j == rStart
+|  404    | Subarray Sum II     | [Python](./Python/ladder404.py)  | Medium | Two Pointers| Edge case j == rStart
+|  5      | Kth Largest Element | [Python](./Python/ladder5.py)  | Medium | QuickSelect| partition
+
+
+
+
 
 
 #### 0 - Where it starts  :muscle::muscle::muscle:
