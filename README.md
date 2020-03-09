@@ -110,11 +110,15 @@ Data Structure and Algorithms
 #### 7 - Follow Up
 | __No.__ |      __Title__      |       __Solution__      | __Difficulty__ |  __Tags__ |__Notes__|
 |:-------:|:--------------------|:-----------------------:|:--------------:|:------------:|:--------------|
+|  22    | Flatten List        | [Python](./Python/ladder22.py)  | Easy | | instance(object, type)
+|  528    | Flatten Nested List Iterator  | [Python](./Python/ladder528.py)  | Medium | | followup-22
+|  601    | Flatten 2D Vector  | [Python](./Python/ladder601.py)  |  Medium | | 
 |  138    | Subarray Sum        | [Python](./Python/ladder138.py)  | Easy | Prefix Sum & Hashmap
 |  139    | Subarray Sum Closest       | [Python](./Python/ladder139.py)  | Medium | 138 follow up
+|  402    | Continuous Subarray Sum | [Python](./Python/ladder402.py)  | Medium | Prefix Sum / Sliding window | careful with minIdx and left idx
 |  404    | Subarray Sum II     | [Python](./Python/ladder404.py)  | Medium | Two Pointers| Edge case j == rStart
 |  5      | Kth Largest Element | [Python](./Python/ladder5.py)  | Medium | QuickSelect| partition
-
+|  399    | Nuts & Bolts Problem | [Python](./Python/ladder399.py)  | Medium | QuickSelect | comparator
 
 
 
