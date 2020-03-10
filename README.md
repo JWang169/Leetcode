@@ -24,9 +24,13 @@ Data Structure and Algorithms
 | 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
 | :heavy_exclamation_mark:1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
 
+| 42 |Trapping Rain Water|[Java](./Java/ladder353.java)[Python](./Python/42.py)| Hard  | | |
+| 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |
+| 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py) [Java](./Java/ladder122.java) | Hard | Monotonic Stack |  |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
+| 394 | Decode String |[Java](./Java/ladder575.java)[Python](./Python/394.py)| Medium | Stack |  |
 
 ## Lintcode Solution 
 ### Ladder - Algorithm 
@@ -74,12 +78,12 @@ Data Structure and Algorithms
 #### 3 - Stack, Deque, Heap
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
 |-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
-|  575   | Decode String |[Java](./Java/ladder575.java)| Medium  | stack | StringBuilder, instanceof |
-|  363   | Trapping Rain Water|[Java](./Java/ladder353.java)| Medium  | | |
-|  12    | Min Stack |[Java](./Java/ladder12.java)| Medium  | | |
+|  575   | Decode String |[Java](./Java/ladder575.java) [Python](./Python/394.py)| Medium  | stack | StringBuilder, instanceof |
+|  363   | Trapping Rain Water|[Java](./Java/ladder353.java)[Python](./Python/42.py)| Medium  | | |
+|  12    | Min Stack |[Python](./Python/155.py)| Medium  | stack | |
 |  360   | Sliding Window Median |[Java](./Java/ladder360.java)| Hard | | |
-|  364   | Trapping Rain Water II |[Java](./Java/ladder354.java)| Hard | | |
-|  510   | Maximal Rectangle |[Java](./Java/ladder510.java)| Hard | | |
+|  364   | Trapping Rain Water II |[Python](./Python/407.py)| Hard | | |
+|  510   | Maximal Rectangle |[Python](./Python/85.py)| Hard | | |
 |  126   | Max Tree |[Java](./Java/ladder126.java)| Hard | | |
 |  122   | Largest Rectangle in Histogram |[Python](./Python/84.py) [Java](./Java/ladder122.java)| Hard |monotonic stack| O(n)
 
