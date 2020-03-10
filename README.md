@@ -24,6 +24,8 @@ Data Structure and Algorithms
 | 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
 | :heavy_exclamation_mark:1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
 
+| 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
+
 
 ## Lintcode Solution 
 ### Ladder - Algorithm 
@@ -49,6 +51,10 @@ Data Structure and Algorithms
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:------------|:--------------|
 
+#### 10 - Additional Level
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
+|:-------:|:--------------------|:------------:|:---------------:|:------------|:--------------|
+|  840    | Range Sum Query - Mutable |[Python](./Python/840.py)| Medium | Segment Tree|
 
 
 -----
