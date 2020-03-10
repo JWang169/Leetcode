@@ -3,16 +3,11 @@ Progress in completing the Ladders
 ![](static/dragonMaid.gif)
 
 
+堆： 
+	1. 解决动态求最大/最小值问题
+	2. 动态第K大/小的问题
+	3. 双堆解决动态中位数
 
-
-| __Day 1.__ |           |      |
-|:-------:|:--------------------:|:--------------------:|
-|  Goal      | Dynamic Problems I   | :100:|
-|  Daily     | 22    | |
-|  Total    | 22  |Java is so weird. |
--------
-| __Day 2.__ |           |      |
-|:-------:|:--------------------:|:--------------------:|
-|  Goal      | Dynamic Problems II   | |
-|  Daily     |    | |
-|  Total    |   | |
+栈：
+	1. 实现非递归
+	2. 单调栈解决找一个值左/有第一个比它大/小的值的问题 
