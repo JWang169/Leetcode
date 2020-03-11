@@ -2,9 +2,11 @@ Progress in completing the Ladders
 ==========================================================
 ![](static/dragonMaid.gif)
 
-Mar 9. follow up questions.<br>
+Mar 9
+-----
+follow up questions.<br>
 segment tree要再看一遍<br>
-博弈类dp太难了，这周内复习<br>
+博弈类dp太难了:scream: 还是滚动数组好<br>
 
 Mar 10
 -----
