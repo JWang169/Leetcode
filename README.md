@@ -32,9 +32,7 @@ Data Structure and Algorithms
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
-
-
-| 394 | Decode String |[Java](./Java/ladder575.java)[Python](./Python/394.py)| Medium | Stack |  |
+| 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
 
 ## Lintcode Solution 
 ### Ladder - Algorithm 
