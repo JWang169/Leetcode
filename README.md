@@ -24,12 +24,18 @@ Data Structure and Algorithms
 | 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
 | :heavy_exclamation_mark:1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
 
+
+
 | 42 |Trapping Rain Water|[Java](./Java/ladder353.java)[Python](./Python/42.py)| Hard  | | |
-| 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |
-| 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
-| 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
-| 84 |Largest Rectangle in Histogram |[Python](./Python/84.py) [Java](./Java/ladder122.java) | Hard | Monotonic Stack |  |
+| 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
+| 84 |Largest Rectangle in Histogram |[Python](./Python/84.py) [Java](./Java/ladder122.java) | Hard | 
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
+| 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
+| 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
+| 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
+| 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
+
+
 | 394 | Decode String |[Java](./Java/ladder575.java)[Python](./Python/394.py)| Medium | Stack |  |
 
 ## Lintcode Solution 
@@ -86,6 +92,7 @@ Data Structure and Algorithms
 |  510   | Maximal Rectangle |[Python](./Python/85.py)| Hard | | |
 |  126   | Max Tree |[Java](./Java/ladder126.java)| Hard | | |
 |  122   | Largest Rectangle in Histogram |[Python](./Python/84.py) [Java](./Java/ladder122.java)| Hard |monotonic stack| O(n)
+|  81   | Find Median from Data Stream |[Python](./Python/ladder81.py)| Hard | maxheap & minheap | 
 
 #### 5 - Dynamic Problem I 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
