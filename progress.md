@@ -2,9 +2,9 @@ Progress in completing the Ladders
 ==========================================================
 ![](static/dragonMaid.gif)
 
-Mar 10. 3刷 Heap/Stack tag. 
-monotonic stack： 递增递减判断。
-priority queue / heapq：需要remove就用Java写，python override sift好烦
+Mar 10. 3刷 Heap/Stack tag. <br>
+Monotonic Stack： 递增递减判断。<br>
+PriorityQueue / heapq：需要remove就用Java写，python override sift好烦
 
 堆：     
 1. 解决动态求最大/最小值问题
