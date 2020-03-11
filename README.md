@@ -61,10 +61,10 @@ Data Structure and Algorithms
 #### 5 - Dynamic Problem I 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
 |:-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
-|  397    | Longest Continuous Increasing Subsequence |[Java](./Java/MinimumPathSum.java)| Easy | 
-|  110    | Minimum Path Sum    |[Java](./Java/LongestIncreasingContinuousSubsequence.java)| Easy | 
-|  41     | Maximum Subarray.   |[Java](./Java/MaximumSubarray.java)| Easy | 
-|  152    | Decode Ways         |[Java](./Java/DecodeWays.java)  | Medium | 
+|  397    | Longest Continuous Increasing Subsequence |[Python](./Python/674.py)<br>[Java](./Java/MinimumPathSum.java)| Easy | 
+|  110    | Minimum Path Sum    |[Python](./Python/64.py)<br>[Java](./Java/LongestIncreasingContinuousSubsequence.java)| Easy | 
+|  41     | Maximum Subarray.   |[Python](./Python/53.py)<br>[Java](./Java/MaximumSubarray.java)| Easy | 
+|  152    | Decode Ways         |[Python](./Python/91.py)<br>[Java](./Java/DecodeWays.java)  | Medium | 
 |  436    | Maximal Square      |[Java](./Java/MaximalSquare.java)  | Medium | 
 |  200    | Longest Palindromic Substring      |[Java](./Java/LongestPalindromicSubstring.java)  | Medium | 
 |  395    | Coins in a Line II     |[Java](./ava/CoinsinaLineII.java)  | Medium | 
@@ -72,7 +72,7 @@ Data Structure and Algorithms
 |  392    | House Robber     |[Java](./Java/HouseRobber.java)  | Medium | 
 |  191    | Max Product Subarray     |[Java](.Java/MaxProductSubarray.java)  | Medium | 
 |  76     | Longest Increasing Subsequence     |[Java](./Java/LongestIncreasingSubsequence.java)  | Medium |
-|  676    | Decode Ways II        |[Java](./Java/DecodeWaysII.java)  | Hard |  
+|  676    | Decode Ways II        |[Python](./Python/639.py)<br>[Java](./Java/DecodeWaysII.java)  | Hard |  
 |  168    | BurstBalloons       |[Java](./Java/BurstBalloon.java)| Hard | 
 |  430    | Scramble String     |[Java](./Java/ScrambleString.java)  | Hard | 
 |  398    | Longest Continuous Increasing Subsequence II     |[Java](./Java/LongestContinuousIncreasingSubsequenceII.java)  | Hard |

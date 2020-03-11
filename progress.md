@@ -29,6 +29,11 @@ PriorityQueue / heapq：需要remove就用Java写，python override sift好烦
 >2. 单调栈解决找一个值左/有第一个比它大/小的值的问题 
 
 #### Mar 11
-- [ ] DP I Video review
+- [x] DP I Video review
 - [ ] DP I Ladder
 - [ ] Binary Tree - Divide Conquer & Traverse
+
+DP:
+1. 滚动数组优化
+2. 博弈问题， 必胜和必败
+3. 区间型动态规划， 消去型问题: 按长度枚举。长度从小到大，每次固定长度从左到右计算
