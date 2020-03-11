@@ -23,12 +23,9 @@ Data Structure and Algorithms
 | 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |  |
 | 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
 | :heavy_exclamation_mark:1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
-
-
-
-| 42 |Trapping Rain Water|[Java](./Java/ladder353.java)[Python](./Python/42.py)| Hard  | | |
+| 42 |Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | |
 | 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
-| 84 |Largest Rectangle in Histogram |[Python](./Python/84.py) [Java](./Java/ladder122.java) | Hard | 
+| 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
@@ -142,7 +139,7 @@ Data Structure and Algorithms
 |  404    | Subarray Sum II     | [Python](./Python/ladder404.py)  | Medium | Two Pointers| Edge case j == rStart
 |  5      | Kth Largest Element | [Python](./Python/ladder5.py)  | Medium | QuickSelect| partition
 |  399    | Nuts & Bolts Problem | [Python](./Python/ladder399.py)  | Medium | QuickSelect | comparator
-|  86    | Binary Search Tree Iterator | [Python](./Python/ladder86.py) [Java](./Java/ladder86.java)  | Hard | inorder | 
+|  86    | Binary Search Tree Iterator | [Python](./Python/ladder86.py) <br>[Java](./Java/ladder86.java)  | Hard | inorder | 
 
 
 
