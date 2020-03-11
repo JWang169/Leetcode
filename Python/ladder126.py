@@ -12,8 +12,10 @@ class Solution:
     """
     def maxTree(self, A):
         # 单调递减栈
+        
         if not A:
             return None 
+
         # 因为是单调递减栈，所以最后要append一个超级大的值，保证在最后把stack里的都pop出去， 和单调递增栈最后append一个-1是一个道理
         nodes = [TreeNode(num) for num in A + [sys.maxsize]]
         stack = []

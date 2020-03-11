@@ -88,7 +88,7 @@ Data Structure and Algorithms
 |  360   | Sliding Window Median |[Java](./Java/SlidingWindowMedian.java)| Hard | | |
 |  364   | Trapping Rain Water II |[Python](./Python/407.py)| Hard | | |
 |  510   | Maximal Rectangle |[Python](./Python/85.py)| Hard | | |
-|  126   | Max Tree |[Python](./Python/ladder126.py)| Hard | monotonic stack |  |
+|  126   | Max Tree |[Python](./Python/ladder126.py)| Hard | monotonic stack | decreasing |
 |  122   | Largest Rectangle in Histogram |[Python](./Python/84.py) [Java](./Java/ladder122.java)| Hard |monotonic stack| O(n)
 |  81   | Find Median from Data Stream |[Python](./Python/ladder81.py)| Hard | maxheap & minheap | 
 
