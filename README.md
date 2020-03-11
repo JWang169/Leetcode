@@ -30,6 +30,7 @@ Data Structure and Algorithms
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
+| 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
 
 
@@ -84,7 +85,7 @@ Data Structure and Algorithms
 |  575   | Decode String |[Java](./Java/ladder575.java) [Python](./Python/394.py)| Medium  | stack | StringBuilder, instanceof |
 |  363   | Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Medium  | | |
 |  12    | Min Stack |[Python](./Python/155.py)| Medium  | stack | |
-|  360   | Sliding Window Median |[Java](./Java/ladder360.java)| Hard | | |
+|  360   | Sliding Window Median |[Java](./Java/SlidingWindowMedian.java)| Hard | | |
 |  364   | Trapping Rain Water II |[Python](./Python/407.py)| Hard | | |
 |  510   | Maximal Rectangle |[Python](./Python/85.py)| Hard | | |
 |  126   | Max Tree |[Java](./Java/ladder126.java)| Hard | | |
