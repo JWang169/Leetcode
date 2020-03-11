@@ -82,7 +82,7 @@ Data Structure and Algorithms
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
 |-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
 |  575   | Decode String |[Java](./Java/ladder575.java) [Python](./Python/394.py)| Medium  | stack | StringBuilder, instanceof |
-|  363   | Trapping Rain Water|[Java](./Java/ladder353.java)[Python](./Python/42.py)| Medium  | | |
+|  363   | Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Medium  | | |
 |  12    | Min Stack |[Python](./Python/155.py)| Medium  | stack | |
 |  360   | Sliding Window Median |[Java](./Java/ladder360.java)| Hard | | |
 |  364   | Trapping Rain Water II |[Python](./Python/407.py)| Hard | | |
