@@ -1,38 +1,6 @@
 Data Structure and Algorithms 
 ==========================================================
 ![](static/Gifs/dragonMaid.gif)
-## Leetcode Solution 
-
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
-|-------:|:--------------------|:-----------:|:---------------:|:------------|:---------------|
-|:star:973  | K Closest Points to Origin |[Python](./Python/KClosestPointstoOrigin.py)| Medium |Kth: Heap / Quick Select  |list(map(lambda x: x[1], h))|
-|:star:1007 | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array |  | 
-|:star:1161 | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | BSF |  |
-|:telephone:1352 | Product of the Last K Numbers|[Python](./Python/1352.py)| Medium |  |  |
-|:star:904 | Fruit Into Baskets|[Python](./Python/904.py)| Medium | Sliding Window  |  |
-|:star:929 | Unique Email Addresses |[Python](./Python/929.py)| Easy | String |  |
-|:star:299 | Bulls and Cows |[Python](./Python/299.py)| Easy |  |  |
-|:star:975 | Odd Even Jump|[Python](./Python/975.py)| Hard |  |  |
-| 459 | Repeated Substring Pattern|[Python](./Python/459.py)| Easy | String |  |
-| 951 | Flip Equivalent Binary Trees |[Python](./Python/951.py)| Medium | Binary Tree / Divide&Conquer|  |
-| 1110 | Delete Nodes And Return Forest |[Python](./Python/1110.py)| Medium | BFS |  |
-| :heavy_exclamation_mark:889 | Construct Binary Tree from Preorder and Postorder Traversal |[Python](./Python/889.py)| Medium | Binary Tree | Pre/Post order |
-| 1219 | Path with Maximum Gold |[Python](./Python/1219.py)| Medium | Search |  |
-| 362 | Design Hit Counter |[Python](./Python/362.py)| Medium | queue |  |
-| 642 | Design Search Autocomplete System |[Python](./Python/642.py)| Hard | Heap/Queue | Edge Case |
-| 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |  |
-| 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
-| :heavy_exclamation_mark:1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
-| 42 |Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | |
-| 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
-| 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
-| 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
-| 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
-| 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
-| 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
-| 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
-| 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
-| 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
 
 ## Lintcode Solution 
 ### Ladder - Algorithm 
@@ -111,7 +79,7 @@ Data Structure and Algorithms
 
 #### 6 - Dynamic Problem II
 | __No.__ |      __Title__      |       __Solution__      | __Difficulty__ |  __Tags__ |__Notes__|
-|:-------:|:--------------------|:-----------------------:|:--------------:|:------------:|:--------------|
+|:-------:|:--------------------|:-----------------------:|:--------------:|:------------|:--------------|
 |  :heavy_exclamation_mark:593    | Stone Game II       | [Python](./Python/ladder593.py) | Medium | 
 |  :heavy_exclamation_mark:476    | Stone Game          |[Python](./Python/ladder476.py)  | Medium | 
 | :heavy_exclamation_mark: 395    | Coins in a Line II         |[Java](./Java/CoinsinaLineII.java)    | Medium | 
@@ -128,7 +96,7 @@ Data Structure and Algorithms
 
 #### 7 - Follow Up
 | __No.__ |      __Title__      |       __Solution__      | __Difficulty__ |  __Tags__ |__Notes__|
-|:-------:|:--------------------|:-----------------------:|:--------------:|:------------:|:--------------|
+|:-------:|:--------------------|:-----------------------:|:--------------:|:------------|:--------------|
 |  22    | Flatten List        | [Python](./Python/ladder22.py)  | Easy | | instance(object, type)
 |  528    | Flatten Nested List Iterator  | [Python](./Python/ladder528.py)  | Medium | | followup-22
 |  601    | Flatten 2D Vector  | [Python](./Python/ladder601.py)  |  Medium | | 
@@ -140,7 +108,38 @@ Data Structure and Algorithms
 |  399    | Nuts & Bolts Problem | [Python](./Python/ladder399.py)  | Medium | QuickSelect | comparator
 |  86    | Binary Search Tree Iterator | [Python](./Python/ladder86.py) <br>[Java](./Java/ladder86.java)  | Hard | inorder | 
 
+## Leetcode Solution 
 
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
+|-------:|:--------------------|:-----------:|:---------------:|:------------|:---------------|
+|:star:973  | K Closest Points to Origin |[Python](./Python/KClosestPointstoOrigin.py)| Medium |Kth: Heap / Quick Select  |list(map(lambda x: x[1], h))|
+|:star:1007 | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array |  | 
+|:star:1161 | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | BSF |  |
+|:telephone:1352 | Product of the Last K Numbers|[Python](./Python/1352.py)| Medium |  |  |
+|:star:904 | Fruit Into Baskets|[Python](./Python/904.py)| Medium | Sliding Window  |  |
+|:star:929 | Unique Email Addresses |[Python](./Python/929.py)| Easy | String |  |
+|:star:299 | Bulls and Cows |[Python](./Python/299.py)| Easy |  |  |
+|:star:975 | Odd Even Jump|[Python](./Python/975.py)| Hard |  |  |
+| 459 | Repeated Substring Pattern|[Python](./Python/459.py)| Easy | String |  |
+| 951 | Flip Equivalent Binary Trees |[Python](./Python/951.py)| Medium | Binary Tree / Divide&Conquer|  |
+| 1110 | Delete Nodes And Return Forest |[Python](./Python/1110.py)| Medium | BFS |  |
+| :heavy_exclamation_mark:889 | Construct Binary Tree from Preorder and Postorder Traversal |[Python](./Python/889.py)| Medium | Binary Tree | Pre/Post order |
+| 1219 | Path with Maximum Gold |[Python](./Python/1219.py)| Medium | Search |  |
+| 362 | Design Hit Counter |[Python](./Python/362.py)| Medium | queue |  |
+| 642 | Design Search Autocomplete System |[Python](./Python/642.py)| Hard | Heap/Queue | Edge Case |
+| 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |  |
+| 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
+| :heavy_exclamation_mark:1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
+| 42 |Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | |
+| 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
+| 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
+| 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
+| 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
+| 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
+| 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
+| 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
+| 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
+| 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
 
 
 #### 0 - Where it starts  :muscle::muscle::muscle:
