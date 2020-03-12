@@ -69,9 +69,9 @@ Data Structure and Algorithms
 |  200    | Longest Palindromic Substring |[Python](./Python/5.py)<br>[Java](./Java/LongestPalindromicSubstring.java)  | Medium | 
 |  395    | Coins in a Line II     |[Python](./Python/ladder395.py)<br>[Java](./ava/CoinsinaLineII.java)  | Medium | 
 |  394    | Coins in a Line     |[Python](./Python/ladder394.py)<br>[Java](./Java/CoinsinaLine.java)  | Medium | 
-|  392    | House Robber     |[Java](./Java/HouseRobber.java)  | Medium | 
-|  191    | Max Product Subarray     |[Java](.Java/MaxProductSubarray.java)  | Medium | 
-|  76     | Longest Increasing Subsequence     |[Java](./Java/LongestIncreasingSubsequence.java)  | Medium |
+|  392    | House Robber     |[Python](./Python/198.py)[Java](./Java/HouseRobber.java)  | Medium | 
+|  191    | Max Product Subarray     |[Python](./Python/152.py)[Java](.Java/MaxProductSubarray.java)  | Medium | 
+|  76     | Longest Increasing Subsequence     |[Python](./Python/300.py)[Java](./Java/LongestIncreasingSubsequence.java)  | Medium |
 |  676    | Decode Ways II        |[Python](./Python/639.py)<br>[Java](./Java/DecodeWaysII.java)  | Hard |  
 |  168    | BurstBalloons       |[Java](./Java/BurstBalloon.java)| Hard | 
 |  430    | Scramble String     |[Java](./Java/ScrambleString.java)  | Hard | 
