@@ -58,6 +58,7 @@ Data Structure and Algorithms
 |  122   | Largest Rectangle in Histogram |[Python](./Python/84.py) [Java](./Java/ladder122.java)| Hard |monotonic stack| O(n)
 |  81   | Find Median from Data Stream |[Python](./Python/ladder81.py)| Hard | maxheap & minheap | 
 
+#### 3 - Stack, Deque, Heap
 
 #### 5 - Dynamic Problem I 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
@@ -137,6 +138,7 @@ Data Structure and Algorithms
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
+| :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |

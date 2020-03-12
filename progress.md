@@ -40,3 +40,9 @@ DP:
 coins in a Line II
 Scramble String: DFS + 剪枝
 DPI review in 3 days 
+
+
+#### Mar 12
+- [ ] Sweep Line + Binary Search video 
+- [ ] AD Ladder 4
+- [ ] Binary Tree Ladder 
