@@ -65,10 +65,10 @@ Data Structure and Algorithms
 |  110    | Minimum Path Sum    |[Python](./Python/64.py)<br>[Java](./Java/LongestIncreasingContinuousSubsequence.java)| Easy | 
 |  41     | Maximum Subarray.   |[Python](./Python/53.py)<br>[Java](./Java/MaximumSubarray.java)| Easy | 
 |  152    | Decode Ways         |[Python](./Python/91.py)<br>[Java](./Java/DecodeWays.java)  | Medium | 
-|  436    | Maximal Square      |[Java](./Java/MaximalSquare.java)  | Medium | 
-|  200    | Longest Palindromic Substring      |[Java](./Java/LongestPalindromicSubstring.java)  | Medium | 
-|  395    | Coins in a Line II     |[Java](./ava/CoinsinaLineII.java)  | Medium | 
-|  394    | Coins in a Line     |[Java](./Java/CoinsinaLine.java)  | Medium | 
+|  436    | Maximal Square      |[Python](./Python/221.py)<br>[Java](./Java/MaximalSquare.java)  | Medium | 
+|  200    | Longest Palindromic Substring |[Python](./Python/5.py)<br>[Java](./Java/LongestPalindromicSubstring.java)  | Medium | 
+|  395    | Coins in a Line II     |[Python](./Python/ladder395.py)<br>[Java](./ava/CoinsinaLineII.java)  | Medium | 
+|  394    | Coins in a Line     |[Python](./Python/ladder394.py)<br>[Java](./Java/CoinsinaLine.java)  | Medium | 
 |  392    | House Robber     |[Java](./Java/HouseRobber.java)  | Medium | 
 |  191    | Max Product Subarray     |[Java](.Java/MaxProductSubarray.java)  | Medium | 
 |  76     | Longest Increasing Subsequence     |[Java](./Java/LongestIncreasingSubsequence.java)  | Medium |
