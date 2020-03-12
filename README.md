@@ -74,8 +74,8 @@ Data Structure and Algorithms
 |  76     | Longest Increasing Subsequence     |[Python](./Python/300.py)[Java](./Java/LongestIncreasingSubsequence.java)  | Medium |
 |  676    | Decode Ways II        |[Python](./Python/639.py)<br>[Java](./Java/DecodeWaysII.java)  | Hard |  
 |  168    | BurstBalloons       |[Java](./Java/BurstBalloon.java)| Hard | 
-|  430    | Scramble String     |[Java](./Java/ScrambleString.java)  | Hard | 
-|  398    | Longest Continuous Increasing Subsequence II     |[Java](./Java/LongestContinuousIncreasingSubsequenceII.java)  | Hard |
+|  430    | Scramble String     |[Python](./Python/87.py)<br>[Java](./Java/ScrambleString.java)  | Hard | 
+|  398    | Longest Continuous Increasing Subsequence II     |[Python](./Python/ladder398.py)<br>[Java](./Java/LongestContinuousIncreasingSubsequenceII.java)  | Hard |
 
 #### 6 - Dynamic Problem II
 | __No.__ |      __Title__      |       __Solution__      | __Difficulty__ |  __Tags__ |__Notes__|
@@ -89,7 +89,7 @@ Data Structure and Algorithms
 |  440    | Backpack III  | [Python](./Python/ladder440.py) | Medium | 
 |  119    | Edit Distance  |[Java](./Java/EditDistance.java)  | Medium | 
 |  29    | Interleaving String     |[Java](./Java/InterleavingString.java)  | Medium | DP / Recursion | in class | 
-| :heavy_exclamation_mark:396    | Coins in a Line III        |[Python](./Python/ladder596.py)) | Hard|
+| :heavy_exclamation_mark:396    | Coins in a Line III        |[Python](./Python/ladder596.py)) |Hard| dfs + 剪枝
 | :heavy_exclamation_mark:623    | K Edit Distance  |[Python](./Python/ladder623.py)  | Hard | 119 follow-up/Trie | 
 | :heavy_exclamation_mark:89   | K Sum |[Python](./Python/ladder89.py)  | Hard | DP[][][] | 
 
