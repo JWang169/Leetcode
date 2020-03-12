@@ -39,3 +39,4 @@ DP:
 3. 区间型动态规划， 消去型问题: 按长度枚举。长度从小到大，每次固定长度从左到右计算
 coins in a Line II
 Scramble String: DFS + 剪枝
+DPI review in 3 days 

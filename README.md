@@ -58,6 +58,7 @@ Data Structure and Algorithms
 |  122   | Largest Rectangle in Histogram |[Python](./Python/84.py) [Java](./Java/ladder122.java)| Hard |monotonic stack| O(n)
 |  81   | Find Median from Data Stream |[Python](./Python/ladder81.py)| Hard | maxheap & minheap | 
 
+
 #### 5 - Dynamic Problem I 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
 |:-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
