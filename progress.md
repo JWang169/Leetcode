@@ -46,3 +46,14 @@ DPI review in 3 days
 - [ ] Sweep Line + Binary Search video 
 - [ ] AD Ladder 4
 - [ ] Binary Tree Ladder 
+
+
+#### Mar 13
+- [ ] Sweep Line + Binary Search video 
+- [ ] AD Ladder 4
+- [ ] Binary Tree Ladder 
+
+rotated array problems 33, 153, 154, 
+
+
+

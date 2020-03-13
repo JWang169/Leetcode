@@ -27,8 +27,11 @@ Data Structure and Algorithms
 |:-------:|:--------------------|:------------:|:---------------:|:------------|:--------------|
 |  458    |Last Position of Target|[Python](./Python/ladder458.py)|Easy | 
 |  585    | Maximum Number in Mountain Sequence |[Python](./Python/ladder585.py)| Medium | 
-|  460    |Find K Closest Elements |[Python](./Python/658.py)| Medium  | 
-
+|  460    | Find K Closest Elements |[Python](./Python/658.py)| Medium  | 
+|  447    | Search in a Big Sorted Array |[Python](./Python/ladder447.py)| Medium  | 
+|  428    |  Pow(x, n) |[Python](./Python/50.py)| Medium  | Recursion |
+|  158    |  Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  |  |
+|  140    |  FastPower(x, n) |[Python](./Python/ladder140.py)| Medium  | | :construction:
 
 #### 10 - Additional Level
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
@@ -136,15 +139,19 @@ Data Structure and Algorithms
 | 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |  |
 | 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
 | :heavy_exclamation_mark:1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
+| 33 |Search in Rotated Sorted Array|[Python](./Python/33.py)| Medium  | Binary Searhc | Rotated Array Your weakness |
 | 42 |Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | |
 | 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
+| 153 | Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  | Rotated Array | weakness |
+| 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| weakness |
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
+| 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
 | 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
 
