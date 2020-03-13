@@ -25,6 +25,10 @@ Data Structure and Algorithms
 #### 3 - Binary Search 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:------------|:--------------|
+|  458    |Last Position of Target|[Python](./Python/ladder458.py)|Easy | 
+|  585    | Maximum Number in Mountain Sequence |[Python](./Python/ladder585.py)| Medium | 
+|  460    |Find K Closest Elements |[Python](./Python/658.py)| Medium  | 
+
 
 #### 10 - Additional Level
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
