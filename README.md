@@ -82,8 +82,11 @@ Data Structure and Algorithms
 |  919   |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
 |  617  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| :construction:|
 |  586  | Sqrt(x) II |[Python](./Python/ladder586.py)| Medium | binary search| |
+|  391  |Number of Airplanes in the Sky |[Python](./Python/ladder391.py)| Medium | | |
 |  437  | Copy Books |[Python](./Python/ladder437.py)| Medium | | 
-|  438  | Copy Books II |[Python](./Python/ladder438.py)| Medium | | 
+|  438  | Copy Books II |[Python](./Python/ladder438.py)| Medium | |
+|  633  |  Find the Duplicate Number |[Python](./Python/287.py)| Hard | | :construction: |  
+|  362  |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
 |  183  |  Wood Cut |[Python](./Python/ladder183.py)| Hard | | 
 |
 #### 5 - Dynamic Problem I 
@@ -164,6 +167,7 @@ Data Structure and Algorithms
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
 | 102| Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Medium | BFS |
+| 126| Word Ladder II |[Python](./Python/126.py)| Hard | BFS |
 | 127| Word Ladder |[Python](./Python/127.py)| Medium | BFS |
 | 133| Clone Graph |[Python](./Python/133.py)| Medium | BFS |
 | 153 | Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  | Rotated Array | weakness |
@@ -171,6 +175,8 @@ Data Structure and Algorithms
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
+|  239  |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
+
 |  253   |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
 | 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | |  |
 
@@ -180,7 +186,7 @@ Data Structure and Algorithms
 | 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |
-|  644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| |  
+|  644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array |  
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | | 
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST | | | 
 
