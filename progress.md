@@ -51,7 +51,7 @@ DPI review in 3 days
 - [ ] Sweep Line + Binary Search video 
 - [ ] AD Ladder 4
 - [x] Binary Search Ladder 
-- [ ] Binary Tree Ladder 
+- [x] Breadth First Search Ladder 
 
 rotated array problems 33, 153, 154, (leetcode)
 

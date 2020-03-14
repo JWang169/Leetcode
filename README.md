@@ -75,8 +75,17 @@ Data Structure and Algorithms
 |  122   | Largest Rectangle in Histogram |[Python](./Python/84.py) [Java](./Java/ladder122.java)| Hard |monotonic stack| O(n)
 |  81   | Find Median from Data Stream |[Python](./Python/ladder81.py)| Hard | maxheap & minheap | 
 
-#### 3 - Stack, Deque, Heap
-
+#### 4 - Sweep Line + Binary Search
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+|  141   |Sqrt(x) |[Python](./Python/69.py)| easy  | binary search| |
+|  919   |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
+|  617  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| :construction:|
+|  586  | Sqrt(x) II |[Python](./Python/ladder586.py)| Medium | binary search| |
+|  437  | Copy Books |[Python](./Python/ladder437.py)| Medium | | 
+|  438  | Copy Books II |[Python](./Python/ladder438.py)| Medium | | 
+|  183  |  Wood Cut |[Python](./Python/ladder183.py)| Hard | | 
+|
 #### 5 - Dynamic Problem I 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
 |:-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
@@ -162,6 +171,7 @@ Data Structure and Algorithms
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
+|  253   |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
 | 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | |  |
 
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
@@ -169,7 +179,8 @@ Data Structure and Algorithms
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
 | 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
-| 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |  
+| 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |
+|  644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| |  
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | | 
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST | | | 
 
