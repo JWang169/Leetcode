@@ -19,7 +19,12 @@ Data Structure and Algorithms
 |  433    | Number of Islands   |[Java](./Java/NumIslands.java<br>[Python](./Python/200.py)| Easy | 
 |  69     | Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Easy | |
 |  615    | Course Schedule     |[Java](./Java/CourseSchedule.java)<br>[Python](./Python/207.py)| Medium | 
-|  615    | Course ScheduleII    |[Java](./Java/CourseSchedule.java)<br>[Python](./Python/210.py)| Medium | 
+|  616    | Course ScheduleII    |[Java](./Java/CourseSchedule.java)<br>[Python](./Python/210.py)| Medium | 
+|  605    |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |  |
+|  137    | Clone Graph |[Python](./Python/133.py)| Medium | BFS | | Topological Sort |  |
+|  127    | Topological Sorting |[Python](./Python/ladder127.py)| Medium | BFS | | Topological Sort |  |
+| 7 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Medium | BFS | | |  |
+| 120 | Word Ladder |[Python](./Python/127.py)| Hard | BFS |
 
 
 
@@ -35,7 +40,8 @@ Data Structure and Algorithms
 |  140    |  FastPower(x, n) |[Python](./Python/ladder140.py)| Medium  | | :construction:
 |  75     |  Find Peak Element |[Python](./Python/162.py)| Medium  | | 
 |  74     | First Bad Version|[Python](./Python/278.py)| easy  | | 
-|  62     | Search in Rotated Sorted Array |[Python](./Python/33.py)| Medium  | :construction: | 
+|  62     | Search in Rotated Sorted Array |[Python](./Python/33.py)| Medium  | :construction:|
+
 
 #### 10 - Additional Level
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
@@ -149,18 +155,21 @@ Data Structure and Algorithms
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
 | 102| Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Medium | BFS |
+| 127| Word Ladder |[Python](./Python/127.py)| Medium | BFS |
 | 133| Clone Graph |[Python](./Python/133.py)| Medium | BFS |
 | 153 | Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  | Rotated Array | weakness |
 | 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| weakness |
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
+| 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | |  |
+
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
 | 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
-| 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |  |
+| 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |  
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | | 
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST | | | 
 
