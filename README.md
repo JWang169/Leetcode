@@ -16,9 +16,10 @@ Data Structure and Algorithms
 #### 2 - Breadth First Search 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ |  __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:---------------|
-|  433    | Number of Islands   |[Java](./Java/NumIslands.java)| Easy | 
-|  69     | Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)| Easy | Topological Sort,  Queue|
-|  615    | Course Schedule     |[Java](./Java/CourseSchedule.java)| Medium | 
+|  433    | Number of Islands   |[Java](./Java/NumIslands.java<br>[Python](./Python/200.py)| Easy | 
+|  69     | Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Easy | |
+|  615    | Course Schedule     |[Java](./Java/CourseSchedule.java)<br>[Python](./Python/207.py)| Medium | 
+|  615    | Course ScheduleII    |[Java](./Java/CourseSchedule.java)<br>[Python](./Python/210.py)| Medium | 
 
 
 
@@ -32,6 +33,9 @@ Data Structure and Algorithms
 |  428    |  Pow(x, n) |[Python](./Python/50.py)| Medium  | Recursion |
 |  158    |  Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  |  |
 |  140    |  FastPower(x, n) |[Python](./Python/ladder140.py)| Medium  | | :construction:
+|  75     |  Find Peak Element |[Python](./Python/162.py)| Medium  | | 
+|  74     | First Bad Version|[Python](./Python/278.py)| easy  | | 
+|  62     | Search in Rotated Sorted Array |[Python](./Python/33.py)| Medium  | :construction: | 
 
 #### 10 - Additional Level
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
@@ -139,11 +143,13 @@ Data Structure and Algorithms
 | 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |  |
 | 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
 | :heavy_exclamation_mark:1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
-| 33 |Search in Rotated Sorted Array|[Python](./Python/33.py)| Medium  | Binary Searhc | Rotated Array Your weakness |
+| 33 |Search in Rotated Sorted Array|[Python](./Python/33.py)| Medium  | Binary Search | Rotated Array Your weakness |
 | 42 |Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | |
 | 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
+| 102| Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Medium | BFS |
+| 133| Clone Graph |[Python](./Python/133.py)| Medium | BFS |
 | 153 | Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  | Rotated Array | weakness |
 | 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| weakness |
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
@@ -152,9 +158,11 @@ Data Structure and Algorithms
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
-| 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
 | 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
-
+| 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
+| 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |  |
+| 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | | 
+| 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST | | | 
 
 #### 0 - Where it starts  :muscle::muscle::muscle:
 |      __Title__      |       __Solution__      |   __Tags__ |__Notes__|
