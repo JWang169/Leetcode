@@ -30,7 +30,7 @@ Data Structure and Algorithms
 
 #### 3 - Binary Search 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
-|:-------:|:--------------------|:------------:|:---------------:|:------------|:--------------|
+|:-------:|:--------------------|:------------:|:---------------:|:------------|:--------------
 |  458    |Last Position of Target|[Python](./Python/ladder458.py)|Easy | 
 |  585    | Maximum Number in Mountain Sequence |[Python](./Python/ladder585.py)| Medium | 
 |  460    | Find K Closest Elements |[Python](./Python/658.py)| Medium  | 
@@ -41,6 +41,18 @@ Data Structure and Algorithms
 |  75     |  Find Peak Element |[Python](./Python/162.py)| Medium  | | 
 |  74     | First Bad Version|[Python](./Python/278.py)| easy  | | 
 |  62     | Search in Rotated Sorted Array |[Python](./Python/33.py)| Medium  | :construction:|
+
+#### 4 - Binary Tree
+ | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
+|:-------:|:--------------------|:------------:|:---------------:|:------------|:--------------
+|  900 |  Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy |  |
+|  596 |  Minimum Subtree |[Python](./Python/ladder596.py)| Easy |  |
+|  480 |  Binary Tree Paths |[Python](./Python/257.py)| Easy |  |
+|  453 |  Flatten Binary Tree to Linked List |[Python](./Python/114.py)| Easy | :construction: |
+|  93 |  Balanced Binary Tree|[Python](./Python/110.py)| Easy |  |
+| 902 |   Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
+| 901 |  Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search |
+| 578 |   Kth Smallest Element in a BST |[Python](./Python/236.py)| Medium | :construction:|
 
 
 #### 10 - Additional Level
@@ -170,6 +182,8 @@ Data Structure and Algorithms
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
 | 102| Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Medium | BFS |
+| 110 |  Balanced Binary Tree|[Python](./Python/110.py)| Easy |  |
+| 114 |  Flatten Binary Tree to Linked List |[Python](./Python/114.py)| Medium | :construction: |
 | 126| Word Ladder II |[Python](./Python/126.py)| Hard | BFS |
 | 127| Word Ladder |[Python](./Python/127.py)| Medium | BFS |
 | 133| Clone Graph |[Python](./Python/133.py)| Medium | BFS |
@@ -177,10 +191,16 @@ Data Structure and Algorithms
 | 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| weakness |
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
+
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
-|  239  |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
+| 230 |   Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
+| 236 |   Kth Smallest Element in a BST |[Python](./Python/236.py)| Medium | :construction:|
+
+| 239 |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
 
 |  253   |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
+| 270 |  Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy | Binary Tree |
+| 272 |  Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search |
 | 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | |  |
 
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
