@@ -41,25 +41,26 @@ coins in a Line II
 Scramble String: DFS + 剪枝
 DPI review in 3 days 
 
-
 #### Mar 12
 - [x] Sweep Line + Binary Search video 
-- [ ] AD Ladder 4
-- [ ] Binary Tree Ladder 
+- [x] AD Ladder 4
+- [x] Binary Tree Ladder 
 
 扫描线：区间需要排序 => 扫描线
 	   build events
 双端队列：维护一个候选可能的最大值集合
 
-
-
 #### Mar 13
 - [x] Sweep Line + Binary Search video 
-- [ ] AD Ladder 4
+- [x] AD Ladder 4
 - [x] Binary Search Ladder 
 - [x] Breadth First Search Ladder 
 
 rotated array problems 33, 153, 154, (leetcode)
 
+#### Mar 14
+- [x]CLEAN OVERLEFT LADDERS
 
+Gym is closed. Sad :sob: 
+No more fun. Just LC
 
