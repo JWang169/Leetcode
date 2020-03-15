@@ -85,10 +85,11 @@ Data Structure and Algorithms
 |  391  |Number of Airplanes in the Sky |[Python](./Python/ladder391.py)| Medium | | |
 |  437  | Copy Books |[Python](./Python/ladder437.py)| Medium | | 
 |  438  | Copy Books II |[Python](./Python/ladder438.py)| Medium | |
+|  414   |Divide Two Integers|[Python](./Python/29.py)| Medium  | bit, intMax| :construction: |
+|  390  |  Find Peak Element II|[Python](./Python/ladder390.py)| Hard | | 
 |  633  |  Find the Duplicate Number |[Python](./Python/287.py)| Hard | | :construction: |  
 |  362  |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
 |  183  |  Wood Cut |[Python](./Python/ladder183.py)| Hard | | 
-|
 #### 5 - Dynamic Problem I 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
 |:-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
@@ -161,8 +162,10 @@ Data Structure and Algorithms
 | 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |  |
 | 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
 | :heavy_exclamation_mark:1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
+| 29 |Divide Two Integers|[Python](./Python/29.py)| Medium  | bit, intMax| :construction: | 
 | 33 |Search in Rotated Sorted Array|[Python](./Python/33.py)| Medium  | Binary Search | Rotated Array Your weakness |
-| 42 |Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | |
+| 42 |Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | 
+
 | 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
