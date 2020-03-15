@@ -13,7 +13,7 @@ segment tree要再看一遍<br>
 #### Mar 10
 - [x] Data Structure II - Stack, Deque, Heap video 
 - [x] AD Ladder 3
-- [ ] DP I Video 
+- [x] DP I Video 
 <br>
 Mar 10. 3刷 Heap/Stack tag. <br>
 Monotonic Stack： 递增递减判断。<br>
@@ -31,7 +31,7 @@ PriorityQueue / heapq：需要remove就用Java写，python override sift好烦
 #### Mar 11
 - [x] DP I Video review
 - [x] DP I Ladder
-- [ ] Binary Tree - Divide Conquer & Traverse
+- [x] Binary Tree - Divide Conquer & Traverse
 
 DP:
 1. 滚动数组优化
@@ -41,25 +41,26 @@ coins in a Line II
 Scramble String: DFS + 剪枝
 DPI review in 3 days 
 
-
 #### Mar 12
 - [x] Sweep Line + Binary Search video 
-- [ ] AD Ladder 4
-- [ ] Binary Tree Ladder 
+- [x] AD Ladder 4
+- [x] Binary Tree Ladder 
 
 扫描线：区间需要排序 => 扫描线
 	   build events
 双端队列：维护一个候选可能的最大值集合
 
-
-
 #### Mar 13
 - [x] Sweep Line + Binary Search video 
-- [ ] AD Ladder 4
+- [x] AD Ladder 4
 - [x] Binary Search Ladder 
 - [x] Breadth First Search Ladder 
 
 rotated array problems 33, 153, 154, (leetcode)
 
+#### Mar 14
+- [x]CLEAN OVERLEFT LADDERS - all clear. 
 
+Gym is closed. Sad :sob: 
+No more fun. Just LC
 

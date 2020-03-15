@@ -52,10 +52,16 @@ Data Structure and Algorithms
 |  93 |  Balanced Binary Tree|[Python](./Python/110.py)| Easy |  |
 | 902 |   Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
 | 901 |  Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search |
+<<<<<<< HEAD
 | 578 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium| | :construction:|
 | 95 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | | :construction:|
 | 86 | Binary Search Tree Iterator|[Python](./Python/173.py)| Medium | |:construction:|
 
+=======
+| 578 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
+| 95 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | :construction:|
+| 86 | Binary Search Tree Iterator |[Python](./Python/173.py)| Hard | :construction:|
+>>>>>>> 33f6bd203199e087f0429f39d3d87d9c5c095b64
 
 #### 10 - Additional Level
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
@@ -179,7 +185,6 @@ Data Structure and Algorithms
 | 29 |Divide Two Integers|[Python](./Python/29.py)| Medium  | bit, intMax| :construction: | 
 | 33 |Search in Rotated Sorted Array|[Python](./Python/33.py)| Medium  | Binary Search | Rotated Array Your weakness |
 | 42 |Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | 
-
 | 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
@@ -191,21 +196,17 @@ Data Structure and Algorithms
 | 127| Word Ladder |[Python](./Python/127.py)| Medium | BFS |
 | 133| Clone Graph |[Python](./Python/133.py)| Medium | BFS |
 | 153 | Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  | Rotated Array | weakness |
-| 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| weakness |
+| 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| weakness 
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
-
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
 | 230 |   Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
 | 236 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
-
 | 239 |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
-
 |  253   |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
 | 270 |  Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy | Binary Tree |
 | 272 |  Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search |
 | 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | |  |
-
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
