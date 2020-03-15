@@ -52,7 +52,8 @@ Data Structure and Algorithms
 |  93 |  Balanced Binary Tree|[Python](./Python/110.py)| Easy |  |
 | 902 |   Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
 | 901 |  Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search |
-| 578 |   Kth Smallest Element in a BST |[Python](./Python/236.py)| Medium | :construction:|
+| 578 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
+| 95 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | :construction:|
 
 
 #### 10 - Additional Level
@@ -181,6 +182,7 @@ Data Structure and Algorithms
 | 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
+| 98 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | :construction:|
 | 102| Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Medium | BFS |
 | 110 |  Balanced Binary Tree|[Python](./Python/110.py)| Easy |  |
 | 114 |  Flatten Binary Tree to Linked List |[Python](./Python/114.py)| Medium | :construction: |
@@ -194,7 +196,7 @@ Data Structure and Algorithms
 
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
 | 230 |   Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
-| 236 |   Kth Smallest Element in a BST |[Python](./Python/236.py)| Medium | :construction:|
+| 236 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
 
 | 239 |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
 
