@@ -48,12 +48,13 @@ Data Structure and Algorithms
 |  900 |  Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy |  |
 |  596 |  Minimum Subtree |[Python](./Python/ladder596.py)| Easy |  |
 |  480 |  Binary Tree Paths |[Python](./Python/257.py)| Easy |  |
-|  453 |  Flatten Binary Tree to Linked List |[Python](./Python/114.py)| Easy | :construction: |
+|  453 |  Flatten Binary Tree to Linked List |[Python](./Python/114.py)| Easy | | :construction: |
 |  93 |  Balanced Binary Tree|[Python](./Python/110.py)| Easy |  |
 | 902 |   Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
 | 901 |  Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search |
-| 578 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
-| 95 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | :construction:|
+| 578 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium| | :construction:|
+| 95 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | | :construction:|
+| 86 | Binary Search Tree Iterator|[Python](./Python/173.py)| Medium | |:construction:|
 
 
 #### 10 - Additional Level
