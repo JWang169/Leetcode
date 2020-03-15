@@ -52,16 +52,10 @@ Data Structure and Algorithms
 |  93 |  Balanced Binary Tree|[Python](./Python/110.py)| Easy |  |
 | 902 |   Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
 | 901 |  Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search |
-<<<<<<< HEAD
 | 578 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium| | :construction:|
 | 95 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | | :construction:|
 | 86 | Binary Search Tree Iterator|[Python](./Python/173.py)| Medium | |:construction:|
 
-=======
-| 578 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
-| 95 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | :construction:|
-| 86 | Binary Search Tree Iterator |[Python](./Python/173.py)| Hard | :construction:|
->>>>>>> 33f6bd203199e087f0429f39d3d87d9c5c095b64
 
 #### 10 - Additional Level
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
