@@ -89,6 +89,8 @@ Data Structure and Algorithms
 #### 8 - Memoization Search
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:------------|:-------------- |
+| 683 | Word Break III |[Python](./Python/ladder683.py)| Medium |   | :construction: |
+
 | 582 | Word Break II |[Python](./Python/140.py)| Medium | dfs, memoization search| 不能看见wordbreak就dp啊 这题求所有解你用dp干嘛...|:construction:|| 
 
 #### 10 - Additional Level

@@ -64,3 +64,17 @@ rotated array problems 33, 153, 154, (leetcode)
 Gym is closed. Sad :sob: 
 No more fun. Just LC
 
+#### Mar 15
+- [x] ladder - 7 Hash & Heap
+- [x] ladder - 6 DFS 
+
+
+#### Mar 16
+- [ ] ladder - 8 Memoization search
+- [ ] ladder - 9 DP
+- [ ] AD ladder - DP
+
+啥玩意啊写的 一顿debug
+真的动态规划你做成这样，就祈祷倒时候遇不到dp吧
+
+
