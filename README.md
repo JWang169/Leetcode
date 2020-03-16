@@ -82,9 +82,8 @@ Data Structure and Algorithms
 |  554 | Top k Largest Numbers |[Python](./Python/ladder554.py) [QuickSelect](./Python/ladder554.py)| Medium | :construction: quickselect|
 |  40 | Implement Queue using Stacks |[Python](./Python/232.py)| Medium |   |
 |  104 | Merge k Sorted Lists |[Python](./Python/23.py)| Medium |   |
-|  4 |Ugly Number II |[Python](./Python/264.py)| Medium |   |
-
-
+|  4  |Ugly Number II |[Python](./Python/264.py)| Medium |   |
+| 134 |LRU Cache |[Python](./Python/146.py)| Medium |   |
 #### 8 - Memorization Search
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:------------|:-------------- |
