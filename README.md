@@ -83,11 +83,13 @@ Data Structure and Algorithms
 |  40 | Implement Queue using Stacks |[Python](./Python/232.py)| Medium |   |
 |  104 | Merge k Sorted Lists |[Python](./Python/23.py)| Medium |   |
 |  4  |Ugly Number II |[Python](./Python/264.py)| Medium |   |
-| 134 |LRU Cache |[Python](./Python/146.py)| Medium |   |
-#### 8 - Memorization Search
+| 134 |LRU Cache |[Python](./Python/146.py)| Medium |   | 
+
+
+#### 8 - Memoization Search
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:------------|:-------------- |
-
+| 582 | Word Break II |[Python](./Python/140.py)| Medium | dfs, memoization search| 不能看见wordbreak就dp啊 这题求所有解你用dp干嘛...|:construction:|| 
 
 #### 10 - Additional Level
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
@@ -244,6 +246,7 @@ Data Structure and Algorithms
 | 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |
+| 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
 |  644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array |  
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | | 
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST | | | 
