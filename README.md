@@ -43,7 +43,7 @@ Data Structure and Algorithms
 |  62     | Search in Rotated Sorted Array |[Python](./Python/33.py)| Medium  | :construction:|
 
 #### 4 - Binary Tree
- | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:------------|:--------------
 |  900 |  Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy |  |
 |  596 |  Minimum Subtree |[Python](./Python/ladder596.py)| Easy |  |
@@ -55,6 +55,39 @@ Data Structure and Algorithms
 | 578 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium| | :construction:|
 | 95 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | | :construction:|
 | 86 | Binary Search Tree Iterator|[Python](./Python/173.py)| Medium | |:construction:|
+
+#### 6 - Implicit Graph DFS 
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
+|:-------:|:--------------------|:------------:|:---------------:|:------------|:-------------- |
+|  680 |  Split String |[Python](./Python/ladder680.py)| Medium |   |
+|  425 |  Letter Combinations of a Phone Number |[Python](./Python/17.py)| Medium |   |
+|  153 | Combination Sum |[Python](./Python/39.py)| Medium |   |
+|  135 | Combination Sum II |[Python](./Python/40.py)| Medium |   |
+|  33 | N-Queens |[Python](./Python/51.py)| Medium |   |
+|  17 | Subsets |[Python](./Python/78.py)| Medium |   |
+|  18 |SubsetsII |[Python](./Python/90.py)| Medium |   |
+|  15 | Permutations |[Python](./Python/46.py)| Medium |   |
+| 829 | Word Pattern II |[Python](./Python/291.py)| Hard |  |
+| 121| Word Ladder II |[Python](./Python/126.py)| Hard |  |
+
+
+#### 7 - Hash & Heap
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
+|:-------:|:--------------------|:------------:|:---------------:|:------------|:-------------- |
+|  642 |  Split String |[Python](./Python/346.py)| Easy |   |
+|  494 |  Implement Stack by Two Queues |[Python](./Python/225.py)| Easy |   |
+|  209 | Combination Sum |[Python](./Python/387.py)| Easy |   |
+|  657 | Insert Delete GetRandom O(1) |[Python](./Python/380.py)| Medium |   |
+|  612 | K Closest Points |[Python](./Python/973.py)| Medium |   |
+|  554 | Top k Largest Numbers |[Python](./Python/ladder554.py) [QuickSelect](./Python/ladder554.py)| Medium | :construction: quickselect|
+|  40 | Implement Queue using Stacks |[Python](./Python/232.py)| Medium |   |
+|  104 | Merge k Sorted Lists |[Python](./Python/23.py)| Medium |   |
+|  4 |Ugly Number II |[Python](./Python/264.py)| Medium |   |
+
+
+#### 8 - Memorization Search
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
+|:-------:|:--------------------|:------------:|:---------------:|:------------|:-------------- |
 
 
 #### 10 - Additional Level
@@ -176,12 +209,17 @@ Data Structure and Algorithms
 | 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |  |
 | 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
 | :heavy_exclamation_mark:1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
+| 17 |  Letter Combinations of a Phone Number |[Python](./Python/17.py)| Medium |  dfs  |
 | 29 |Divide Two Integers|[Python](./Python/29.py)| Medium  | bit, intMax| :construction: | 
 | 33 |Search in Rotated Sorted Array|[Python](./Python/33.py)| Medium  | Binary Search | Rotated Array Your weakness |
+| 39 | Combination Sum |[Python](./Python/39.py)| Medium | dfs  | |
+| 40 | Combination Sum II |[Python](./Python/40.py)| Medium | dfs  | |
 | 42 |Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | 
 | 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
+| 78 | Subsets |[Python](./Python/78.py)| Medium | dfs| |
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
+| 90 |SubsetsII |[Python](./Python/90.py)| Medium | dfs | |
 | 98 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | :construction:|
 | 102| Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Medium | BFS |
 | 110 |  Balanced Binary Tree|[Python](./Python/110.py)| Easy |  |

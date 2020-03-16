@@ -1,32 +1,38 @@
 class Solution:
-    def search(self, nums: List[int], target: int) -> int:
-        if not nums:
-            return -1
-        left, right = 0, len(nums) - 1 
-        while left + 1 < right:
-            mid = (left + right) // 2
-            if nums[mid] == target:
-                return mid
-            if nums[left] == target:
-                return left
-            if nums[right] == target:
-                return right
-            
-            if nums[left] < nums[mid]:
-                if nums[left] < target < nums[mid]:
-                    right = mid
-                else:
-                    left = mid
-            else: # nums[left] > nums[mid]
-                if nums[mid] < target < nums[right]:
-                    left = mid
-                else:
-                    right = mid
-        if nums[left] == target:
-            return left
-        if nums[right] == target:
-            return right
-        return -1
-                
+    def solveNQueens(self, n: int) -> List[List[str]]:
+        self.results = []
+        self.dfs([], n)
+        print(self.results)
+        boards = []
+        
+        for result in self.results:
+            board = []
+            for i in range(n):
+                row = ['.'] * n
+                row[result[i]] = 'Q'
+                board.append(''.join(row))
+            boards.append(board)
+        return boards
+        
+    def dfs(self, prev, n):
+        if len(prev) == n:
+            self.results.append(prev)
+            return 
+        
+        
+        # try every col in this row
+        i = len(prev) 
+        for j in range(n):
+            valid = True
+            for row, col in enumerate(prev):
+                # same column, diagonal
+                if col == j or abs(i - row) == abs(j - col):
+                    valid = False
+                    break
                     
-                
+            if valid:
+                self.dfs(prev + [j], n) 
+    
+                    
+            
+        
