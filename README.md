@@ -68,6 +68,10 @@ Data Structure and Algorithms
 |  608 | Two Sum II - Input array is sorted|[Python](./Python/167.py)| Medium |   |
 |  143 | Sort Colors II |[Python](./Python/75.py)| Medium | quickSort |
 |  57 | 3Sum |[Python](./Python/15.py)| Medium |  |
+|  31 | Partition Array |[Python](./Python/ladder31.py)| Medium |  |
+|  5  | Kth Largest Element |[Python](./Python/215.py)| Medium |  |
+
+
 
 #### 6 - Implicit Graph DFS 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
@@ -264,7 +268,8 @@ Data Structure and Algorithms
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
-| 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array |  
+| 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
+
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | | 
 | 1081 | Smallest Subsequence of Distinct Characters |[Python](./Python/1081.py)| Hard | Stack | |:construction:|
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST | | | 
