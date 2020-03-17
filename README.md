@@ -90,7 +90,8 @@ Data Structure and Algorithms
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:------------|:-------------- |
 | 683 | Word Break III |[Python](./Python/ladder683.py)| Medium |   | :construction: |
-
+| 109 | Triangle |[Python](./Python/120.py)| Medium |   | 
+| 107 | Word Break |[Python](./Python/139.py)| Medium |   | 
 | 582 | Word Break II |[Python](./Python/140.py)| Medium | dfs, memoization search| 不能看见wordbreak就dp啊 这题求所有解你用dp干嘛...|:construction:|| 
 
 #### 10 - Additional Level
@@ -254,7 +255,10 @@ Data Structure and Algorithms
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST | | | 
 
 #### 0 - Where it starts  :muscle::muscle::muscle:
-|      __Title__      |       __Solution__      |   __Tags__ |__Notes__|
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
 |:--------------------|:-----------------------:|:--------------|:------------:|
-|Watering Flowers 2.0|| New Grad, 2019|
+| 1048 |  Longest String Chain |[Python](./Python/1048.py)| Medium | bfs + memoization search | | 
+| 430 |  Flatten a Multilevel Doubly Linked List |[Python](./Python/430.py)| Medium | linkedlist + bfs | :construction: very good question | 
+| 374 |  Guess Number Higher or Lower  |[Python](./Python/374.py)|Easy | Binary Search | | 
+| 375 |  Guess Number Higher or Lower II  |[Python](./Python/375.py)| Medium | DP | :construction: | 
 
