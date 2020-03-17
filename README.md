@@ -56,6 +56,19 @@ Data Structure and Algorithms
 | 95 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | | :construction:|
 | 86 | Binary Search Tree Iterator|[Python](./Python/173.py)| Medium | |:construction:|
 
+
+#### 5 - Two Pointers
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
+|:-------:|:--------------------|:------------:|:---------------:|:------------|:--------------|
+|  228 |  Middle of Linked List |[Python](./Python/876.py)| Easy | LinkedList  |
+|  607 |  Two Sum III - Data structure design |[Python](./Python/170.py)| Easy |  |
+|  539 |  Move Zeroes |[Python](./Python/283.py)| Easy |   |
+|  521 |  Remove Duplicate Numbers in Array |[Python](./Python/ladder521.py)| Easy |   |
+|  464 |  Sort Integers II |[Python](./Python/ladder464.py)| Easy | mergeSort/quickSort |
+|  608 | Two Sum II - Input array is sorted|[Python](./Python/167.py)| Medium |   |
+|  143 | Sort Colors II |[Python](./Python/75.py)| Medium | quickSort |
+|  57 | 3Sum |[Python](./Python/15.py)| Medium |  |
+
 #### 6 - Implicit Graph DFS 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:------------|:-------------- |
@@ -224,9 +237,9 @@ Data Structure and Algorithms
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
 | 90 |SubsetsII |[Python](./Python/90.py)| Medium | dfs | |
+| 97 | Interleaving String | [Python](./Python/97.py)| Hard | dp 双序列 |:construction: |
 | 98 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | :construction:|
 | 102| Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Medium | BFS |
-| 110 |  Balanced Binary Tree|[Python](./Python/110.py)| Easy |  |
 | 114 |  Flatten Binary Tree to Linked List |[Python](./Python/114.py)| Medium | :construction: |
 | 126| Word Ladder II |[Python](./Python/126.py)| Hard | BFS |
 | 127| Word Ladder |[Python](./Python/127.py)| Medium | BFS |
@@ -242,16 +255,18 @@ Data Structure and Algorithms
 |  253   |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
 | 270 |  Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy | Binary Tree |
 | 272 |  Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search |
-| 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | |  |
+| 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | |  
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
+| 316 | Remove Duplicate Letters |[Python](./Python/316.py)| Hard | Stack | |:construction:|
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
 | 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
-|  644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array |  
+| 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array |  
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | | 
+| 1081 | Smallest Subsequence of Distinct Characters |[Python](./Python/1081.py)| Hard | Stack | |:construction:|
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST | | | 
 
 #### 0 - Where it starts  :muscle::muscle::muscle:
