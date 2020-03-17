@@ -74,8 +74,9 @@ No more fun. Just LC
 - [ ] ladder - 9 DP
 - [ ] AD ladder - DP
 
-啥玩意啊写的 一顿debug
-真的动态规划你做成这样，就祈祷倒时候遇不到dp吧
+DP的题啥玩意啊写的，一顿debug。真的动态规划你做成这样，就祈祷倒时候遇不到dp吧
+
+##### 消去型DP
 
 消去型的动态规划，要逆折题意想。 Burst Balloon, guess Number Higher or LowerII, <br>
 这道题里首先考虑最后一个被扎破的气球。
@@ -91,5 +92,5 @@ X是最后一个被扎破的气球。 X左右的得分互不相关，因为X没�
 - 第一层循环：按照区间长度length从小到大
 - 第二层循环：固定长度，区间的start从0取到len(balloons)-length，所以start循环的范围是for i in range(len(balloons) - length + 1). 对应的end： j = i + length - 1
 - 第三层循环：i，j是不能扎破的两个气球，k就是i到j之间的某个最后一个扎破的气球。 for k in range(i + 1, j)
-这题不能再写错了，三遍了都。。
+<br>这题不能再写错了，三遍了都。。
 
