@@ -76,21 +76,20 @@ No more fun. Just LC
 
 啥玩意啊写的 一顿debug
 真的动态规划你做成这样，就祈祷倒时候遇不到dp吧
------
-消去型的动态规划，要逆折题意想。 Burst Balloon, guess Number Higher or LowerII, 
+
+消去型的动态规划，要逆折题意想。 Burst Balloon, guess Number Higher or LowerII, <br>
 这道题里首先考虑最后一个被扎破的气球。
-o xxxxxx X xxxxx o
-|        |       |
+o xxxxxx X xxxxx o <br>
 
 两边的o是我自己加的，相当于在nums首尾各加一个1， 为了保证所有气球被扎破的时候都有得分。这样最后一个也可以用 1 * num * 1 计算
-X是最后一个被扎破的气球。 X左右的得分互不相关，因为X没被扎破的时候把两边都分开了。左右两边就是两个小区间
+X是最后一个被扎破的气球。 X左右的得分互不相关，因为X没被扎破的时候把两边都分开了。左右两边就是两个小区间<br>
 所以f[i][j]就可以表示出来， i，j是不包括在区间内的，因为刚才加在首位的两个1就不包含在区间内。
-所以f[i][j]代表的就是从i+1到j-1这个区间内能得到的最大值。
-转移方程就是f[i][j] = max(f[i][j], f[i][k] + f[k][j] + balloons[i] * balloons[k] * balloons[j])
+所以f[i][j]代表的就是从i+1到j-1这个区间内能得到的最大值。<br>
+转移方程就是f[i][j] = max(f[i][j], f[i][k] + f[k][j] + balloons[i] * balloons[k] * balloons[j])<br>
 初始条件就是i, j相邻时候f[i][j] = 0. 因为区间的两个边界相邻，中间没有能扎的气球。
 这道题我做的最差的地方是计算顺序。以后就固定计算顺序：
-第一层循环：按照区间长度length从小到大
-第二层循环：固定长度，区间的start从0取到len(balloons)-length，所以start循环的范围是for i in range(len(balloons) - length + 1). 对应的end： j = i + length - 1
-第三层循环：i，j是不能扎破的两个气球，k就是i到j之间的某个最后一个扎破的气球。 for k in range(i + 1, j)
+- 第一层循环：按照区间长度length从小到大
+- 第二层循环：固定长度，区间的start从0取到len(balloons)-length，所以start循环的范围是for i in range(len(balloons) - length + 1). 对应的end： j = i + length - 1
+- 第三层循环：i，j是不能扎破的两个气球，k就是i到j之间的某个最后一个扎破的气球。 for k in range(i + 1, j)
 这题不能再写错了，三遍了都。。
 
