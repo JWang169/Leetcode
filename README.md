@@ -276,7 +276,7 @@ Data Structure and Algorithms
 
 #### 0 - Where it starts  :muscle::muscle::muscle:
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
-|:--------------------|:-----------------------:|:--------------|:------------:|
+|-------:|:--------------------|:-----------:|:---------------:|:------------|:---------------|
 | 1048 |  Longest String Chain |[Python](./Python/1048.py)| Medium | bfs + memoization search | | 
 | 430 |  Flatten a Multilevel Doubly Linked List |[Python](./Python/430.py)| Medium | linkedlist + bfs | :construction: very good question | 
 | 374 |  Guess Number Higher or Lower  |[Python](./Python/374.py)|Easy | Binary Search | | 
