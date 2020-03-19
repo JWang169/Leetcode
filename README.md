@@ -111,7 +111,7 @@ Data Structure and Algorithms
 | 107 | Word Break |[Python](./Python/139.py)| Medium |   | 
 | 582 | Word Break II |[Python](./Python/140.py)| Medium | 不能看见wordbreak就dp啊 这题求所有解你用dp干嘛...|:construction:|| 
 | 192 | Wildcard Matching |[Python](./Python/44.py)| Hard |   | 
-| 154 | Regular Expression Matching |[Python](./Python/10.py)| Hard |   | 
+| 154 | Regular Expression Matching |[Python](./Python/10.py)| Hard | 难一点的192 | :construction:  |
 
 
 #### 9 - 4 Key Points of DP and Coordinate DP
