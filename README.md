@@ -117,8 +117,11 @@ Data Structure and Algorithms
 #### 9 - 4 Key Points of DP and Coordinate DP
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:------------|:-------------- |
-|  115 |  Unique Paths II |[Python](./Python/.py)| Easy |   |
-
+| 115 |  Unique Paths II |[Python](./Python/63.py)| Easy|   | | 
+| 114 |  Unique Paths  |[Python](./Python/62.py)| Easy |   |
+| 111 |  Climbing Stairs  |[Python](./Python/70.py)| Easy |   |
+| 110 |  Minimum Path Sum  |[Python](./Python/64.py)| Easy |   |
+| 603 |  largest divisible subset |[Python](./Python/368.py)| Medium |   |
 
 
 #### 10 - Additional Level
@@ -246,6 +249,8 @@ Data Structure and Algorithms
 | 39 | Combination Sum |[Python](./Python/39.py)| Medium | dfs  | |
 | 40 | Combination Sum II |[Python](./Python/40.py)| Medium | dfs  | |
 | 42 |Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | 
+| 62 |  Unique Paths |[Python](./Python/62.py)| Medium |  dp | | 
+| 63 |  Unique Paths II |[Python](./Python/63.py)| Medium |  dp | | 
 | 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
 | 78 | Subsets |[Python](./Python/78.py)| Medium | dfs| |
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
@@ -279,7 +284,7 @@ Data Structure and Algorithms
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
 | 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
-
+| 935 | Knight Dialer |[Python](./Python/935.py)| Medium | DP | 不明显的滚动数组 | | 
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | | 
 | 1081 | Smallest Subsequence of Distinct Characters |[Python](./Python/1081.py)| Hard | Stack | |:construction:|
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST | | | 
