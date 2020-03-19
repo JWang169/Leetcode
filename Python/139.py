@@ -1,3 +1,17 @@
+# Mar19
+class Solution:
+    def wordBreak(self, s: str, wordDict: List[str]) -> bool:
+        n = len(s) + 1 
+        f = [False] * (n) 
+        f[0] = True 
+        for i in range(n):
+            for j in range(i, n):
+                if s[i: j] in wordDict and f[i] == True:
+                    f[j]  = True 
+        return f[-1]
+
+
+# Mar 16
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         n = len(s)

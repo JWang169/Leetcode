@@ -109,7 +109,17 @@ Data Structure and Algorithms
 | 683 | Word Break III |[Python](./Python/ladder683.py)| Medium |   | :construction: |
 | 109 | Triangle |[Python](./Python/120.py)| Medium |   | 
 | 107 | Word Break |[Python](./Python/139.py)| Medium |   | 
-| 582 | Word Break II |[Python](./Python/140.py)| Medium | dfs, memoization search| 不能看见wordbreak就dp啊 这题求所有解你用dp干嘛...|:construction:|| 
+| 582 | Word Break II |[Python](./Python/140.py)| Medium | 不能看见wordbreak就dp啊 这题求所有解你用dp干嘛...|:construction:|| 
+| 192 | Wildcard Matching |[Python](./Python/44.py)| Hard |   | 
+| 154 | Regular Expression Matching |[Python](./Python/10.py)| Hard |   | 
+
+
+#### 9 - 4 Key Points of DP and Coordinate DP
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
+|:-------:|:--------------------|:------------:|:---------------:|:------------|:-------------- |
+|  115 |  Unique Paths II |[Python](./Python/.py)| Easy |   |
+
+
 
 #### 10 - Additional Level
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
@@ -191,7 +201,7 @@ Data Structure and Algorithms
 |  29    | Interleaving String     |[Java](./Java/InterleavingString.java)  | Medium | DP / Recursion | in class | 
 | :heavy_exclamation_mark:396    | Coins in a Line III        |[Python](./Python/ladder596.py)) |Hard| dfs + 剪枝
 | :heavy_exclamation_mark:623    | K Edit Distance  |[Python](./Python/ladder623.py)  | Hard | 119 follow-up/Trie | 
-| :heavy_exclamation_mark:89   | K Sum |[Python](./Python/ladder89.py)  | Hard | DP[][][] | 
+| :heavy_exclamation_mark:89   | K Sum |[Python](./Python/ladder89.py)  | Hard | DP[][][] | :construction: |
 
 
 #### 7 - Follow Up
