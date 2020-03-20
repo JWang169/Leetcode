@@ -275,7 +275,7 @@ Data Structure and Algorithms
 |  253   |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
 | 270 |  Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy | Binary Tree |
 | 272 |  Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search |
-| 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | |  
+| 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | 
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
 | 316 | Remove Duplicate Letters |[Python](./Python/316.py)| Hard | Stack | |:construction:|
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
@@ -285,14 +285,14 @@ Data Structure and Algorithms
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
 | 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
-| 787 |Cheapest Flights Within K Stops|[Python](./Python/787.py)| Medium |  | | Dijkstra's Algo |
+| 787 |Cheapest Flights Within K Stops|[Python](./Python/787.py)| Medium |  | Dijkstra's Algo |
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | | G |
 | 935 | Knight Dialer |[Python](./Python/935.py)| Medium | DP | 不明显的滚动数组 | | 
-| 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | | 
+| 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | 
 | 1081 | Smallest Subsequence of Distinct Characters |[Python](./Python/1081.py)| Hard | Stack | |:construction:|
-| 1055 | Shortest Way to Form String |[Python](./Python/1055.py)| Medium | greedy | |:construction:|
-| 1088 | Confusing Number II |[Python](./Python/1088.py)| Hard | dfs & backtracking | |:construction:|
-| 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST | | | 
+| 1055 | Shortest Way to Form String |[Python](./Python/1055.py)| Medium | greedy |:construction:|
+| 1088 | Confusing Number II |[Python](./Python/1088.py)| Hard | dfs & backtracking |:construction:|
+| 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
 
 #### 0 - Where it starts  :muscle::muscle::muscle:
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
