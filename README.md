@@ -285,6 +285,7 @@ Data Structure and Algorithms
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
 | 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
+| 787 |Cheapest Flights Within K Stops|[Python](./Python/787.py)| Medium |  | | Dijkstra's Algo |
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | | G |
 | 935 | Knight Dialer |[Python](./Python/935.py)| Medium | DP | 不明显的滚动数组 | | 
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | | 
