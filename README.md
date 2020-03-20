@@ -285,14 +285,17 @@ Data Structure and Algorithms
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
 | 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
-| 787 |Cheapest Flights Within K Stops|[Python](./Python/787.py)| Medium |  | Dijkstra's Algo |
+| 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + | Dijkstra's Algo |
+| 787 |Cheapest Flights Within K Stops|[Python](./Python/787.py)| Medium | heap + | Dijkstra's Algo |
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | | G |
 | 935 | Knight Dialer |[Python](./Python/935.py)| Medium | DP | 不明显的滚动数组 | | 
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | 
+| 1029 | Two City Scheduling |[Python](./Python/1029.py)| Easy | heap | ||
 | 1081 | Smallest Subsequence of Distinct Characters |[Python](./Python/1081.py)| Hard | Stack | |:construction:|
 | 1055 | Shortest Way to Form String |[Python](./Python/1055.py)| Medium | greedy |:construction:|
 | 1088 | Confusing Number II |[Python](./Python/1088.py)| Hard | dfs & backtracking |:construction:|
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
+| 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line |  | 
 
 #### 0 - Where it starts  :muscle::muscle::muscle:
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
