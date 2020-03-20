@@ -284,10 +284,15 @@ Data Structure and Algorithms
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
-| 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
+| 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | 
+| 681  | Next Closest Time |[Python](./Python/681.py)| Medium | | G |  
+| 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
+| 705  |  Design HashSet |[Python](./Python/705.py)| Easy |hashset| G |  
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + | Dijkstra's Algo |
+| 752 | Open the Lock |[Python](./Python/752.py)| Medium | BFS | G |
 | 787 |Cheapest Flights Within K Stops|[Python](./Python/787.py)| Medium | heap + | Dijkstra's Algo |
-| 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | | G |
+| 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
+| 853 | Car Fleet|[Python](./Python/853.py)| Medium | | G |
 | 935 | Knight Dialer |[Python](./Python/935.py)| Medium | DP | 不明显的滚动数组 | | 
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | 
 | 1029 | Two City Scheduling |[Python](./Python/1029.py)| Easy | heap | ||
