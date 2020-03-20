@@ -122,7 +122,8 @@ Data Structure and Algorithms
 | 111 |  Climbing Stairs  |[Python](./Python/70.py)| Easy |   |
 | 110 |  Minimum Path Sum  |[Python](./Python/64.py)| Easy |   |
 | 603 |  largest divisible subset |[Python](./Python/368.py)| Medium |   |
-
+| 76  |  longest increasing subsequence |[Python](./Python/300.py)| Medium |   |
+| 602 | Russian Doll Envelopes |[Python](./Python/354.py)| Hard | binary search | :construction: my favorite by far |
 
 #### 10 - Additional Level
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
