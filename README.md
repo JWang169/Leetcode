@@ -245,14 +245,17 @@ Data Structure and Algorithms
 | 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
 | :heavy_exclamation_mark:1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
 | 17 |  Letter Combinations of a Phone Number |[Python](./Python/17.py)| Medium |  dfs  |
+| 20 | Valid Parentheses |[Python](./Python/20.py)|Easy|  |
 | 29 |Divide Two Integers|[Python](./Python/29.py)| Medium  | bit, intMax| :construction: | 
 | 33 |Search in Rotated Sorted Array|[Python](./Python/33.py)| Medium  | Binary Search | Rotated Array Your weakness |
 | 39 | Combination Sum |[Python](./Python/39.py)| Medium | dfs  | |
 | 40 | Combination Sum II |[Python](./Python/40.py)| Medium | dfs  | |
 | 42 |Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | 
+| 56 | Merge Intervals |[Python](./Python/56.py)| Medium | | | 
 | 62 |  Unique Paths |[Python](./Python/62.py)| Medium |  dp | | 
 | 63 |  Unique Paths II |[Python](./Python/63.py)| Medium |  dp | | 
 | 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
+| 66 |Plus One|[Python](./Python/66.py)| Easy | | |
 | 78 | Subsets |[Python](./Python/78.py)| Medium | dfs| |
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
@@ -276,11 +279,13 @@ Data Structure and Algorithms
 | 239 |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
 | 253 |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
 | 270 | Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy | Binary Tree |
-| 271 | Encode and Decode Strings |[Python](./Python/271.py)| Medium | | |G
-| 272 | Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search | 293 | Flip Game |[Python](./Python/297.py)| Easy |  | | 
-
+| 271 | Encode and Decode Strings |[Python](./Python/271.py)| Medium | |G|
+| 272 | Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search 
+| 276 | Paint Fence |[Python](./Python/276.py)| Easy | |G|
+| 293 | Flip Game |[Python](./Python/297.py)| Easy |  | | 
 | 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | 
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
+| 310 | Minimum Height Trees |[Python](./Python/310.py)| Medium | UF | :construction: |
 | 316 | Remove Duplicate Letters |[Python](./Python/316.py)| Hard | Stack | |:construction:|
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
