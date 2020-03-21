@@ -300,6 +300,7 @@ Data Structure and Algorithms
 | 681  | Next Closest Time |[Python](./Python/681.py)| Medium | | G |  
 | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
 | 705  |  Design HashSet |[Python](./Python/705.py)| Easy |hashset| G |  
+| 729 |My Calendar I|[Python](./Python/729.py)| Medium | BST | |
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + | Dijkstra's Algo |
 | 752 | Open the Lock |[Python](./Python/752.py)| Medium | BFS | G |
 | 766 | Toeplitz Matrix |[Python](./Python/766.py)| Easy|  | G |
