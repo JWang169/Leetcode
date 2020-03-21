@@ -267,14 +267,18 @@ Data Structure and Algorithms
 | 153 | Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  | Rotated Array | weakness |
 | 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| weakness 
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
+| 163 | Missing Ranges |[Python](./Python/163.py)| Medium |  | G |
+
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
 | 230 |   Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
 | 236 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
 | 239 |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
-|  253   |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
-| 270 |  Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy | Binary Tree |
-| 272 |  Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search |
+| 253 |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
+| 270 | Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy | Binary Tree |
+| 271 | Encode and Decode Strings |[Python](./Python/271.py)| Medium | | |G
+| 272 | Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search | 293 | Flip Game |[Python](./Python/297.py)| Easy |  | | 
+
 | 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | 
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
 | 316 | Remove Duplicate Letters |[Python](./Python/316.py)| Hard | Stack | |:construction:|
@@ -282,15 +286,21 @@ Data Structure and Algorithms
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
 | 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
-| 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |
+| 415 |  Add Strings|[Python](./Python/415.py)| Easy | | |
+| 422 |Valid Word Square|[Python](./Python/422.py)| Easy | | |
+| 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | Topological Sort |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
+| 485 | Max Consecutive Ones |[Python](./Python/468.py)| Easy |  | G |
 | 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | 
 | 681  | Next Closest Time |[Python](./Python/681.py)| Medium | | G |  
 | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
 | 705  |  Design HashSet |[Python](./Python/705.py)| Easy |hashset| G |  
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + | Dijkstra's Algo |
 | 752 | Open the Lock |[Python](./Python/752.py)| Medium | BFS | G |
+| 766 | Toeplitz Matrix |[Python](./Python/766.py)| Easy|  | G |
+
 | 787 |Cheapest Flights Within K Stops|[Python](./Python/787.py)| Medium | heap + | Dijkstra's Algo |
+| 800 | Similar RGB Color|[Python](./Python/800.py)| Easy | Hexadecimal | G |
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium | | G |
 | 935 | Knight Dialer |[Python](./Python/935.py)| Medium | DP | 不明显的滚动数组 | | 
@@ -298,6 +308,7 @@ Data Structure and Algorithms
 | 1029 | Two City Scheduling |[Python](./Python/1029.py)| Easy | heap | ||
 | 1081 | Smallest Subsequence of Distinct Characters |[Python](./Python/1081.py)| Hard | Stack | |:construction:|
 | 1055 | Shortest Way to Form String |[Python](./Python/1055.py)| Medium | greedy |:construction:|
+| 1062 | Longest Repeating Substring |[Python](./Python/1062.py)| Medium | dp |:construction:G|
 | 1088 | Confusing Number II |[Python](./Python/1088.py)| Hard | dfs & backtracking |:construction:|
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
 | 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line |  | 
