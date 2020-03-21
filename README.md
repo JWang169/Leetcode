@@ -271,7 +271,6 @@ Data Structure and Algorithms
 | 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| weakness 
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 163 | Missing Ranges |[Python](./Python/163.py)| Medium |  | G |
-
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
 | 230 |   Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
@@ -303,7 +302,6 @@ Data Structure and Algorithms
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + | Dijkstra's Algo |
 | 752 | Open the Lock |[Python](./Python/752.py)| Medium | BFS | G |
 | 766 | Toeplitz Matrix |[Python](./Python/766.py)| Easy|  | G |
-
 | 787 |Cheapest Flights Within K Stops|[Python](./Python/787.py)| Medium | heap + | Dijkstra's Algo |
 | 800 | Similar RGB Color|[Python](./Python/800.py)| Easy | Hexadecimal | G |
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
