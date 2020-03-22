@@ -274,6 +274,7 @@ Data Structure and Algorithms
 | 163 | Missing Ranges |[Python](./Python/163.py)| Medium |  | G |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
+| 214 | Shortest Palindrome |[Python](./Python/214.py)| Hard | KMP |
 | 230 |   Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
 | 236 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
 | 239 |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 

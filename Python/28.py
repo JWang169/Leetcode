@@ -20,6 +20,7 @@ class Solution:
                     j += 1 
                 else:
                     i = pattern[i - 1]
+                    
         i, idx = 0, 0
         while i < len(haystack) and idx < len(pattern):
             if haystack[i] == needle[idx]:
