@@ -94,3 +94,12 @@ X是最后一个被扎破的气球。 X左右的得分互不相关，因为X没�
 - 第三层循环：i，j是不能扎破的两个气球，k就是i到j之间的某个最后一个扎破的气球。 for k in range(i + 1, j)
 <br>这题不能再写错了，三遍了都。。
 
+#### Mar 22 
+##### KMP
+昨天晚上leetcode contest最后一题
+Brute Force竟然AC，Shame
+KMP summary：
+
+
+
+

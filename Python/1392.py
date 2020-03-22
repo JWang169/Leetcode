@@ -13,7 +13,7 @@ class Solution:
                 j += 1 
             else:
                 if i != 0:
-                    i = lps[i - 1]
+                    i = lps[i - 1]  #这是上一个和s[i]相同的位置 
                 else:
                     j += 1 
         if lps[-1] == 0:
