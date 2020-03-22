@@ -14,26 +14,30 @@ class Solution:
     @return: the shortest path 
     """
     def shortestPath(self, grid, source, destination):
-        # write your code here
-        dirs = [[1, 2], [1, -2], [-1, 2], [-1, -2], [2, 1], [2, -1], [-2, 1], [-2, -1]]
-        if not grid or not grid[0]:
-            return -1
-        sx, sy = source.x, source.y
-        tx, ty = destination.x, destination.y 
-        if grid[sx][sy] == 1 or grid[tx][ty] == 1:
+        if not grid:
             return -1 
-        count = 0
-        queue = deque([[sx, sy]])
-        while queue:
-            for i in range(len(queue)):
-                x, y = queue.popleft()
-                if x == tx and y == ty:
-                    return count 
-                grid[x][y] = 1 
-                for dx, dy in dirs:
-                    nx, ny = dx + x, dy + y 
-                    if 0 <= nx < len(grid) and 0 <= ny < len(grid[0]) and grid[nx][ny] == 0:
-                        queue.append([nx, ny])
-                        grid[nx][ny] = 1 
+        sx, sy = source.x, source.y 
+        dx, dy = destination.x, destination.y 
+        
+        xx = [1, 1, -1, -1, 2, 2, -2, -2]
+        yy = [2, -2, 2, -2, 1, -1, 1, -1]
+        if grid[sx][sy] == 1 or grid[dx][dy] == 1:
+            return -1
+        self.queue = deque()
+        count = -1
+        self.queue.append((sx, sy))
+        while self.queue:
             count += 1 
-        return -1
+            for i in range(len(self.queue)):
+                x, y = self.queue.popleft()
+                if x == dx and y == dy:
+                    return count 
+                grid[x][y] = 1
+                
+                for i in range(len(xx)):
+                    nx, ny = xx[i] + x, yy[i] + y 
+                    if 0 <= nx < len(grid) and 0 <= ny < len(grid[0]) and grid[nx][ny] == 0:
+                        grid[nx][ny] = 1
+                        self.queue.append((nx, ny))
+        
+        return -1 

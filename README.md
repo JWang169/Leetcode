@@ -281,6 +281,7 @@ Data Structure and Algorithms
 | 271 | Encode and Decode Strings |[Python](./Python/271.py)| Medium | |G|
 | 272 | Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search 
 | 276 | Paint Fence |[Python](./Python/276.py)| Easy | |G|
+| 289 | Game of Life |[Python](./Python/289.py)| Medium | |G|
 | 293 | Flip Game |[Python](./Python/297.py)| Easy |  | | 
 | 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | 
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
@@ -295,6 +296,8 @@ Data Structure and Algorithms
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | Topological Sort |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
 | 485 | Max Consecutive Ones |[Python](./Python/468.py)| Easy |  | G |
+| 526 |Beautiful Arrangement |[Python](./Python/526.py)| Medium |  |  |
+| 535 |Encode and Decode TinyURL |[Python](./Python/535.py)| Medium |  |  |
 | 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | 
 | 681  | Next Closest Time |[Python](./Python/681.py)| Medium | | G |  
 | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
@@ -316,6 +319,10 @@ Data Structure and Algorithms
 | 1088 | Confusing Number II |[Python](./Python/1088.py)| Hard | dfs & backtracking |:construction:|
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
 | 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line |  | 
+| 1389 |Create Target Array in the Given Order |[Python](./Python/1389.py)| Easy |  |  | 
+| 1390 | Four Divisors |[Python](./Python/1390.py)| Medium |  |  | 
+| 1391 | Check if There is a Valid Path in a Grid |[Python](./Python/1391.py)| Medium | BFS with condition |  | 
+| 1392 | Longest Happy Prefix|[Python](./Python/1392.py)| Hard | KMP |  | 
 
 #### 0 - Where it starts  :muscle::muscle::muscle:
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
