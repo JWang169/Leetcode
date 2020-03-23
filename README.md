@@ -172,6 +172,7 @@ Data Structure and Algorithms
 |  633  |  Find the Duplicate Number |[Python](./Python/287.py)| Hard | | :construction: |  
 |  362  |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
 |  183  |  Wood Cut |[Python](./Python/ladder183.py)| Hard | | 
+
 #### 5 - Dynamic Problem I 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
 |:-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
@@ -289,6 +290,8 @@ Data Structure and Algorithms
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
 | 310 | Minimum Height Trees |[Python](./Python/310.py)| Medium | UF | :construction: |
 | 316 | Remove Duplicate Letters |[Python](./Python/316.py)| Hard | Stack | |:construction:|
+| 333 | Largest BST Subtree |[Python](./Python/333.py)| Medium | BST | Divide&Conquer |
+| 337 | House Robber III |[Python](./Python/337.py)| Medium | DFS Divide&Conquer |  |
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
 | 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
@@ -300,7 +303,10 @@ Data Structure and Algorithms
 | 485 | Max Consecutive Ones |[Python](./Python/468.py)| Easy |  | G |
 | 526 |Beautiful Arrangement |[Python](./Python/526.py)| Medium |  |  |
 | 535 |Encode and Decode TinyURL |[Python](./Python/535.py)| Medium |  |  |
+| 543 | Diameter of Binary Tree |[Python](./Python/543.py)| Easy | Tree | 1245 |
+| 638 | Shopping Offer |[Python](./Python/638.py)| Medium | DFS + Pruning |  |
 | 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | 
+| 679  |  24 Game |[Python](./Python/679.py)| Hard | DFS |  |  
 | 681  | Next Closest Time |[Python](./Python/681.py)| Medium | | G |  
 | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
 | 705  |  Design HashSet |[Python](./Python/705.py)| Easy |hashset| G |  
@@ -322,6 +328,7 @@ Data Structure and Algorithms
 | 1088 | Confusing Number II |[Python](./Python/1088.py)| Hard | dfs & backtracking |:construction:|
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
 | 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line |  | 
+| 1245 | Tree Diameter |[Python](./Python/1245.py)| Medium | graph |  | 
 | 1389 |Create Target Array in the Given Order |[Python](./Python/1389.py)| Easy |  |  | 
 | 1390 | Four Divisors |[Python](./Python/1390.py)| Medium |  |  | 
 | 1391 | Check if There is a Valid Path in a Grid |[Python](./Python/1391.py)| Medium | BFS with condition |  | 
