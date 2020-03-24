@@ -128,7 +128,12 @@ Data Structure and Algorithms
 #### 10 - Additional Level
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ | __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:------------|:--------------|
-|  840    | Range Sum Query - Mutable |[Python](./Python/840.py)| Medium | Segment Tree|
+|  840    | Range Sum Query - Mutable |[Python](./Python/840.py)| Medium | Segment Tree| |
+|  486    | Merge K Sorted Arrays |[Python](./Python/ladder486.py)| Medium | heap | | 
+|  577    |Merge K Sorted Interval Lists |[Python](./Python/ladder577.py)| Medium | heap | | 
+|  931    |Median of K Sorted Arrays|[Python](./Python/ladder931.py)| Hard | 二分答案 | | 
+
+
 
 
 -----
@@ -245,6 +250,7 @@ Data Structure and Algorithms
 | 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |  |
 | 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
 | :heavy_exclamation_mark:1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
+| 4| Median of Two Sorted Arrays |[Python](./Python/4.py)| Hard | | :construction: |
 | 17 |  Letter Combinations of a Phone Number |[Python](./Python/17.py)| Medium |  dfs  |
 | 20 | Valid Parentheses |[Python](./Python/20.py)|Easy|  |
 | 28 | Implement strStr() |[Python](./Python/28.py)|Easy| KMP |
@@ -272,6 +278,7 @@ Data Structure and Algorithms
 | 127| Word Ladder |[Python](./Python/127.py)| Medium | BFS |
 | 133| Clone Graph |[Python](./Python/133.py)| Medium | BFS |
 | 145|Binary Tree Postorder Traversal |[Python](./Python/145.py)| Hard | Morris | :construction: |
+| 147| Insertion Sort List |[Python](./Python/147.py)| Medium |LinkedList | :construction: |
 | 153 | Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  | Rotated Array | weakness |
 | 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| weakness 
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
@@ -290,6 +297,8 @@ Data Structure and Algorithms
 | 289 | Game of Life |[Python](./Python/289.py)| Medium | |G|
 | 293 | Flip Game |[Python](./Python/297.py)| Easy |  | | 
 | 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | 
+| 303 | Range Sum Query - Immutable |[Python](./Python/303.py)| Easy | 前缀和 | | 
+| 304 | Range Sum Query 2D - Immutable |[Python](./Python/304.py)| Medium | 2d前缀和 |  |
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
 | 310 | Minimum Height Trees |[Python](./Python/310.py)| Medium | UF | :construction: |
 | 316 | Remove Duplicate Letters |[Python](./Python/316.py)| Hard | Stack | |:construction:|
@@ -328,6 +337,7 @@ Data Structure and Algorithms
 | 1029 | Two City Scheduling |[Python](./Python/1029.py)| Easy | heap | ||
 | 1081 | Smallest Subsequence of Distinct Characters |[Python](./Python/1081.py)| Hard | Stack | |:construction:|
 | 1055 | Shortest Way to Form String |[Python](./Python/1055.py)| Medium | greedy |:construction:|
+| 1056 | Confusing Number |[Python](./Python/1056.py)| Easy | | |
 | 1062 | Longest Repeating Substring |[Python](./Python/1062.py)| Medium | dp |:construction:G|
 | 1088 | Confusing Number II |[Python](./Python/1088.py)| Hard | dfs & backtracking |:construction:|
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
