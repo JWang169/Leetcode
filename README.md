@@ -320,6 +320,7 @@ Data Structure and Algorithms
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | Topological Sort |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
 | 485 | Max Consecutive Ones |[Python](./Python/468.py)| Easy |  | G |
+| 516 | Longest Palindromic Subsequence |[Python](./Python/516.py)| Medium | dp |  |
 | 526 |Beautiful Arrangement |[Python](./Python/526.py)| Medium |  |  |
 | 535 |Encode and Decode TinyURL |[Python](./Python/535.py)| Medium |  |  |
 | 543 | Diameter of Binary Tree |[Python](./Python/543.py)| Easy | Tree | 1245 |
