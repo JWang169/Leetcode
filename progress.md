@@ -1,12 +1,12 @@
-Progress in completing the Ladders
+10000 Progress 
 ==========================================================
 ![](static/dragonMaid.gif)
 
 #### Get Ready
 | __Tags.__ |  __No.__   |  __Title__      |   __Difficulty__ | 
 |:-------|:--------------------|:---------------|:---------------------:|
-|   BFS, Topological Sort  | 210 <br>   | Course Schedule II <br>  | Medium  <br>| 
-|   DP  | 3 <br> 516<br>  |Longest Palindrome Substring <br> Longest Palindromic Subsequence <br> | Medium  <br> Medium  <br>| 
+|   BFS, Topological Sort  | [210](https://leetcode.com/problems/course-schedule-ii/) <br>   | Course Schedule II <br>  | Medium  <br>| 
+|   DP  | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) <br> [516](https://leetcode.com/problems/longest-palindromic-subsequence/)<br>  |Longest Palindrome Substring <br> Longest Palindromic Subsequence <br> | Medium  <br> Medium  <br>| 
 
 
 #### Mar 9
