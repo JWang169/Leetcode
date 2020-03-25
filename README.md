@@ -16,7 +16,7 @@ Data Structure and Algorithms
 #### 2 - Breadth First Search 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ |  __Notes__ |
 |:-------:|:--------------------|:------------:|:---------------:|:---------------|
-|  433    | Number of Islands   |[Java](./Java/NumIslands.java<br>[Python](./Python/200.py)| Easy | 
+|  433    | Number of Islands   |[Java](./Java/NumIslands.java) <br>[Python](./Python/200.py)| Easy | 
 |  69     | Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Easy | |
 |  615    | Course Schedule     |[Java](./Java/CourseSchedule.java)<br>[Python](./Python/207.py)| Medium | 
 |  616    | Course ScheduleII    |[Java](./Java/CourseSchedule.java)<br>[Python](./Python/210.py)| Medium | 
