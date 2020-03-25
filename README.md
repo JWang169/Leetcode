@@ -20,10 +20,10 @@ Data Structure and Algorithms
 |  69     | Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Easy | |
 |  615    | Course Schedule     |[Java](./Java/CourseSchedule.java)<br>[Python](./Python/207.py)| Medium | 
 |  616    | Course ScheduleII    |[Java](./Java/CourseSchedule.java)<br>[Python](./Python/210.py)| Medium | 
-|  605    |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | | Topological Sort |  |
-|  137    | Clone Graph |[Python](./Python/133.py)| Medium | BFS | | Topological Sort |  |
-|  127    | Topological Sorting |[Python](./Python/ladder127.py)| Medium | BFS | | Topological Sort |  |
-| 7 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Medium | BFS | | |  |
+|  605    |Sequence Reconstruction|[Python](./Python/444.py)| Medium ||  |
+|  137    | Clone Graph |[Python](./Python/133.py)| Medium | |  |
+|  127    | Topological Sorting |[Python](./Python/ladder127.py)| Medium | |  |
+| 7 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Medium | | |  |
 | 120 | Word Ladder |[Python](./Python/127.py)| Hard | BFS |
 
 
