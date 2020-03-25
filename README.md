@@ -257,6 +257,7 @@ Data Structure and Algorithms
 | 20 | Valid Parentheses |[Python](./Python/20.py)|Easy|  |
 | 28 | Implement strStr() |[Python](./Python/28.py)|Easy| KMP |
 | 29 |Divide Two Integers|[Python](./Python/29.py)| Medium  | bit, intMax| :construction: | 
+| 31 |Next Permutation|[Python](./Python/31.py)| Medium  | | | 
 | 33 |Search in Rotated Sorted Array|[Python](./Python/33.py)| Medium  | Binary Search | Rotated Array Your weakness |
 | 39 | Combination Sum |[Python](./Python/39.py)| Medium | dfs  | |
 | 40 | Combination Sum II |[Python](./Python/40.py)| Medium | dfs  | |
@@ -353,6 +354,7 @@ Data Structure and Algorithms
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
 | 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line |  | 
 | 1245 | Tree Diameter |[Python](./Python/1245.py)| Medium | graph |  | 
+| 1332 |Remove Palindromic Subsequences|[Python](./Python/1332.py)| Easy | |  | 
 | 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit |  | 
 | 1367 | Linked List in Binary Tree|[Python](./Python/1367.py)| Medium | BFS |  | 
 | 1389 |Create Target Array in the Given Order |[Python](./Python/1389.py)| Easy |  |  | 
