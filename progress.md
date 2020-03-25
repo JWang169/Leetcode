@@ -100,6 +100,11 @@ X是最后一个被扎破的气球。 X左右的得分互不相关，因为X没�
 Brute Force竟然AC，Shame
 KMP summary：
 
+#### Get Ready
+| __Tags.__ |  __No.__   |  __Title__      |   __Difficulty__ | 
+|:-------:|:--------------------|:---------------:|:---------------------:|
+|   BFS, Topological Sort  | 210 <br>   | Course Schedule II <br>  | Medium  <br>| 
+|   DP  | 3 <br> 516<br>  |Longest Palindrome Substring <br> Longest Palindromic Subsequence <br> | Medium  <br> Medium  <br>| 
 
 
 
