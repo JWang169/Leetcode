@@ -275,6 +275,7 @@ Data Structure and Algorithms
 | 98 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | :construction:|
 | 99 | Recover Binary Search Tree|[Python](./Python/99.py)| Hard | Morris | :construction:|
 | 102| Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Medium | BFS |
+| 111|  Minimum Depth of Binary Tree |[Python](./Python/111.py)| Easy | BFS |
 | 114 |Flatten Binary Tree to Linked List |[Python](./Python/114.py)| Medium | :construction:Mar23 |
 | 126| Word Ladder II |[Python](./Python/126.py)| Hard | BFS |
 | 127| Word Ladder |[Python](./Python/127.py)| Medium | BFS |
@@ -306,6 +307,7 @@ Data Structure and Algorithms
 | 316 | Remove Duplicate Letters |[Python](./Python/316.py)| Hard | Stack | |:construction:|
 | 333 | Largest BST Subtree |[Python](./Python/333.py)| Medium | BST | Divide&Conquer |
 | 337 | House Robber III |[Python](./Python/337.py)| Medium | DFS Divide&Conquer |  |
+| 359 | Logger Rate Limiter |[Python](./Python/359.py)| Easy | |  |
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
 | 389 | Find the Difference |[Python](./Python/389.py)| Easy | |  |
@@ -328,8 +330,8 @@ Data Structure and Algorithms
 | 706  |  Design HashMap |[Python](./Python/706.py)| Easy |hashfunc, open hash| G |  
 | 708  |Insert into a Sorted Circular Linked List |[Python](./Python/708.py)|Medium | LinkedList | :construction: |  
 | 720 | Longest Word in Dictionary|[Python](./Python/720.py)| Easy| Trie | |
-| 729 |My Calendar I|[Python](./Python/729.py)| Medium | Binary Search Tree | :construction: |
-| 731 |My Calendar II|[Python](./Python/731.py)| Medium |  | 这题和上一题swipeline也可以做，但mutable每次更新都要扫一遍，所以treemap(Binary search tree)可以避免重复 |
+| 729 |My Calendar I|[Python](./Python/729.py)| Medium | Binary Search Tree | :construction:swipeline也可以做，但mutable每次更新都要扫一遍，所以treemap(Binary search tree)可以避免重复 |
+| 731 |My Calendar II|[Python](./Python/731.py)| Medium |  | 这题要把overlap判定和insert分开。如果同时进行会导致已经insert了一部分并且改变了之前的root之后发现overlap，return false同时改变了前面的root => 错了 |
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + | Dijkstra's Algo |
 | 752 | Open the Lock |[Python](./Python/752.py)| Medium | BFS | G |
 | 766 | Toeplitz Matrix |[Python](./Python/766.py)| Easy|  | G |
@@ -338,6 +340,7 @@ Data Structure and Algorithms
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium | | G |
 | 935 | Knight Dialer |[Python](./Python/935.py)| Medium | DP | 不明显的滚动数组 | | 
+| 958 | Check Completeness of a Binary Tree |[Python](./Python/935.py)| Medium | Divide&Conquer | perfect / complete binary tree| 
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | 
 | 1028 | Recover a Tree From Preorder Traversal |[Python](./Python/1028.py)| Hard | Divide&Conquer | ||
 | 1029 | Two City Scheduling |[Python](./Python/1029.py)| Easy | heap | ||
