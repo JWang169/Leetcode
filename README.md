@@ -308,6 +308,7 @@ Data Structure and Algorithms
 | 337 | House Robber III |[Python](./Python/337.py)| Medium | DFS Divide&Conquer |  |
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
+| 389 | Find the Difference |[Python](./Python/389.py)| Easy | |  |
 | 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
 | 415 |  Add Strings|[Python](./Python/415.py)| Easy | | |
@@ -324,8 +325,11 @@ Data Structure and Algorithms
 | 681  | Next Closest Time |[Python](./Python/681.py)| Medium | | G |  
 | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
 | 705  |  Design HashSet |[Python](./Python/705.py)| Easy |hashset| G |  
+| 706  |  Design HashMap |[Python](./Python/706.py)| Easy |hashfunc, open hash| G |  
 | 708  |Insert into a Sorted Circular Linked List |[Python](./Python/708.py)|Medium | LinkedList | :construction: |  
-| 729 |My Calendar I|[Python](./Python/729.py)| Medium | BST | |
+| 720 | Longest Word in Dictionary|[Python](./Python/720.py)| Easy| Trie | |
+| 729 |My Calendar I|[Python](./Python/729.py)| Medium | Binary Search Tree | :construction: |
+| 731 |My Calendar II|[Python](./Python/731.py)| Medium |  | 这题和上一题swipeline也可以做，但mutable每次更新都要扫一遍，所以treemap(Binary search tree)可以避免重复 |
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + | Dijkstra's Algo |
 | 752 | Open the Lock |[Python](./Python/752.py)| Medium | BFS | G |
 | 766 | Toeplitz Matrix |[Python](./Python/766.py)| Easy|  | G |
@@ -345,6 +349,7 @@ Data Structure and Algorithms
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
 | 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line |  | 
 | 1245 | Tree Diameter |[Python](./Python/1245.py)| Medium | graph |  | 
+| 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit |  | 
 | 1367 | Linked List in Binary Tree|[Python](./Python/1367.py)| Medium | BFS |  | 
 | 1389 |Create Target Array in the Given Order |[Python](./Python/1389.py)| Easy |  |  | 
 | 1390 | Four Divisors |[Python](./Python/1390.py)| Medium |  |  | 
