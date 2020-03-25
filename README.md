@@ -305,6 +305,7 @@ Data Structure and Algorithms
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
 | 310 | Minimum Height Trees |[Python](./Python/310.py)| Medium | UF | :construction: |
 | 316 | Remove Duplicate Letters |[Python](./Python/316.py)| Hard | Stack | |:construction:|
+| 323 | Number of Connected Components in an Undirected Graph |[Python](./Python/323.py)| Medium | UnionFind | |
 | 333 | Largest BST Subtree |[Python](./Python/333.py)| Medium | BST | Divide&Conquer |
 | 337 | House Robber III |[Python](./Python/337.py)| Medium | DFS Divide&Conquer |  |
 | 359 | Logger Rate Limiter |[Python](./Python/359.py)| Easy | |  |
