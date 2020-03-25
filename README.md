@@ -11,7 +11,7 @@ Data Structure and Algorithms
 |  627    | Longest Palindrome  |[Java](./Java/LongestPalindrome.java)| Easy | HashMap |
 |  13     | Implement strStr    |[Java](./Java/StrStr.java)| Easy | String |
 |  415    | Valid Palindrome    |[Java](./Java/ValidPalindrome.java)| Medium | Character |
-|  200    | Longest Palindrome Substring  |[Java](./Java/LongestPalindromicSubstring.java)| Medium | DP |
+|  200    | Longest Palindrome Substring  |[Java](./Java/LongestPalindromicSubstring.java) <br>[Python](./Python/200.py)| Medium | DP |
 
 #### 2 - Breadth First Search 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ |  __Notes__ |
