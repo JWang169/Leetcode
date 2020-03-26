@@ -7,6 +7,9 @@
 |:-------|:--------------------|:---------------|:---------------------:|
 |   BFS, Topological Sort  | [210](https://leetcode.com/problems/course-schedule-ii/) <br>   | Course Schedule II <br>  | Medium  <br>| 
 |   DP  | [516](https://leetcode.com/problems/longest-palindromic-subsequence/)<br>  |Longest Palindromic Subsequence <br> | Medium  <br>| 
+|  Divide & Conquer  | [98](https://leetcode.com/problems/validate-binary-search-tree/)<br>[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | Validate Binary Search Tree<br>  Lowest Common Ancestor of a Binary Tree<br>| Medium  <br>Medium  <br> | 
+|Quick Sort |[75](https://leetcode.com/problems/sort-colors/)<br>[324](https://leetcode.com/problems/wiggle-sort-ii/)<br> | Sort Colors <br> Wiggle Sort II <br> | Medium  <br> Medium  <br> |
+| DFS |[75](https://leetcode.com/problems/sort-colors/)<br> | Subsets <br> | Medium  <br> |
 
 
 #### Mar 9
