@@ -9,7 +9,9 @@
 |   DP  | [516](https://leetcode.com/problems/longest-palindromic-subsequence/)<br>  |Longest Palindromic Subsequence <br> | Medium  <br>| 
 |  Divide & Conquer  | [98](https://leetcode.com/problems/validate-binary-search-tree/)<br>[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | Validate Binary Search Tree<br>  Lowest Common Ancestor of a Binary Tree<br>| Medium  <br>Medium  <br> | 
 |Quick Sort |[75](https://leetcode.com/problems/sort-colors/)<br>[324](https://leetcode.com/problems/wiggle-sort-ii/)<br> | Sort Colors <br> Wiggle Sort II <br> | Medium  <br> Medium  <br> |
-| DFS |[75](https://leetcode.com/problems/sort-colors/)<br> | Subsets <br> | Medium  <br> |
+| DFS |[46](https://leetcode.com/problems/permutations/)<br> | Permutations <br> | Medium  <br> |
+| Union Find |[216](https://leetcode.com/problems/graph-valid-tree/)<br> | Graph Valid Tree <br> | Medium  <br> |
+| Trie |[208](https://leetcode.com/problems/implement-trie-prefix-tree/)<br> | Implement Trie (Prefix Tree) <br> | Medium  <br> |
 
 
 #### Mar 9
