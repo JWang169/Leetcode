@@ -148,7 +148,7 @@ Data Structure and Algorithms
 |  590    | Connecting Graph II |[Python](./Python/ladder590.py)| Medium |
 |  591    | Connecting Graph III|[Python](./Python/ladder591.py)| Medium |
 |  178    | Graph Valid Tree |[Python](./Python/216.py)| Medium | 
-
+|  442    | Implement Trie (Prefix Tree) |[Python](./Python/208.py)| Medium | |
 
 
 #### 3 - Stack, Deque, Heap
@@ -334,6 +334,7 @@ Data Structure and Algorithms
 | 706  |  Design HashMap |[Python](./Python/706.py)| Easy |hashfunc, open hash| G |  
 | 708  |Insert into a Sorted Circular Linked List |[Python](./Python/708.py)|Medium | LinkedList | :construction: |  
 | 720 | Longest Word in Dictionary|[Python](./Python/720.py)| Easy| Trie | |
+| 721 |Accounts Merge |[Python](./Python/721.py)| Medium | Union Find |  |
 | 729 |My Calendar I|[Python](./Python/729.py)| Medium | Binary Search Tree | :construction:swipeline也可以做，但mutable每次更新都要扫一遍，所以treemap(Binary search tree)可以避免重复 |
 | 731 |My Calendar II|[Python](./Python/731.py)| Medium |  | 这题要把overlap判定和insert分开。如果同时进行会导致已经insert了一部分并且改变了之前的root之后发现overlap，return false同时改变了前面的root => 错了 |
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + | Dijkstra's Algo |
