@@ -147,7 +147,7 @@ Data Structure and Algorithms
 |  589    | Connecting Graph |[Python](./Python/ladder589.py)| Medium |
 |  590    | Connecting Graph II |[Python](./Python/ladder590.py)| Medium |
 |  591    | Connecting Graph III|[Python](./Python/ladder591.py)| Medium |
-|  178    | Graph Valid Tree |[Python](./Python/ladder178.py)| Medium | 
+|  178    | Graph Valid Tree |[Python](./Python/216.py)| Medium | 
 
 
 
@@ -262,6 +262,7 @@ Data Structure and Algorithms
 | 39 | Combination Sum |[Python](./Python/39.py)| Medium | dfs  | |
 | 40 | Combination Sum II |[Python](./Python/40.py)| Medium | dfs  | |
 | 42 |Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | 
+| 46 | Permutations |[Python](./Python/46.py)| Medium | dfs  | |
 | 56 | Merge Intervals |[Python](./Python/56.py)| Medium | | | 
 | 62 |  Unique Paths |[Python](./Python/62.py)| Medium |  dp | | 
 | 63 |  Unique Paths II |[Python](./Python/63.py)| Medium |  dp | | 
