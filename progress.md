@@ -12,6 +12,7 @@
 | DFS |[46](https://leetcode.com/problems/permutations/)<br> | Permutations <br> | Medium  <br> |
 | Union Find |[216](https://leetcode.com/problems/graph-valid-tree/)<br> | Graph Valid Tree <br> | Medium  <br> |
 | Trie |[208](https://leetcode.com/problems/implement-trie-prefix-tree/)<br> | Implement Trie (Prefix Tree) <br> | Medium  <br> |
+| Binary Search |[33](https://leetcode.com/problems/search-in-rotated-sorted-array/)<br> | Search in Rotated Sorted Array <br> | Medium  <br> |
 
 
 #### Mar 9
