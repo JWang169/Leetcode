@@ -14,7 +14,7 @@
 | Trie |[208](https://leetcode.com/problems/implement-trie-prefix-tree/)<br> | Implement Trie (Prefix Tree) <br> | Medium  <br> |
 | Binary Search |[33](https://leetcode.com/problems/search-in-rotated-sorted-array/)<br> | Search in Rotated Sorted Array <br> | Medium  <br> |
 | Two Pointers |[15](https://leetcode.com/problems/3sum/)<br> | 3Sum <br> | Medium  <br> |
-
+| Memoization Search |[140](https://leetcode.com/problems/word-break-ii/)<br> | Word Break II<br> | Medium  <br> |
 
 #### Mar 9
 - [x] Followup ladders 
