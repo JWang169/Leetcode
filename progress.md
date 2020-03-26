@@ -13,6 +13,7 @@
 | Union Find |[216](https://leetcode.com/problems/graph-valid-tree/)<br>[721超麻烦的uf](https://leetcode.com/problems/accounts-merge/) | Graph Valid Tree <br>Accounts Merge<br> | Medium  <br>  Medium  <br> | 
 | Trie |[208](https://leetcode.com/problems/implement-trie-prefix-tree/)<br> | Implement Trie (Prefix Tree) <br> | Medium  <br> |
 | Binary Search |[33](https://leetcode.com/problems/search-in-rotated-sorted-array/)<br> | Search in Rotated Sorted Array <br> | Medium  <br> |
+| Two Pointers |[15](https://leetcode.com/problems/3sum/)<br> | 3Sum <br> | Medium  <br> |
 
 
 #### Mar 9
