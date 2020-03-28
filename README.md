@@ -330,6 +330,7 @@ Data Structure and Algorithms
 | 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | 
 | 679  |  24 Game |[Python](./Python/679.py)| Hard | DFS |  |  
 | 681  | Next Closest Time |[Python](./Python/681.py)| Medium | | G |  
+| 685  | Redundant Connection II |[Python](./Python/685.py)| Hard | | 判断valid tree: 只有root的indegere是0， 其他node的indegree一定是1 => 有环出现，root的indegree变成1， 或者某个非根节点的indegree变成2 |  
 | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
 | 705  |  Design HashSet |[Python](./Python/705.py)| Easy |hashset| G |  
 | 706  |  Design HashMap |[Python](./Python/706.py)| Easy |hashfunc, open hash| G |  
