@@ -350,12 +350,14 @@ Data Structure and Algorithms
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | 
 | 1028 | Recover a Tree From Preorder Traversal |[Python](./Python/1028.py)| Hard | Divide&Conquer | ||
 | 1029 | Two City Scheduling |[Python](./Python/1029.py)| Easy | heap | ||
-| 1081 | Smallest Subsequence of Distinct Characters |[Python](./Python/1081.py)| Hard | Stack | |:construction:|
+| 1043 | Partition Array for Maximum Sum |[Python](./Python/1043.py)| Medium | DP | :construction: |
 | 1055 | Shortest Way to Form String |[Python](./Python/1055.py)| Medium | greedy |:construction:|
 | 1056 | Confusing Number |[Python](./Python/1056.py)| Easy | | |
 | 1062 | Longest Repeating Substring |[Python](./Python/1062.py)| Medium | dp |:construction:G|
+| 1081 | Smallest Subsequence of Distinct Characters |[Python](./Python/1081.py)| Hard | Stack | |:construction:|
 | 1088 | Confusing Number II |[Python](./Python/1088.py)| Hard | dfs & backtracking |:construction:|
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
+| 1153 | String Transforms Into Another String |[Python](./Python/1153.py)| Hard |  | It's a brain teaser | 
 | 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line |  | 
 | 1245 | Tree Diameter |[Python](./Python/1245.py)| Medium | graph |  | 
 | 1257 | Smallest Common Region |[Python](./Python/1257.py)| Medium | Unionfind |  | 
