@@ -257,8 +257,9 @@ Data Structure and Algorithms
 | 17 |  Letter Combinations of a Phone Number |[Python](./Python/17.py)| Medium |  dfs  |
 | 20 | Valid Parentheses |[Python](./Python/20.py)|Easy|  |
 | 28 | Implement strStr() |[Python](./Python/28.py)|Easy| KMP |
-| 29 |Divide Two Integers|[Python](./Python/29.py)| Medium  | bit, intMax| :construction: | 
-| 31 |Next Permutation|[Python](./Python/31.py)| Medium  | | | 
+| 29 | Divide Two Integers|[Python](./Python/29.py)| Medium  | bit, intMax| :construction: | 
+| 30 | Substring with Concatenation of All Words|[Python](./Python/30.py)| Hard | | | 
+| 31 | Next Permutation|[Python](./Python/31.py)| Medium  | | | 
 | 33 |Search in Rotated Sorted Array|[Python](./Python/33.py)| Medium  | Binary Search | Rotated Array Your weakness |
 | 39 | Combination Sum |[Python](./Python/39.py)| Medium | dfs  | |
 | 40 | Combination Sum II |[Python](./Python/40.py)| Medium | dfs  | |
@@ -330,7 +331,7 @@ Data Structure and Algorithms
 | 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | 
 | 679  |  24 Game |[Python](./Python/679.py)| Hard | DFS |  |  
 | 681  | Next Closest Time |[Python](./Python/681.py)| Medium | | G |  
-| 685  | Redundant Connection II |[Python](./Python/685.py)| Hard | | 判断valid tree: 只有root的indegere是0， 其他node的indegree一定是1 => 有环出现，root的indegree变成1， 或者某个非根节点的indegree变成2 |  
+| 685  | Redundant Connection II |[Python](./Python/685.py)| Hard | Union Find | 判断valid tree: 只有root的indegere是0， 其他node的indegree一定是1 => 有环出现，root的indegree变成1， 或者某个非根节点indegree变成2 :construction:|  
 | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
 | 705  |  Design HashSet |[Python](./Python/705.py)| Easy |hashset| G |  
 | 706  |  Design HashMap |[Python](./Python/706.py)| Easy |hashfunc, open hash| G |  
@@ -346,6 +347,7 @@ Data Structure and Algorithms
 | 800 | Similar RGB Color|[Python](./Python/800.py)| Easy | Hexadecimal | G |
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium | | G |
+| 859 | Buddy Strings|[Python](./Python/859.py)| Easy| |  |
 | 935 | Knight Dialer |[Python](./Python/935.py)| Medium | DP | 不明显的滚动数组 | | 
 | 958 | Check Completeness of a Binary Tree |[Python](./Python/935.py)| Medium | Divide&Conquer | perfect / complete binary tree| 
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | 
