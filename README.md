@@ -359,6 +359,7 @@ Data Structure and Algorithms
 | 1091 |Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
 | 1153 | String Transforms Into Another String |[Python](./Python/1153.py)| Hard |  | It's a brain teaser | 
 | 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line |  | 
+| 1231 |Divide Chocolate|[Python](./Python/1231.py)| Hard | 二分答案 | dfs+pruning=>TLE，二分方法=>AC  | 
 | 1245 | Tree Diameter |[Python](./Python/1245.py)| Medium | graph |  | 
 | 1257 | Smallest Common Region |[Python](./Python/1257.py)| Medium | Unionfind |  | 
 | 1332 |Remove Palindromic Subsequences|[Python](./Python/1332.py)| Easy | |  | 
