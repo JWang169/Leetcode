@@ -314,6 +314,7 @@ Data Structure and Algorithms
 | 337 | House Robber III |[Python](./Python/337.py)| Medium | DFS Divide&Conquer |  |
 | 359 | Logger Rate Limiter |[Python](./Python/359.py)| Easy | |  |
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
+| 363 | Max Sum of Rectangle No Larger Than K |[Python](./Python/363.py)| Hard | prefixSum + bisect | |
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
 | 389 | Find the Difference |[Python](./Python/389.py)| Easy | |  |
 | 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
@@ -321,6 +322,7 @@ Data Structure and Algorithms
 | 415 |  Add Strings|[Python](./Python/415.py)| Easy | | |
 | 422 |Valid Word Square|[Python](./Python/422.py)| Easy | | |
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | Topological Sort |
+| 465 | Optimal Account Balancing |[Python](./Python/465.py)| Hard | Greedy | :construction: G |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
 | 485 | Max Consecutive Ones |[Python](./Python/468.py)| Easy |  | G |
 | 516 | Longest Palindromic Subsequence |[Python](./Python/516.py)| Medium | dp |  |
