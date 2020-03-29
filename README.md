@@ -293,6 +293,7 @@ Data Structure and Algorithms
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
 | 214 | Shortest Palindrome |[Python](./Python/214.py)| Hard | KMP |
+| 219 | Contains Duplicate II |[Python](./Python/219.py)| Easy|  |
 | 230 |   Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
 | 236 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
 | 239 |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
@@ -339,7 +340,8 @@ Data Structure and Algorithms
 | 706  |  Design HashMap |[Python](./Python/706.py)| Easy |hashfunc, open hash| G |  
 | 708  |Insert into a Sorted Circular Linked List |[Python](./Python/708.py)|Medium | LinkedList | :construction: |  
 | 720 | Longest Word in Dictionary|[Python](./Python/720.py)| Easy| Trie | |
-| 721 |Accounts Merge |[Python](./Python/721.py)| Medium | Union Find |  |
+| 721 | Accounts Merge |[Python](./Python/721.py)| Medium | Union Find |  |
+| 724 | Find Pivot Index |[Python](./Python/724.py)| Easy |  |  |
 | 729 |My Calendar I|[Python](./Python/729.py)| Medium | Binary Search Tree | :construction:swipeline也可以做，但mutable每次更新都要扫一遍，所以treemap(Binary search tree)可以避免重复 |
 | 731 |My Calendar II|[Python](./Python/731.py)| Medium |  | 这题要把overlap判定和insert分开。如果同时进行会导致已经insert了一部分并且改变了之前的root之后发现overlap，return false同时改变了前面的root => 错了 |
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + | Dijkstra's Algo |
@@ -350,6 +352,7 @@ Data Structure and Algorithms
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium | | G |
 | 859 | Buddy Strings|[Python](./Python/859.py)| Easy| |  |
+| 925 | Long Pressed Name |[Python](./Python/925.py)| Easy| |  |
 | 935 | Knight Dialer |[Python](./Python/935.py)| Medium | DP | 不明显的滚动数组 | | 
 | 958 | Check Completeness of a Binary Tree |[Python](./Python/935.py)| Medium | Divide&Conquer | perfect / complete binary tree| 
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | 
