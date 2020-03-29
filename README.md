@@ -378,6 +378,10 @@ Data Structure and Algorithms
 | 1390 | Four Divisors |[Python](./Python/1390.py)| Medium |  |  | 
 | 1391 | Check if There is a Valid Path in a Grid |[Python](./Python/1391.py)| Medium | BFS with condition |  | 
 | 1392 | Longest Happy Prefix|[Python](./Python/1392.py)| Hard | KMP |  | 
+| 1394 | Find Lucky Integer in an Array |[Python](./Python/1394.py)| Easy | |  | 
+| 1395 | Count Number of Teams |[Python](./Python/1395.py)| Medium |  |  | 
+| 1396 | Design Underground System|[Python](./Python/1396.py)| Medium |  |  | 	
+| 1397 | Find All Good Strings|[Python](./Python/1397.py)| Hard | KMP + DFS |  | 
 
 #### 0 - Where it starts  :muscle::muscle::muscle:
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
