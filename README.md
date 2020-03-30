@@ -294,6 +294,7 @@ Data Structure and Algorithms
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
 | 214 | Shortest Palindrome |[Python](./Python/214.py)| Hard | KMP |
 | 219 | Contains Duplicate II |[Python](./Python/219.py)| Easy|  |
+| 220 | Contains Duplicate III |[Python](./Python/220.py)| Medium| Bucket Sort |
 | 230 |   Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
 | 236 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
 | 239 |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
@@ -363,6 +364,7 @@ Data Structure and Algorithms
 | 1056 | Confusing Number |[Python](./Python/1056.py)| Easy | | |
 | 1062 | Longest Repeating Substring |[Python](./Python/1062.py)| Medium | dp |:construction:G|
 | 1081 | Smallest Subsequence of Distinct Characters |[Python](./Python/1081.py)| Hard | Stack | |:construction:|
+| 1086 | High Five |[Python](./Python/1086.py)| Easy | heap | |
 | 1088 | Confusing Number II |[Python](./Python/1088.py)| Hard | dfs & backtracking |:construction:|
 | 1091 | Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
 | 1102 | Path With Maximum Minimum Value|[Python](./Python/1102.py)| Medium | bfs+heap | Dijkstr | 
@@ -373,6 +375,7 @@ Data Structure and Algorithms
 | 1257 | Smallest Common Region |[Python](./Python/1257.py)| Medium | Unionfind |  | 
 | 1332 |Remove Palindromic Subsequences|[Python](./Python/1332.py)| Easy | |  | 
 | 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit |  | 
+| 1366 | Rank Teams by Votes |[Python](./Python/1366.py)| Medium | heap |  | 
 | 1367 | Linked List in Binary Tree|[Python](./Python/1367.py)| Medium | BFS |  | 
 | 1389 |Create Target Array in the Given Order |[Python](./Python/1389.py)| Easy |  |  | 
 | 1390 | Four Divisors |[Python](./Python/1390.py)| Medium |  |  | 
