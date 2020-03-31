@@ -234,24 +234,6 @@ Data Structure and Algorithms
 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
 |-------:|:--------------------|:-----------:|:---------------:|:------------|:---------------|
-|:star:973  | K Closest Points to Origin |[Python](./Python/KClosestPointstoOrigin.py)| Medium |Kth: Heap / Quick Select  |list(map(lambda x: x[1], h))|
-|:star:1007 | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array |  | 
-|:star:1161 | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | BSF |  |
-|:telephone:1352 | Product of the Last K Numbers|[Python](./Python/1352.py)| Medium |  |  |
-|:star:904 | Fruit Into Baskets|[Python](./Python/904.py)| Medium | Sliding Window  |  |
-|:star:929 | Unique Email Addresses |[Python](./Python/929.py)| Easy | String |  |
-|:star:299 | Bulls and Cows |[Python](./Python/299.py)| Easy |  |  |
-|:star:975 | Odd Even Jump|[Python](./Python/975.py)| Hard |  |  |
-| 459 | Repeated Substring Pattern|[Python](./Python/459.py)| Easy | String |  |
-| 951 | Flip Equivalent Binary Trees |[Python](./Python/951.py)| Medium | Binary Tree / Divide&Conquer|  |
-| 1110 | Delete Nodes And Return Forest |[Python](./Python/1110.py)| Medium | BFS |  |
-| :heavy_exclamation_mark:889 | Construct Binary Tree from Preorder and Postorder Traversal |[Python](./Python/889.py)| Medium | Binary Tree | Pre/Post order |
-| 1219 | Path with Maximum Gold |[Python](./Python/1219.py)| Medium | Search |  |
-| 362 | Design Hit Counter |[Python](./Python/362.py)| Medium | queue |  |
-| 642 | Design Search Autocomplete System |[Python](./Python/642.py)| Hard | Heap/Queue | Edge Case |
-| 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |  |
-| 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
-| :heavy_exclamation_mark:1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
 | 4| Median of Two Sorted Arrays |[Python](./Python/4.py)| Hard | | :construction: |
 | 15 | 3Sum |[Python](./Python/15.py)| Medium | two pointers |
 | 17 |  Letter Combinations of a Phone Number |[Python](./Python/17.py)| Medium |  dfs  |
@@ -307,6 +289,7 @@ Data Structure and Algorithms
 | 293 | Flip Game |[Python](./Python/297.py)| Easy |  | | 
 | 296 | Best Meeting Point |[Python](./Python/296.py)| Hard | G | 1. the 2D case as two independent 1D problems. 2. the median must be the optimal meeting point. | 
 | 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | 
+|299 | Bulls and Cows |[Python](./Python/299.py)| Easy |  |  |
 | 303 | Range Sum Query - Immutable |[Python](./Python/303.py)| Easy | 前缀和 | | 
 | 304 | Range Sum Query 2D - Immutable |[Python](./Python/304.py)| Medium | 2d前缀和 |  |
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
@@ -317,6 +300,7 @@ Data Structure and Algorithms
 | 337 | House Robber III |[Python](./Python/337.py)| Medium | DFS Divide&Conquer |  |
 | 359 | Logger Rate Limiter |[Python](./Python/359.py)| Easy | |  |
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
+| 362 | Design Hit Counter |[Python](./Python/362.py)| Medium | queue |  |
 | 363 | Max Sum of Rectangle No Larger Than K |[Python](./Python/363.py)| Hard | prefixSum + bisect | |
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
 | 389 | Find the Difference |[Python](./Python/389.py)| Easy | |  |
@@ -325,6 +309,7 @@ Data Structure and Algorithms
 | 415 |  Add Strings|[Python](./Python/415.py)| Easy | | |
 | 422 |Valid Word Square|[Python](./Python/422.py)| Easy | | |
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | Topological Sort |
+| 459 | Repeated Substring Pattern|[Python](./Python/459.py)| Easy | String |  |
 | 465 | Optimal Account Balancing |[Python](./Python/465.py)| Hard | Greedy | :construction: G |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
 | 485 | Max Consecutive Ones |[Python](./Python/468.py)| Easy |  | G |
@@ -333,6 +318,7 @@ Data Structure and Algorithms
 | 535 |Encode and Decode TinyURL |[Python](./Python/535.py)| Medium |  |  |
 | 543 | Diameter of Binary Tree |[Python](./Python/543.py)| Easy | Tree | 1245 |
 | 638 | Shopping Offer |[Python](./Python/638.py)| Medium | DFS + Pruning |  |
+| 642 | Design Search Autocomplete System |[Python](./Python/642.py)| Hard | Heap/Queue | Edge Case |
 | 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | 
 | 679  |  24 Game |[Python](./Python/679.py)| Hard | DFS |  |  
 | 681  | Next Closest Time |[Python](./Python/681.py)| Medium | | G |  
@@ -356,15 +342,24 @@ Data Structure and Algorithms
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium | | G |
 | 859 | Buddy Strings|[Python](./Python/859.py)| Easy| |  |
+| 889 | Construct Binary Tree from Preorder and Postorder Traversal |[Python](./Python/889.py)| Medium | Binary Tree | Pre/Post order |
+| 904 | Fruit Into Baskets|[Python](./Python/904.py)| Medium | Sliding Window  |  |
 | 925 | Long Pressed Name |[Python](./Python/925.py)| Easy| |  |
+| 929 | Unique Email Addresses |[Python](./Python/929.py)| Easy | String |  |
 | 935 | Knight Dialer |[Python](./Python/935.py)| Medium | DP | 不明显的滚动数组 | | 
+| 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |  |
+| 951 | Flip Equivalent Binary Trees |[Python](./Python/951.py)| Medium | Binary Tree / Divide&Conquer|
 | 958 | Check Completeness of a Binary Tree |[Python](./Python/935.py)| Medium | Divide&Conquer | perfect / complete binary tree| 
+| 973  | K Closest Points to Origin |[Python](./Python/KClosestPointstoOrigin.py)| Medium |Kth: Heap / Quick Select  |list(map(lambda x: x[1], h))|
+| 975 | Odd Even Jump|[Python](./Python/975.py)| Hard |  |  |
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | 
+| 1007 | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array |  | 
 | 1028 | Recover a Tree From Preorder Traversal |[Python](./Python/1028.py)| Hard | Divide&Conquer | ||
 | 1029 | Two City Scheduling |[Python](./Python/1029.py)| Easy | heap | ||
 | 1043 | Partition Array for Maximum Sum |[Python](./Python/1043.py)| Medium | DP | :construction: |
 | 1055 | Shortest Way to Form String |[Python](./Python/1055.py)| Medium | greedy |:construction:|
 | 1056 | Confusing Number |[Python](./Python/1056.py)| Easy | | |
+| 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
 | 1062 | Longest Repeating Substring |[Python](./Python/1062.py)| Medium | dp |:construction:G|
 | 1081 | Smallest Subsequence of Distinct Characters |[Python](./Python/1081.py)| Hard | Stack | |:construction:|
 | 1086 | High Five |[Python](./Python/1086.py)| Easy | heap | |
@@ -372,6 +367,11 @@ Data Structure and Algorithms
 | 1091 | Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
 | 1102 | Path With Maximum Minimum Value|[Python](./Python/1102.py)| Medium | bfs+heap | Dijkstr | 
 | 1153 | String Transforms Into Another String |[Python](./Python/1153.py)| Hard |  | It's a brain teaser | 
+| 1161 | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | BSF |  |
+| 1352 | Product of the Last K Numbers|[Python](./Python/1352.py)| Medium |  |  |
+| 1110 | Delete Nodes And Return Forest |[Python](./Python/1110.py)| Medium | BFS |  |
+| 1219 | Path with Maximum Gold |[Python](./Python/1219.py)| Medium | Search |  |
+| 1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
 | 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line |  | 
 | 1231 |Divide Chocolate|[Python](./Python/1231.py)| Hard | 二分答案 | dfs+pruning=>TLE，二分方法=>AC  | 
 | 1245 | Tree Diameter |[Python](./Python/1245.py)| Medium | graph |  | 
