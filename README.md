@@ -305,6 +305,7 @@ Data Structure and Algorithms
 | 276 | Paint Fence |[Python](./Python/276.py)| Easy | |G|
 | 289 | Game of Life |[Python](./Python/289.py)| Medium | |G|
 | 293 | Flip Game |[Python](./Python/297.py)| Easy |  | | 
+| 296 | Best Meeting Point |[Python](./Python/296.py)| Hard | G | 1. the 2D case as two independent 1D problems. 2. the median must be the optimal meeting point. | 
 | 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | 
 | 303 | Range Sum Query - Immutable |[Python](./Python/303.py)| Easy | 前缀和 | | 
 | 304 | Range Sum Query 2D - Immutable |[Python](./Python/304.py)| Medium | 2d前缀和 |  |
