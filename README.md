@@ -231,7 +231,6 @@ Data Structure and Algorithms
 |  86    | Binary Search Tree Iterator | [Python](./Python/ladder86.py) <br>[Java](./Java/ladder86.java)  | Hard | inorder | 
 
 ## Leetcode Solution 
-
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
 |-------:|:--------------------|:-----------:|:---------------:|:------------|:---------------|
 | 4| Median of Two Sorted Arrays |[Python](./Python/4.py)| Hard | | :construction: |
@@ -272,6 +271,7 @@ Data Structure and Algorithms
 | 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| weakness 
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 163 | Missing Ranges |[Python](./Python/163.py)| Medium |  | G |
+| 168 | Excel Sheet Column Title |[Python](./Python/168.py)| Easy |  | G |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
 | 214 | Shortest Palindrome |[Python](./Python/214.py)| Hard | KMP |
@@ -330,6 +330,7 @@ Data Structure and Algorithms
 | 720 | Longest Word in Dictionary|[Python](./Python/720.py)| Easy| Trie | |
 | 721 | Accounts Merge |[Python](./Python/721.py)| Medium | Union Find |  |
 | 724 | Find Pivot Index |[Python](./Python/724.py)| Easy |  |  |
+| 727 | Minimum Window Subsequence |[Python](./Python/727.py)| Hard | DP | G:construction: |
 | 729 |My Calendar I|[Python](./Python/729.py)| Medium | Binary Search Tree | :construction:swipeline也可以做，但mutable每次更新都要扫一遍，所以treemap(Binary search tree)可以避免重复 |
 | 731 |My Calendar II|[Python](./Python/731.py)| Medium |  | 这题要把overlap判定和insert分开。如果同时进行会导致已经insert了一部分并且改变了之前的root之后发现overlap，return false同时改变了前面的root => 错了 |
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + | Dijkstra's Algo |
@@ -339,6 +340,7 @@ Data Structure and Algorithms
 | 774 | Minimize Max Distance to Gas Station |[Python](./Python/774.py)| Hard | Binary Search | G二分方法 |
 | 787 |Cheapest Flights Within K Stops|[Python](./Python/787.py)| Medium | heap + | Dijkstra's Algo |
 | 800 | Similar RGB Color|[Python](./Python/800.py)| Easy | Hexadecimal | G |
+| 801 | Minimum Swaps To Make Sequences Increasing |[Python](./Python/801.py)| Hard | DP | G |
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium | | G |
 | 859 | Buddy Strings|[Python](./Python/859.py)| Easy| |  |

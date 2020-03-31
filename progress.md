@@ -6,7 +6,7 @@
 | __Tags.__ |  __No.__   |  __Title__      |   __Difficulty__ | 
 |:-------|:--------------------|:---------------|:---------------------:|
 |   BFS, Topological Sort  | [210](https://leetcode.com/problems/course-schedule-ii/) <br>   | Course Schedule II <br>  | Medium  <br>| 
-|   DP  | [516](https://leetcode.com/problems/longest-palindromic-subsequence/)<br>  |Longest Palindromic Subsequence <br> | Medium  <br>| 
+|   DP  | [516](https://leetcode.com/problems/longest-palindromic-subsequence/)<br>[727](https://leetcode.com/problems/minimum-window-subsequence/)  |Longest Palindromic Subsequence <br>Minimum Window Subsequence <br> | Medium  <br> Hard <br>| 
 |  Divide & Conquer  | [98](https://leetcode.com/problems/validate-binary-search-tree/)<br>[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | Validate Binary Search Tree<br>  Lowest Common Ancestor of a Binary Tree<br>| Medium  <br>Medium  <br> | 
 |Quick Sort |[75](https://leetcode.com/problems/sort-colors/)<br>[324](https://leetcode.com/problems/wiggle-sort-ii/)<br> | Sort Colors <br> Wiggle Sort II <br> | Medium  <br> Medium  <br> |
 | DFS |[46](https://leetcode.com/problems/permutations/)<br> | Permutations <br> | Medium  <br> |
@@ -15,6 +15,12 @@
 | Binary Search |[33](https://leetcode.com/problems/search-in-rotated-sorted-array/)<br> | Search in Rotated Sorted Array <br> | Medium  <br> |
 | Two Pointers |[15](https://leetcode.com/problems/3sum/)<br> | 3Sum <br> | Medium  <br> |
 | Memoization Search |[140](https://leetcode.com/problems/word-break-ii/)<br> | Word Break II<br> | Medium  <br> |
+
+
+
+
+
+
 
 #### Mar 9
 - [x] Followup ladders 

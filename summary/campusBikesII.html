@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Campus Bike II</title>
+  <link rel="stylesheet" href="sublime.css">
+</head>
+<body>
+<h2>Campus Bike II</h2>
+
+<p>首先brute force， 用dfs + pruning。 作为一道medium的题，dfs+pruning一般是可以AC的，然而这道LTE了。</p>
+<div class="highlight" style="background: #f8f8f8"><pre style="line-height: 125%"><span style="color: #008000; font-weight: bold">class</span> <span style="color: #0000FF; font-weight: bold">Solution</span>:
+    <span style="color: #008000; font-weight: bold">def</span> <span style="color: #0000FF">assignBikes</span>(<span style="color: #008000">self</span>, workers: List[List[<span style="color: #008000">int</span>]], bikes: List[List[<span style="color: #008000">int</span>]]) <span style="color: #666666">-&gt;</span> <span style="color: #008000">int</span>:
+        n <span style="color: #666666">=</span> <span style="color: #008000">len</span>(workers)    
+        <span style="color: #008000">self</span><span style="color: #666666">.</span>result <span style="color: #666666">=</span> sys<span style="color: #666666">.</span>maxsize
+        <span style="color: #008000">self</span><span style="color: #666666">.</span>dfs(workers, bikes, <span style="color: #666666">0</span>)
+        <span style="color: #008000; font-weight: bold">return</span> <span style="color: #008000">self</span><span style="color: #666666">.</span>result
+    
+    
+    <span style="color: #008000; font-weight: bold">def</span> <span style="color: #0000FF">dfs</span>(<span style="color: #008000">self</span>, workers, bikes, dist):
+        <span style="color: #008000; font-weight: bold">if</span> <span style="color: #AA22FF; font-weight: bold">not</span> workers:
+            <span style="color: #008000">self</span><span style="color: #666666">.</span>result <span style="color: #666666">=</span> <span style="color: #008000">min</span>(<span style="color: #008000">self</span><span style="color: #666666">.</span>result, dist)
+            <span style="color: #008000; font-weight: bold">return</span> 
+        <span style="color: #008000; font-weight: bold">if</span> dist <span style="color: #666666">&gt;=</span> <span style="color: #008000">self</span><span style="color: #666666">.</span>result:
+            <span style="color: #008000; font-weight: bold">return</span> 
+        wx, wy <span style="color: #666666">=</span> workers[<span style="color: #666666">0</span>]
+        <span style="color: #008000; font-weight: bold">for</span> i <span style="color: #AA22FF; font-weight: bold">in</span> <span style="color: #008000">range</span>(<span style="color: #008000">len</span>(bikes)):
+            bx, by <span style="color: #666666">=</span> bikes[i]
+            cur <span style="color: #666666">=</span> <span style="color: #008000">abs</span>(wx <span style="color: #666666">-</span> bx) <span style="color: #666666">+</span> <span style="color: #008000">abs</span>(wy <span style="color: #666666">-</span> by)
+            <span style="color: #008000">self</span><span style="color: #666666">.</span>dfs(workers[<span style="color: #666666">1</span>:], bikes[:i] <span style="color: #666666">+</span> bikes[i <span style="color: #666666">+</span> <span style="color: #666666">1</span>:], cur <span style="color: #666666">+</span> dist)
+        <span style="color: #008000; font-weight: bold">return</span> 
+</pre></div>
+<br>
+
+<p>然后想到dp的方法，bottom up solution。用字典记录然后dfs + backtrading</p>
+<p>bikes要变成tuple，不然会not hashable</p>
+
+<div class="highlight" style="background: #f8f8f8"><pre style="line-height: 125%"><span style="color: #008000; font-weight: bold">class</span> <span style="color: #0000FF; font-weight: bold">Solution</span>:
+    <span style="color: #008000; font-weight: bold">def</span> <span style="color: #0000FF">assignBikes</span>(<span style="color: #008000">self</span>, workers: List[List[<span style="color: #008000">int</span>]], bikes: List[List[<span style="color: #008000">int</span>]]) <span style="color: #666666">-&gt;</span> <span style="color: #008000">int</span>:
+        <span style="color: #008000">self</span><span style="color: #666666">.</span>seen <span style="color: #666666">=</span> <span style="color: #008000">dict</span>()
+        <span style="color: #008000; font-weight: bold">return</span> <span style="color: #008000">self</span><span style="color: #666666">.</span>dfs(<span style="color: #666666">0</span>, workers, bikes, [<span style="color: #666666">0</span> <span style="color: #008000; font-weight: bold">for</span> _ <span style="color: #AA22FF; font-weight: bold">in</span> <span style="color: #008000">range</span>(<span style="color: #008000">len</span>(bikes))])
+    
+    <span style="color: #008000; font-weight: bold">def</span> <span style="color: #0000FF">dfs</span>(<span style="color: #008000">self</span>, i, workers, bikes, visited):
+        <span style="color: #008000; font-weight: bold">if</span> <span style="color: #008000">len</span>(workers) <span style="color: #666666">==</span> i:
+            <span style="color: #008000; font-weight: bold">return</span> <span style="color: #666666">0</span>
+        pair <span style="color: #666666">=</span> (i, <span style="color: #008000">tuple</span>(visited))
+        <span style="color: #008000; font-weight: bold">if</span> pair <span style="color: #AA22FF; font-weight: bold">in</span> <span style="color: #008000">self</span><span style="color: #666666">.</span>seen:
+            <span style="color: #008000; font-weight: bold">return</span> <span style="color: #008000">self</span><span style="color: #666666">.</span>seen[pair]
+        
+        wx, wy <span style="color: #666666">=</span> workers[i]
+        dist <span style="color: #666666">=</span> sys<span style="color: #666666">.</span>maxsize
+        <span style="color: #008000; font-weight: bold">for</span> j <span style="color: #AA22FF; font-weight: bold">in</span> <span style="color: #008000">range</span>(<span style="color: #008000">len</span>(visited)):
+            <span style="color: #008000; font-weight: bold">if</span> visited[j] <span style="color: #666666">==</span> <span style="color: #666666">1</span>:
+                <span style="color: #008000; font-weight: bold">continue</span>
+            visited[j] <span style="color: #666666">=</span> <span style="color: #666666">1</span>
+            bx, by <span style="color: #666666">=</span> bikes[j]
+            cur <span style="color: #666666">=</span> <span style="color: #008000">abs</span>(wx <span style="color: #666666">-</span> bx) <span style="color: #666666">+</span> <span style="color: #008000">abs</span>(wy <span style="color: #666666">-</span> by)
+            dist <span style="color: #666666">=</span> <span style="color: #008000">min</span>(dist, <span style="color: #008000">self</span><span style="color: #666666">.</span>dfs(i <span style="color: #666666">+</span> <span style="color: #666666">1</span>, workers, bikes, visited) <span style="color: #666666">+</span> cur)       
+            visited[j] <span style="color: #666666">=</span> <span style="color: #666666">0</span>
+            
+        <span style="color: #008000">self</span><span style="color: #666666">.</span>seen[pair] <span style="color: #666666">=</span> dist
+        <span style="color: #008000; font-weight: bold">return</span> dist 
+</pre></div>
+
+<br>    
+<p>再往下，竟然勉强算是个图，BFS + heap就应该能做，就是Djikstra's的变形</p>
+
+
+<div class="highlight" style="background: #f8f8f8"><pre style="line-height: 125%"><span style="color: #008000; font-weight: bold">class</span> <span style="color: #0000FF; font-weight: bold">Solution</span>:
+    <span style="color: #008000; font-weight: bold">def</span> <span style="color: #0000FF">assignBikes</span>(<span style="color: #008000">self</span>, workers: List[List[<span style="color: #008000">int</span>]], bikes: List[List[<span style="color: #008000">int</span>]]) <span style="color: #666666">-&gt;</span> <span style="color: #008000">int</span>:
+        seen <span style="color: #666666">=</span> <span style="color: #008000">set</span>()
+        heap <span style="color: #666666">=</span> [[<span style="color: #666666">0</span>, <span style="color: #666666">0</span>, <span style="color: #BA2121">&#39;0&#39;</span><span style="color: #666666">*</span><span style="color: #008000">len</span>(bikes)]]
+        <span style="color: #008000; font-weight: bold">while</span> heap:
+            <span style="color: #408080; font-style: italic"># @i: worker idx; </span>
+            <span style="color: #408080; font-style: italic"># @taken: binary state of all bikes;</span>
+            <span style="color: #408080; font-style: italic"># @cost: distance after assign worker i  </span>
+            cost, i, taken <span style="color: #666666">=</span> heapq<span style="color: #666666">.</span>heappop(heap)
+            <span style="color: #008000; font-weight: bold">if</span>(i, taken) <span style="color: #AA22FF; font-weight: bold">in</span> seen:
+                <span style="color: #008000; font-weight: bold">continue</span>
+            seen<span style="color: #666666">.</span>add((i, taken))
+            <span style="color: #008000; font-weight: bold">if</span> i <span style="color: #666666">==</span> <span style="color: #008000">len</span>(workers):
+                <span style="color: #008000; font-weight: bold">return</span> cost
+            
+            <span style="color: #008000; font-weight: bold">for</span> j <span style="color: #AA22FF; font-weight: bold">in</span> <span style="color: #008000">range</span>(<span style="color: #008000">len</span>(bikes)):
+                <span style="color: #008000; font-weight: bold">if</span> taken[j] <span style="color: #666666">==</span> <span style="color: #BA2121">&#39;0&#39;</span>:
+                    dist <span style="color: #666666">=</span> <span style="color: #008000">self</span><span style="color: #666666">.</span>getDist(workers[i], bikes[j])
+                    heapq<span style="color: #666666">.</span>heappush(heap, [cost <span style="color: #666666">+</span> dist, i <span style="color: #666666">+</span> <span style="color: #666666">1</span>, taken[:j] <span style="color: #666666">+</span> <span style="color: #BA2121">&#39;1&#39;</span> <span style="color: #666666">+</span> taken[j <span style="color: #666666">+</span> <span style="color: #666666">1</span>:]])    
+        
+    <span style="color: #008000; font-weight: bold">def</span> <span style="color: #0000FF">getDist</span>(<span style="color: #008000">self</span>, w, b):
+        <span style="color: #008000; font-weight: bold">return</span> <span style="color: #008000">abs</span>(w[<span style="color: #666666">0</span>] <span style="color: #666666">-</span> b[<span style="color: #666666">0</span>]) <span style="color: #666666">+</span> <span style="color: #008000">abs</span>(w[<span style="color: #666666">1</span>] <span style="color: #666666">-</span> b[<span style="color: #666666">1</span>])
+        
+</pre></div>
+</body>
+</html>
+
+        
+
+
+
+
