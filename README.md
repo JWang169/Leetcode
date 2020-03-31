@@ -347,7 +347,9 @@ Data Structure and Algorithms
 | 731 |My Calendar II|[Python](./Python/731.py)| Medium |  | 这题要把overlap判定和insert分开。如果同时进行会导致已经insert了一部分并且改变了之前的root之后发现overlap，return false同时改变了前面的root => 错了 |
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + | Dijkstra's Algo |
 | 752 | Open the Lock |[Python](./Python/752.py)| Medium | BFS | G |
+| 753 |Cracking the Safe |[Python](./Python/753.py)| Hard | DFS | G:construction: |
 | 766 | Toeplitz Matrix |[Python](./Python/766.py)| Easy|  | G |
+| 774 | Minimize Max Distance to Gas Station |[Python](./Python/774.py)| Hard | Binary Search | G二分方法 |
 | 787 |Cheapest Flights Within K Stops|[Python](./Python/787.py)| Medium | heap + | Dijkstra's Algo |
 | 800 | Similar RGB Color|[Python](./Python/800.py)| Easy | Hexadecimal | G |
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
