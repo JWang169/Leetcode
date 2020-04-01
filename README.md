@@ -251,6 +251,7 @@ Data Structure and Algorithms
 | 63 |  Unique Paths II |[Python](./Python/63.py)| Medium |  dp | | 
 | 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
 | 66 |Plus One|[Python](./Python/66.py)| Easy | | |
+| 72 | Edit Distance |[Python](./Python/72.py)| Hard | DP | |
 | 78 | Subsets |[Python](./Python/78.py)| Medium | dfs| |
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |

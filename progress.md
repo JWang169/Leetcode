@@ -18,6 +18,12 @@
 
 
 
+#### Mar 31
+总结几道关于subString的DP:
+
+
+72 Edit Distance
+727 Minumum Window Subsequence
 
 
 
