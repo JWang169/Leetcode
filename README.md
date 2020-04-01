@@ -344,6 +344,7 @@ Data Structure and Algorithms
 | 727 | Minimum Window Subsequence |[Python](./Python/727.py)| Hard | DP | G:construction: |
 | 729 |My Calendar I|[Python](./Python/729.py)| Medium | Binary Search Tree | :construction:swipeline也可以做，但mutable每次更新都要扫一遍，所以treemap(Binary search tree)可以避免重复 |
 | 731 |My Calendar II|[Python](./Python/731.py)| Medium |  | 这题要把overlap判定和insert分开。如果同时进行会导致已经insert了一部分并且改变了之前的root之后发现overlap，return false同时改变了前面的root => 错了 |
+| 733 | Flood Fill |[Python](./Python/733.py)| Easy | BFS | G |
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + | Dijkstra's Algo |
 | 752 | Open the Lock |[Python](./Python/752.py)| Medium | BFS | G |
 | 753 |Cracking the Safe |[Python](./Python/753.py)| Hard | DFS | G:construction: |
@@ -355,6 +356,7 @@ Data Structure and Algorithms
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium | | G |
 | 859 | Buddy Strings|[Python](./Python/859.py)| Easy| |  |
+| 887 | Super Egg Drop |[Python](./Python/887.py)| Hard | |  |
 | 889 | Construct Binary Tree from Preorder and Postorder Traversal |[Python](./Python/889.py)| Medium | Binary Tree | Pre/Post order |
 | 904 | Fruit Into Baskets|[Python](./Python/904.py)| Medium | Sliding Window  |  |
 | 925 | Long Pressed Name |[Python](./Python/925.py)| Easy| |  |
@@ -379,8 +381,10 @@ Data Structure and Algorithms
 | 1088 | Confusing Number II |[Python](./Python/1088.py)| Hard | dfs & backtracking |:construction:|
 | 1091 | Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
 | 1102 | Path With Maximum Minimum Value|[Python](./Python/1102.py)| Medium | bfs+heap | Dijkstr | 
+| 1146 | Snapshot Array |[Python](./Python/1146.py)| Medium | bisect |  | 
 | 1153 | String Transforms Into Another String |[Python](./Python/1153.py)| Hard |  | It's a brain teaser | 
 | 1161 | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | BSF |  |
+| 1230 | Toss Strange Coins |[Python](./Python/1230.py)| Medium | DP | :construction: |
 | 1352 | Product of the Last K Numbers|[Python](./Python/1352.py)| Medium |  |  |
 | 1110 | Delete Nodes And Return Forest |[Python](./Python/1110.py)| Medium | BFS |  |
 | 1176 | Diet Plan Performance |[Python](./Python/1176.py)| Easy | | |
