@@ -237,6 +237,7 @@ Data Structure and Algorithms
 | 15 | 3Sum |[Python](./Python/15.py)| Medium | two pointers |
 | 17 |  Letter Combinations of a Phone Number |[Python](./Python/17.py)| Medium |  dfs  |
 | 20 | Valid Parentheses |[Python](./Python/20.py)|Easy|  |
+| 21 | Merge Two Sorted Lists |[Python](./Python/21.py)|Easy|  |
 | 28 | Implement strStr() |[Python](./Python/28.py)|Easy| KMP |
 | 29 | Divide Two Integers|[Python](./Python/29.py)| Medium  | bit, intMax| :construction: | 
 | 30 | Substring with Concatenation of All Words|[Python](./Python/30.py)| Hard | | | 
@@ -256,6 +257,7 @@ Data Structure and Algorithms
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
 | 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
 | 90 |SubsetsII |[Python](./Python/90.py)| Medium | dfs | |
+| 92 | Reverse Linked List II |[Python](./Python/92.py)| Medium | | |
 | 94 |Binary Tree Inorder Traversal |[Python](./Python/94.py)| Medium | Morris Traversal | |
 | 97 | Interleaving String | [Python](./Python/97.py)| Hard | dp 双序列 |:construction: |
 | 98 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | :construction:|
@@ -267,15 +269,20 @@ Data Structure and Algorithms
 | 126| Word Ladder II |[Python](./Python/126.py)| Hard | BFS |
 | 127| Word Ladder |[Python](./Python/127.py)| Medium | BFS |
 | 133| Clone Graph |[Python](./Python/133.py)| Medium | BFS |
+| 136|  Single Number |[Python](./Python/136.py)| Easy | XOR |
+| 141 | Linked List Cycle |[Python](./Python/141.py)| Easy |  |
+| 142 | Linked List Cycle II |[Python](./Python/142.py)| Medium |  |
 | 145|Binary Tree Postorder Traversal |[Python](./Python/145.py)| Hard | Morris | :construction: |
 | 147| Insertion Sort List |[Python](./Python/147.py)| Medium |LinkedList | :construction: |
 | 153 | Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  | Rotated Array | weakness |
 | 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| weakness 
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
+| 160 | Intersection of Two Linked Lists |[Python](./Python/160.py)| Easy  | Linked List Overlap | |
 | 163 | Missing Ranges |[Python](./Python/163.py)| Medium |  | G |
 | 168 | Excel Sheet Column Title |[Python](./Python/168.py)| Easy |  | G |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
+| 206 | Reverse Linked List |[Python](./Python/206.py)| Easy | recursive |
 | 214 | Shortest Palindrome |[Python](./Python/214.py)| Hard | KMP |
 | 219 | Contains Duplicate II |[Python](./Python/219.py)| Easy|  |
 | 220 | Contains Duplicate III |[Python](./Python/220.py)| Medium| Bucket Sort |
@@ -329,6 +336,7 @@ Data Structure and Algorithms
 | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
 | 705  |  Design HashSet |[Python](./Python/705.py)| Easy |hashset| G |  
 | 706  |  Design HashMap |[Python](./Python/706.py)| Easy |hashfunc, open hash| G |  
+| 707  | Design Linked List |[Python](./Python/707.py)| Medium |  |  |
 | 708  |Insert into a Sorted Circular Linked List |[Python](./Python/708.py)|Medium | LinkedList | :construction: |  
 | 720 | Longest Word in Dictionary|[Python](./Python/720.py)| Easy| Trie | |
 | 721 | Accounts Merge |[Python](./Python/721.py)| Medium | Union Find |  |

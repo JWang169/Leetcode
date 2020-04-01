@@ -17,13 +17,23 @@
 | Memoization Search |[140](https://leetcode.com/problems/word-break-ii/)<br> | Word Break II<br> | Medium  <br> |
 
 
+#### April 1
+#### Linked List
+| __No.__ |      __Title__      |
+| 21 | Merge Two Sorted Lists |
+| 92 | Reverse Linked List II |
+| 206 | Reverse Linked List  |
+| 141 | Linked List Cycle |
+| 142 | Linked List Cycle II |
+
 
 #### Mar 31
 总结几道关于subString的DP:
 
-
 72 Edit Distance
 727 Minumum Window Subsequence
+801 
+
 
 
 
