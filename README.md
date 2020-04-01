@@ -375,8 +375,9 @@ Data Structure and Algorithms
 | 1161 | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | BSF |  |
 | 1352 | Product of the Last K Numbers|[Python](./Python/1352.py)| Medium |  |  |
 | 1110 | Delete Nodes And Return Forest |[Python](./Python/1110.py)| Medium | BFS |  |
-| 1219 | Path with Maximum Gold |[Python](./Python/1219.py)| Medium | Search |  |
+| 1176 | Diet Plan Performance |[Python](./Python/1176.py)| Easy | | |
 | 1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
+| 1219 | Path with Maximum Gold |[Python](./Python/1219.py)| Medium | Search |  |
 | 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line |  | 
 | 1231 |Divide Chocolate|[Python](./Python/1231.py)| Hard | 二分答案 | dfs+pruning=>TLE，二分方法=>AC  | 
 | 1245 | Tree Diameter |[Python](./Python/1245.py)| Medium | graph |  | 
