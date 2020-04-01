@@ -262,6 +262,7 @@ Data Structure and Algorithms
 | 102| Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Medium | BFS |
 | 111|  Minimum Depth of Binary Tree |[Python](./Python/111.py)| Easy | BFS |
 | 114 |Flatten Binary Tree to Linked List |[Python](./Python/114.py)| Medium | :construction:Mar23 |
+| 117| Populating Next Right Pointers in Each Node II |[Python](./Python/117.py)| Medium | BFS |
 | 126| Word Ladder II |[Python](./Python/126.py)| Hard | BFS |
 | 127| Word Ladder |[Python](./Python/127.py)| Medium | BFS |
 | 133| Clone Graph |[Python](./Python/133.py)| Medium | BFS |
@@ -310,6 +311,7 @@ Data Structure and Algorithms
 | 422 |Valid Word Square|[Python](./Python/422.py)| Easy | | |
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | Topological Sort |
 | 459 | Repeated Substring Pattern|[Python](./Python/459.py)| Easy | String |  |
+| 462 | Minimum Moves to Equal Array Elements II |[Python](./Python/462.py)| Medium | Median Arr |  |
 | 465 | Optimal Account Balancing |[Python](./Python/465.py)| Hard | Greedy | :construction: G |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
 | 485 | Max Consecutive Ones |[Python](./Python/468.py)| Easy |  | G |
@@ -378,6 +380,7 @@ Data Structure and Algorithms
 | 1231 |Divide Chocolate|[Python](./Python/1231.py)| Hard | 二分答案 | dfs+pruning=>TLE，二分方法=>AC  | 
 | 1245 | Tree Diameter |[Python](./Python/1245.py)| Medium | graph |  | 
 | 1257 | Smallest Common Region |[Python](./Python/1257.py)| Medium | Unionfind |  | 
+| 1320 | Minimum Distance to Type a Word Using Two Fingers |[Python](./Python/1330.py)| Hard | DP | :construction: G |
 | 1332 |Remove Palindromic Subsequences|[Python](./Python/1332.py)| Easy | |  | 
 | 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit |  | 
 | 1366 | Rank Teams by Votes |[Python](./Python/1366.py)| Medium | heap |  | 
