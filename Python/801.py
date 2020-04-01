@@ -10,14 +10,17 @@ class Solution:
         notSwap[0] = 0
         
         for i in range(1, n):
-            if A[i] > A[i - 1] and B[i] > B[i - 1]:
+            if A[i] > A[i - 1] and B[i] > B[i - 1]: 
                 # two options: 1. dont swap at i - 1 and dont swap at i;  2. swap at i - 1 and swap at i
                 # the min is trivial, because notSwap is garanteed to be mininum. 
+                # if we dont swap at i, we also dont swap at i - 1, so A[i] and A[i - 1] will stays the same
                 notSwap[i] = notSwap[i - 1]
+                # if we swap at i, then we need to swap at i - 1, so A[i] and A[i - 1] stays the same
                 swap[i] = swap[i - 1] + 1
             
             if A[i - 1] < B[i] and B[i - 1] < A[i]:
-                # two options: 1. dont swap at i - 1 and 
+                # if we dont swap at i, then we will need to swap at i - 1
                 notSwap[i] = min(swap[i - 1], notSwap[i])
+                # if we swap at i, we dont swap at i - 1
                 swap[i] = min(notSwap[i - 1] + 1, swap[i])
         return min(notSwap[-1], swap[-1])
