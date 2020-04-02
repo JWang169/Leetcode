@@ -278,6 +278,7 @@ Data Structure and Algorithms
 | 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| weakness 
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 160 | Intersection of Two Linked Lists |[Python](./Python/160.py)| Easy  | Linked List Overlap | |
+| 161 | One Edit Distance |[Python](./Python/161.py)| Medium |  |  |
 | 163 | Missing Ranges |[Python](./Python/163.py)| Medium |  | G |
 | 168 | Excel Sheet Column Title |[Python](./Python/168.py)| Easy |  | G |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
@@ -345,11 +346,12 @@ Data Structure and Algorithms
 | 729 |My Calendar I|[Python](./Python/729.py)| Medium | Binary Search Tree | :construction:swipeline也可以做，但mutable每次更新都要扫一遍，所以treemap(Binary search tree)可以避免重复 |
 | 731 |My Calendar II|[Python](./Python/731.py)| Medium |  | 这题要把overlap判定和insert分开。如果同时进行会导致已经insert了一部分并且改变了之前的root之后发现overlap，return false同时改变了前面的root => 错了 |
 | 733 | Flood Fill |[Python](./Python/733.py)| Easy | BFS | G |
-| 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + | Dijkstra's Algo |
+| 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + Dijkstra's Algo | 这道题要注意的是每次要把cost都放到heap里面，不能用global cost | 
 | 752 | Open the Lock |[Python](./Python/752.py)| Medium | BFS | G |
 | 753 |Cracking the Safe |[Python](./Python/753.py)| Hard | DFS | G:construction: |
 | 766 | Toeplitz Matrix |[Python](./Python/766.py)| Easy|  | G |
 | 774 | Minimize Max Distance to Gas Station |[Python](./Python/774.py)| Hard | Binary Search | G二分方法 |
+| 777 | Swap Adjacent in LR String |[Python](./Python/777.py)| Medium | | |
 | 787 |Cheapest Flights Within K Stops|[Python](./Python/787.py)| Medium | heap + | Dijkstra's Algo |
 | 800 | Similar RGB Color|[Python](./Python/800.py)| Easy | Hexadecimal | G |
 | 801 | Minimum Swaps To Make Sequences Increasing |[Python](./Python/801.py)| Hard | DP | G |
