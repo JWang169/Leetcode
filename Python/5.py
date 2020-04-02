@@ -1,3 +1,24 @@
+#April 2
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        if len(s) == 0:
+            return ""
+        n = len(s)
+        length = 1
+        start = 0
+        dp = [[False] * n for _ in range(n)]
+        
+        for i in range(n - 1, -1, -1):
+            dp[i][i] = True
+            for j in range(i + 1, n):
+                if s[i] == s[j] and (dp[i + 1][j - 1] or i + 1 == j):
+                    dp[i][j] = True
+                    if j - i + 1 > length:
+                        length = j - i + 1
+                        start = i
+        return s[start: length + start]
+
+
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         if not s:

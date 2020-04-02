@@ -317,6 +317,7 @@ Data Structure and Algorithms
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
 | 389 | Find the Difference |[Python](./Python/389.py)| Easy | |  |
 | 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
+| 395 | Longest Substring with At Least K Repeating Characters |[Python](./Python/395.py)<br>| Medium | Divide and Conquer | :construction: | 
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
 | 415 |  Add Strings|[Python](./Python/415.py)| Easy | | |
 | 422 |Valid Word Square|[Python](./Python/422.py)| Easy | | |
