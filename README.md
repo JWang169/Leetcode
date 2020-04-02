@@ -234,6 +234,7 @@ Data Structure and Algorithms
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
 |-------:|:--------------------|:-----------:|:---------------:|:------------|:---------------|
 | 4| Median of Two Sorted Arrays |[Python](./Python/4.py)| Hard | | :construction: |
+| 5 | Longest Palindromic Substring |[Python](./Python/5.py)| Medium | DP |
 | 15 | 3Sum |[Python](./Python/15.py)| Medium | two pointers |
 | 17 |  Letter Combinations of a Phone Number |[Python](./Python/17.py)| Medium |  dfs  |
 | 20 | Valid Parentheses |[Python](./Python/20.py)|Easy|  |
@@ -283,6 +284,7 @@ Data Structure and Algorithms
 | 168 | Excel Sheet Column Title |[Python](./Python/168.py)| Easy |  | G |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
+| 202 | Happy Number |[Python](./Python/202.py)| Easy | |
 | 206 | Reverse Linked List |[Python](./Python/206.py)| Easy | recursive |
 | 214 | Shortest Palindrome |[Python](./Python/214.py)| Hard | KMP |
 | 219 | Contains Duplicate II |[Python](./Python/219.py)| Easy|  |
@@ -328,6 +330,7 @@ Data Structure and Algorithms
 | 526 |Beautiful Arrangement |[Python](./Python/526.py)| Medium |  |  |
 | 535 |Encode and Decode TinyURL |[Python](./Python/535.py)| Medium |  |  |
 | 543 | Diameter of Binary Tree |[Python](./Python/543.py)| Easy | Tree | 1245 |
+| 583 | Delete Operation for Two Strings |[Python](./Python/583.py)| Medium | DP | longest common subsequence |
 | 638 | Shopping Offer |[Python](./Python/638.py)| Medium | DFS + Pruning |  |
 | 642 | Design Search Autocomplete System |[Python](./Python/642.py)| Hard | Heap/Queue | Edge Case |
 | 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | 

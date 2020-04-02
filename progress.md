@@ -33,7 +33,8 @@
 72 Edit Distance
 727 Minumum Window Subsequence
 801 
-
+583 Delete Operation for Two Strings
+1143 Longest Common Subsequence
 
 
 
