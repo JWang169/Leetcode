@@ -270,6 +270,7 @@ Data Structure and Algorithms
 | 126| Word Ladder II |[Python](./Python/126.py)| Hard | BFS |
 | 127| Word Ladder |[Python](./Python/127.py)| Medium | BFS |
 | 133| Clone Graph |[Python](./Python/133.py)| Medium | BFS |
+| 134| Gas Station |[Python](./Python/134.py)| Medium |  |
 | 136|  Single Number |[Python](./Python/136.py)| Easy | XOR |
 | 141 | Linked List Cycle |[Python](./Python/141.py)| Easy |  |
 | 142 | Linked List Cycle II |[Python](./Python/142.py)| Medium |  |
@@ -320,7 +321,8 @@ Data Structure and Algorithms
 | 395 | Longest Substring with At Least K Repeating Characters |[Python](./Python/395.py)<br>| Medium | Divide and Conquer | :construction: | 
 | 407 |Trapping Rain Water II |[Python](./Python/407.py)| Hard | Heap | |Monotonic Stack |  |
 | 415 |  Add Strings|[Python](./Python/415.py)| Easy | | |
-| 422 |Valid Word Square|[Python](./Python/422.py)| Easy | | |
+| 422 | Valid Word Square|[Python](./Python/422.py)| Easy | | |
+| 425 | Word Squares |[Python](./Python/425.py)| Hard | DFS + Memorization |:construction:|
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | Topological Sort |
 | 459 | Repeated Substring Pattern|[Python](./Python/459.py)| Easy | String |  |
 | 462 | Minimum Moves to Equal Array Elements II |[Python](./Python/462.py)| Medium | Median Arr |  |
@@ -367,6 +369,7 @@ Data Structure and Algorithms
 | 904 | Fruit Into Baskets|[Python](./Python/904.py)| Medium | Sliding Window  |  |
 | 925 | Long Pressed Name |[Python](./Python/925.py)| Easy| |  |
 | 929 | Unique Email Addresses |[Python](./Python/929.py)| Easy | String |  |
+| 931 | Minimum Falling Path Sum |[Python](./Python/931.py)| Medium | DP | | 
 | 935 | Knight Dialer |[Python](./Python/935.py)| Medium | DP | 不明显的滚动数组 | | 
 | 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |  |
 | 951 | Flip Equivalent Binary Trees |[Python](./Python/951.py)| Medium | Binary Tree / Divide&Conquer|
