@@ -1,9 +1,8 @@
 class Solution:
-    def isInterleave(self, s1: str, s2: str, s3: str) -> bool:
         # s3的最后一个字符是从s1尾巴来的或者s2尾巴来的
         # s3的前i个字符是s1的前个字符和s2的前k个字符交错形成的
         # 降维， i = j + k， 不用开三维数组， 降到2维
-        
+    def isInterleave(self, s1: str, s2: str, s3: str) -> bool:
         m, n = len(s1), len(s2)
         if m + n != len(s3):
             return False

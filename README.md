@@ -272,6 +272,8 @@ Data Structure and Algorithms
 | 133| Clone Graph |[Python](./Python/133.py)| Medium | BFS |
 | 134| Gas Station |[Python](./Python/134.py)| Medium |  |
 | 136|  Single Number |[Python](./Python/136.py)| Easy | XOR |
+| 139 | Word Break |[Python](./Python/139.py)| Medium | DP |
+| 140 | Word Break II |[Python](./Python/140.py)| Hard | DP | :construction: |
 | 141 | Linked List Cycle |[Python](./Python/141.py)| Easy |  |
 | 142 | Linked List Cycle II |[Python](./Python/142.py)| Medium |  |
 | 145|Binary Tree Postorder Traversal |[Python](./Python/145.py)| Hard | Morris | :construction: |
@@ -294,6 +296,7 @@ Data Structure and Algorithms
 | 236 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
 | 239 |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
 | 253 |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
+| 267 | Palindrome Permutation II |[Python](./Python/267.py)| Medium | | |
 | 270 | Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy | Binary Tree |
 | 271 | Encode and Decode Strings |[Python](./Python/271.py)| Medium | |G|
 | 272 | Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search 
@@ -328,12 +331,14 @@ Data Structure and Algorithms
 | 462 | Minimum Moves to Equal Array Elements II |[Python](./Python/462.py)| Medium | Median Arr |  |
 | 465 | Optimal Account Balancing |[Python](./Python/465.py)| Hard | Greedy | :construction: G |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
+| 472 | Conncatenated Words |[Python](./Python/472.py)| Hard | DP | |
 | 485 | Max Consecutive Ones |[Python](./Python/468.py)| Easy |  | G |
 | 516 | Longest Palindromic Subsequence |[Python](./Python/516.py)| Medium | dp |  |
 | 526 |Beautiful Arrangement |[Python](./Python/526.py)| Medium |  |  |
 | 535 |Encode and Decode TinyURL |[Python](./Python/535.py)| Medium |  |  |
 | 543 | Diameter of Binary Tree |[Python](./Python/543.py)| Easy | Tree | 1245 |
 | 583 | Delete Operation for Two Strings |[Python](./Python/583.py)| Medium | DP | longest common subsequence |
+| 604 | Design Compressed String Iterator |[Python](./Python/604.py)| Easy | | G |
 | 638 | Shopping Offer |[Python](./Python/638.py)| Medium | DFS + Pruning |  |
 | 642 | Design Search Autocomplete System |[Python](./Python/642.py)| Hard | Heap/Queue | Edge Case |
 | 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | 
@@ -353,6 +358,7 @@ Data Structure and Algorithms
 | 731 |My Calendar II|[Python](./Python/731.py)| Medium |  | 这题要把overlap判定和insert分开。如果同时进行会导致已经insert了一部分并且改变了之前的root之后发现overlap，return false同时改变了前面的root => 错了 |
 | 733 | Flood Fill |[Python](./Python/733.py)| Easy | BFS | G |
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + Dijkstra's Algo | 这道题要注意的是每次要把cost都放到heap里面，不能用global cost | 
+| 748 | Shortest Completing Word |[Python](./Python/748.py)| Easy |  | |
 | 752 | Open the Lock |[Python](./Python/752.py)| Medium | BFS | G |
 | 753 |Cracking the Safe |[Python](./Python/753.py)| Hard | DFS | G:construction: |
 | 766 | Toeplitz Matrix |[Python](./Python/766.py)| Easy|  | G |
@@ -371,6 +377,7 @@ Data Structure and Algorithms
 | 929 | Unique Email Addresses |[Python](./Python/929.py)| Easy | String |  |
 | 931 | Minimum Falling Path Sum |[Python](./Python/931.py)| Medium | DP | | 
 | 935 | Knight Dialer |[Python](./Python/935.py)| Medium | DP | 不明显的滚动数组 | | 
+| 939 | Minimum Area Rectangle |[Python](./Python/939.py)| Medium | | | 
 | 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |  |
 | 951 | Flip Equivalent Binary Trees |[Python](./Python/951.py)| Medium | Binary Tree / Divide&Conquer|
 | 958 | Check Completeness of a Binary Tree |[Python](./Python/935.py)| Medium | Divide&Conquer | perfect / complete binary tree| 
@@ -378,6 +385,7 @@ Data Structure and Algorithms
 | 975 | Odd Even Jump|[Python](./Python/975.py)| Hard |  |  |
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | 
 | 1007 | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array |  | 
+| 1011 | Capacity To Ship Packages Within D Days |[Python](./Python/1011.py)| Medium | Binary Search |  | 
 | 1028 | Recover a Tree From Preorder Traversal |[Python](./Python/1028.py)| Hard | Divide&Conquer | ||
 | 1029 | Two City Scheduling |[Python](./Python/1029.py)| Easy | heap | ||
 | 1043 | Partition Array for Maximum Sum |[Python](./Python/1043.py)| Medium | DP | :construction: |

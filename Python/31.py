@@ -1,3 +1,29 @@
+# April 3rd
+class Solution:
+    def nextPermutation(self, nums: List[int]) -> None:
+        i = len(nums) - 1
+        while i > 0 and nums[i] <= nums[i - 1]:
+            i -= 1 
+            
+        if i == 0:
+            nums.reverse()
+            return 
+        # k is the turning point. nums increase from last num to i, but drop at k
+        k = i - 1
+        j = len(nums) - 1
+        # find the first(smallest) num greater than nums[k] on its right
+        while nums[j] <= nums[k]:
+            j -= 1 
+        nums[k], nums[j] = nums[j], nums[k]
+        # reverse the second part
+        left, right = k + 1, len(nums) - 1
+        while left < right:
+            nums[left], nums[right] = nums[right], nums[left]
+            left += 1 
+            right -= 1 
+            
+    
+
 class Solution:
     def nextPermutation(self, nums: List[int]) -> None:
         idx = len(nums)
