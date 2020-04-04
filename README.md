@@ -248,6 +248,7 @@ Data Structure and Algorithms
 | 40 | Combination Sum II |[Python](./Python/40.py)| Medium | dfs  | |
 | 42 |Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | 
 | 46 | Permutations |[Python](./Python/46.py)| Medium | dfs  | |
+| 47 | Permutations II |[Python](./Python/47.py)| Medium | dfs  | |
 | 56 | Merge Intervals |[Python](./Python/56.py)| Medium | | | 
 | 62 |  Unique Paths |[Python](./Python/62.py)| Medium |  dp | | 
 | 63 |  Unique Paths II |[Python](./Python/63.py)| Medium |  dp | | 
@@ -260,18 +261,20 @@ Data Structure and Algorithms
 | 90 |SubsetsII |[Python](./Python/90.py)| Medium | dfs | |
 | 92 | Reverse Linked List II |[Python](./Python/92.py)| Medium | | |
 | 94 |Binary Tree Inorder Traversal |[Python](./Python/94.py)| Medium | Morris Traversal | |
+| 96 | Unique Binary Search Trees |[Python](./Python/96.py)| Medium | DP|  :construction:|
 | 97 | Interleaving String | [Python](./Python/97.py)| Hard | dp 双序列 |:construction: |
 | 98 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | :construction:|
 | 99 | Recover Binary Search Tree|[Python](./Python/99.py)| Hard | Morris | :construction:|
 | 102| Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Medium | BFS |
-| 111|  Minimum Depth of Binary Tree |[Python](./Python/111.py)| Easy | BFS |
-| 114 |Flatten Binary Tree to Linked List |[Python](./Python/114.py)| Medium | :construction:Mar23 |
-| 117| Populating Next Right Pointers in Each Node II |[Python](./Python/117.py)| Medium | BFS |
-| 126| Word Ladder II |[Python](./Python/126.py)| Hard | BFS |
-| 127| Word Ladder |[Python](./Python/127.py)| Medium | BFS |
-| 133| Clone Graph |[Python](./Python/133.py)| Medium | BFS |
-| 134| Gas Station |[Python](./Python/134.py)| Medium |  |
-| 136|  Single Number |[Python](./Python/136.py)| Easy | XOR |
+| 111 | Minimum Depth of Binary Tree |[Python](./Python/111.py)| Easy | BFS |
+| 114 | Flatten Binary Tree to Linked List |[Python](./Python/114.py)| Medium | :construction:Mar23 |
+| 115 | Distinct Subsequences |[Python](./Python/125.py)| Hard | DP |
+| 117 | Populating Next Right Pointers in Each Node II |[Python](./Python/117.py)| Medium | BFS |
+| 126 | Word Ladder II |[Python](./Python/126.py)| Hard | BFS |
+| 127 | Word Ladder |[Python](./Python/127.py)| Medium | BFS |
+| 133 | Clone Graph |[Python](./Python/133.py)| Medium | BFS |
+| 134 | Gas Station |[Python](./Python/134.py)| Medium |  |
+| 136 |  Single Number |[Python](./Python/136.py)| Easy | XOR |
 | 139 | Word Break |[Python](./Python/139.py)| Medium | DP |
 | 140 | Word Break II |[Python](./Python/140.py)| Hard | DP | :construction: |
 | 141 | Linked List Cycle |[Python](./Python/141.py)| Easy |  |
@@ -303,9 +306,10 @@ Data Structure and Algorithms
 | 276 | Paint Fence |[Python](./Python/276.py)| Easy | |G|
 | 289 | Game of Life |[Python](./Python/289.py)| Medium | |G|
 | 293 | Flip Game |[Python](./Python/297.py)| Easy |  | | 
+| 294 | Flip Game II |[Python](./Python/294.py)| Medium | dfs+memoization | 
 | 296 | Best Meeting Point |[Python](./Python/296.py)| Hard | G | 1. the 2D case as two independent 1D problems. 2. the median must be the optimal meeting point. | 
 | 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | 
-|299 | Bulls and Cows |[Python](./Python/299.py)| Easy |  |  |
+| 299 | Bulls and Cows |[Python](./Python/299.py)| Easy |  |  |
 | 303 | Range Sum Query - Immutable |[Python](./Python/303.py)| Easy | 前缀和 | | 
 | 304 | Range Sum Query 2D - Immutable |[Python](./Python/304.py)| Medium | 2d前缀和 |  |
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
@@ -314,6 +318,7 @@ Data Structure and Algorithms
 | 323 | Number of Connected Components in an Undirected Graph |[Python](./Python/323.py)| Medium | UnionFind | |
 | 333 | Largest BST Subtree |[Python](./Python/333.py)| Medium | BST | Divide&Conquer |
 | 337 | House Robber III |[Python](./Python/337.py)| Medium | DFS Divide&Conquer |  |
+| 358 | Design Snake Game |[Python](./Python/358.py)| Medium |  | G |
 | 359 | Logger Rate Limiter |[Python](./Python/359.py)| Easy | |  |
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
 | 362 | Design Hit Counter |[Python](./Python/362.py)| Medium | queue |  |
@@ -329,15 +334,19 @@ Data Structure and Algorithms
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | Topological Sort |
 | 459 | Repeated Substring Pattern|[Python](./Python/459.py)| Easy | String |  |
 | 462 | Minimum Moves to Equal Array Elements II |[Python](./Python/462.py)| Medium | Median Arr |  |
+| 464 | Can I Win |[Python](./Python/464.py)| Medium | Memoization + dfs | :construction: |
 | 465 | Optimal Account Balancing |[Python](./Python/465.py)| Hard | Greedy | :construction: G |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
 | 472 | Conncatenated Words |[Python](./Python/472.py)| Hard | DP | |
 | 485 | Max Consecutive Ones |[Python](./Python/468.py)| Easy |  | G |
+| 486 | Predict the Winner |[Python](./Python/486.py)| Medium |  | G |
+| 509 | Fibonacci Number |[Python](./Python/509.py)| Easy |  | 用dfs+memoization做fibonacci我简直是太拼了 |
 | 516 | Longest Palindromic Subsequence |[Python](./Python/516.py)| Medium | dp |  |
 | 526 |Beautiful Arrangement |[Python](./Python/526.py)| Medium |  |  |
 | 535 |Encode and Decode TinyURL |[Python](./Python/535.py)| Medium |  |  |
 | 543 | Diameter of Binary Tree |[Python](./Python/543.py)| Easy | Tree | 1245 |
 | 583 | Delete Operation for Two Strings |[Python](./Python/583.py)| Medium | DP | longest common subsequence |
+| 593 | Valid Square |[Python](./Python/593.py)| Medium | | G |
 | 604 | Design Compressed String Iterator |[Python](./Python/604.py)| Easy | | G |
 | 638 | Shopping Offer |[Python](./Python/638.py)| Medium | DFS + Pruning |  |
 | 642 | Design Search Autocomplete System |[Python](./Python/642.py)| Hard | Heap/Queue | Edge Case |
@@ -370,6 +379,7 @@ Data Structure and Algorithms
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium | | G |
 | 859 | Buddy Strings|[Python](./Python/859.py)| Easy| |  |
+| 877 | Stone Game|[Python](./Python/877.py)| Medium | | |
 | 887 | Super Egg Drop |[Python](./Python/887.py)| Hard | |  |
 | 889 | Construct Binary Tree from Preorder and Postorder Traversal |[Python](./Python/889.py)| Medium | Binary Tree | Pre/Post order |
 | 904 | Fruit Into Baskets|[Python](./Python/904.py)| Medium | Sliding Window  |  |
@@ -424,6 +434,12 @@ Data Structure and Algorithms
 | 1395 | Count Number of Teams |[Python](./Python/1395.py)| Medium |  |  | 
 | 1396 | Design Underground System|[Python](./Python/1396.py)| Medium |  |  | 	
 | 1397 | Find All Good Strings|[Python](./Python/1397.py)| Hard | KMP + DFS |  | 
+| 1399 | Count Largest Group |[Python](./Python/1399.py)| Easy |  |  |
+| 1400 | Construct K Palindrome Strings |[Python](./Python/1400.py)| Medium |  |  |
+| 1401 | Circle and Rectangle Overlapping |[Python](./Python/1401.py)| Medium |  |  | 	
+| 1402 | Reducing Dishes |[Python](./Python/1402.py)| Hard |  |  | 	
+
+
 
 #### 0 - Where it starts  :muscle::muscle::muscle:
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
