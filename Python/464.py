@@ -1,4 +1,4 @@
-# April 4 写了两次，差不多背下来了
+ # April 4 写了两次，差不多背下来了
 class Solution:
     def canIWin(self, maxChoosableInteger: int, desiredTotal: int) -> bool:
         seen = {}

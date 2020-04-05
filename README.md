@@ -270,6 +270,7 @@ Data Structure and Algorithms
 | 114 | Flatten Binary Tree to Linked List |[Python](./Python/114.py)| Medium | :construction:Mar23 |
 | 115 | Distinct Subsequences |[Python](./Python/125.py)| Hard | DP |
 | 117 | Populating Next Right Pointers in Each Node II |[Python](./Python/117.py)| Medium | BFS |
+| 122 | Best Time to Buy and Sell Stock II |[Python](./Python/122.py)| Easy | |
 | 126 | Word Ladder II |[Python](./Python/126.py)| Hard | BFS |
 | 127 | Word Ladder |[Python](./Python/127.py)| Medium | BFS |
 | 133 | Clone Graph |[Python](./Python/133.py)| Medium | BFS |
@@ -332,6 +333,7 @@ Data Structure and Algorithms
 | 422 | Valid Word Square|[Python](./Python/422.py)| Easy | | |
 | 425 | Word Squares |[Python](./Python/425.py)| Hard | DFS + Memorization |:construction:|
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | Topological Sort |
+| 451 | Sort Characters By Frequency |[Python](./Python/451.py)| Medium |  |
 | 459 | Repeated Substring Pattern|[Python](./Python/459.py)| Easy | String |  |
 | 462 | Minimum Moves to Equal Array Elements II |[Python](./Python/462.py)| Medium | Median Arr |  |
 | 464 | Can I Win |[Python](./Python/464.py)| Medium | Memoization + dfs | :construction: |
@@ -340,6 +342,7 @@ Data Structure and Algorithms
 | 472 | Conncatenated Words |[Python](./Python/472.py)| Hard | DP | |
 | 485 | Max Consecutive Ones |[Python](./Python/468.py)| Easy |  | G |
 | 486 | Predict the Winner |[Python](./Python/486.py)| Medium |  | G |
+| 503 | Next Greater Element II |[Python](./Python/503.py)| Medium |  |  |
 | 509 | Fibonacci Number |[Python](./Python/509.py)| Easy |  | 用dfs+memoization做fibonacci我简直是太拼了 |
 | 516 | Longest Palindromic Subsequence |[Python](./Python/516.py)| Medium | dp |  |
 | 526 |Beautiful Arrangement |[Python](./Python/526.py)| Medium |  |  |
@@ -354,6 +357,7 @@ Data Structure and Algorithms
 | 679  |  24 Game |[Python](./Python/679.py)| Hard | DFS |  |  
 | 681  | Next Closest Time |[Python](./Python/681.py)| Medium | | G |  
 | 685  | Redundant Connection II |[Python](./Python/685.py)| Hard | Union Find | 判断valid tree: 只有root的indegere是0， 其他node的indegree一定是1 => 有环出现，root的indegree变成1， 或者某个非根节点indegree变成2 :construction:|  
+| 695  |  Max Area of Island |[Python](./Python/695.py)| Medium | dfs | |  
 | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
 | 705  |  Design HashSet |[Python](./Python/705.py)| Easy |hashset| G |  
 | 706  |  Design HashMap |[Python](./Python/706.py)| Easy |hashfunc, open hash| G |  
@@ -374,9 +378,11 @@ Data Structure and Algorithms
 | 774 | Minimize Max Distance to Gas Station |[Python](./Python/774.py)| Hard | Binary Search | G二分方法 |
 | 777 | Swap Adjacent in LR String |[Python](./Python/777.py)| Medium | | |
 | 787 |Cheapest Flights Within K Stops|[Python](./Python/787.py)| Medium | heap + | Dijkstra's Algo |
+| 797 | All Paths From Source to Target |[Python](./Python/797.py)| Medium | | |
 | 800 | Similar RGB Color|[Python](./Python/800.py)| Easy | Hexadecimal | G |
 | 801 | Minimum Swaps To Make Sequences Increasing |[Python](./Python/801.py)| Hard | DP | G |
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
+| 835 | Image Overlap |[Python](./Python/835.py)| Medium |  | G |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium | | G |
 | 859 | Buddy Strings|[Python](./Python/859.py)| Easy| |  |
 | 877 | Stone Game|[Python](./Python/877.py)| Medium | | |
@@ -437,7 +443,9 @@ Data Structure and Algorithms
 | 1399 | Count Largest Group |[Python](./Python/1399.py)| Easy |  |  |
 | 1400 | Construct K Palindrome Strings |[Python](./Python/1400.py)| Medium |  |  |
 | 1401 | Circle and Rectangle Overlapping |[Python](./Python/1401.py)| Medium |  |  | 	
-| 1402 | Reducing Dishes |[Python](./Python/1402.py)| Hard |  |  | 	
+| 1402 | Reducing Dishes |[Python](./Python/1402.py)| Hard |  |  |
+| 1405 | Longest Happy String |[Python](./Python/1405.py)| Medium |  |  | 	
+| 1406 | Stone Game III |[Python](./Python/1406.py)| Hard| DP | :construction: Alice and Bob bothering me again | 	
 
 
 
