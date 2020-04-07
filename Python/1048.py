@@ -1,3 +1,42 @@
+# 这题会了
+class Solution:
+    def longestStrChain(self, words: List[str]) -> int:
+        if not words or not words[0]:
+            return 0
+        result = 1
+        self.seen = {}
+        mappings = collections.defaultdict(set)
+        for word in words:
+            mappings[len(word)].add(word)
+        # lens = sorted(list(mappings.keys()), reverse=True)
+        for word in words:
+            cur = self.dfs(word, mappings)
+            result = max(cur, result)
+        return result 
+    
+    
+    def dfs(self, word, mappings):
+        if word in self.seen:
+            return self.seen[word]
+        n = len(word)
+        if n - 1 not in mappings:
+            self.seen[word] = 1
+            return 1
+        nexts = mappings[n - 1]
+        res = []
+        for nxt in nexts:
+            for i in range(len(word)):
+                if word[:i] + word[i + 1:] == nxt:
+                    cur = 1 + self.dfs(nxt, mappings)
+                    res.append(cur)
+        if not res:
+            self.seen[word] = 1
+            return 1
+        
+        self.seen[word] = max(res)
+        return self.seen[word]
+        
+
 class Solution:
     def longestStrChain(self, words: List[str]) -> int:
         lenWord = dict()

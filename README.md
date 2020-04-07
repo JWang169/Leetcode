@@ -318,6 +318,7 @@ Data Structure and Algorithms
 | 316 | Remove Duplicate Letters |[Python](./Python/316.py)| Hard | Stack | |:construction:|
 | 323 | Number of Connected Components in an Undirected Graph |[Python](./Python/323.py)| Medium | UnionFind | |
 | 333 | Largest BST Subtree |[Python](./Python/333.py)| Medium | BST | Divide&Conquer |
+| 334 | Increasing Triplet Subsequence |[Python](./Python/334.py)| Medium |  |  |
 | 337 | House Robber III |[Python](./Python/337.py)| Medium | DFS Divide&Conquer |  |
 | 358 | Design Snake Game |[Python](./Python/358.py)| Medium |  | G |
 | 359 | Logger Rate Limiter |[Python](./Python/359.py)| Easy | |  |
@@ -333,13 +334,14 @@ Data Structure and Algorithms
 | 422 | Valid Word Square|[Python](./Python/422.py)| Easy | | |
 | 425 | Word Squares |[Python](./Python/425.py)| Hard | DFS + Memorization |:construction:|
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | Topological Sort |
+| 445 | Add Two Numbers II |[Python](./Python/445.py)| Medium |  |
 | 451 | Sort Characters By Frequency |[Python](./Python/451.py)| Medium |  |
 | 459 | Repeated Substring Pattern|[Python](./Python/459.py)| Easy | String |  |
 | 462 | Minimum Moves to Equal Array Elements II |[Python](./Python/462.py)| Medium | Median Arr |  |
 | 464 | Can I Win |[Python](./Python/464.py)| Medium | Memoization + dfs | :construction: |
 | 465 | Optimal Account Balancing |[Python](./Python/465.py)| Hard | Greedy | :construction: G |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
-| 472 | Conncatenated Words |[Python](./Python/472.py)| Hard | DP | |
+| 472 | Conncatenated Words |[Python](./Python/472.py)| Hard | DP | :construction: |
 | 485 | Max Consecutive Ones |[Python](./Python/468.py)| Easy |  | G |
 | 486 | Predict the Winner |[Python](./Python/486.py)| Medium |  | G |
 | 503 | Next Greater Element II |[Python](./Python/503.py)| Medium |  |  |
@@ -371,6 +373,7 @@ Data Structure and Algorithms
 | 731 |My Calendar II|[Python](./Python/731.py)| Medium |  | 这题要把overlap判定和insert分开。如果同时进行会导致已经insert了一部分并且改变了之前的root之后发现overlap，return false同时改变了前面的root => 错了 |
 | 733 | Flood Fill |[Python](./Python/733.py)| Easy | BFS | G |
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + Dijkstra's Algo | 这道题要注意的是每次要把cost都放到heap里面，不能用global cost | 
+| 745 | Prefix and Suffix Search |[Python](./Python/745.py)| Hard |  | |
 | 748 | Shortest Completing Word |[Python](./Python/748.py)| Easy |  | |
 | 752 | Open the Lock |[Python](./Python/752.py)| Medium | BFS | G |
 | 753 |Cracking the Safe |[Python](./Python/753.py)| Hard | DFS | G:construction: |
@@ -383,17 +386,20 @@ Data Structure and Algorithms
 | 801 | Minimum Swaps To Make Sequences Increasing |[Python](./Python/801.py)| Hard | DP | G |
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
 | 835 | Image Overlap |[Python](./Python/835.py)| Medium |  | G |
+| 847 | Shortest Path Visiting All Nodes |[Python](./Python/847.py)| Hard | dfs + memoization| :construction: |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium | | G |
 | 859 | Buddy Strings|[Python](./Python/859.py)| Easy| |  |
 | 877 | Stone Game|[Python](./Python/877.py)| Medium | | |
 | 887 | Super Egg Drop |[Python](./Python/887.py)| Hard | |  |
 | 889 | Construct Binary Tree from Preorder and Postorder Traversal |[Python](./Python/889.py)| Medium | Binary Tree | Pre/Post order |
 | 904 | Fruit Into Baskets|[Python](./Python/904.py)| Medium | Sliding Window  |  |
+| 918 | Maximum Sum Circular Subarray |[Python](./Python/918.py)| Medium |  | circular不用double做 用total-minimum |
 | 925 | Long Pressed Name |[Python](./Python/925.py)| Easy| |  |
 | 929 | Unique Email Addresses |[Python](./Python/929.py)| Easy | String |  |
 | 931 | Minimum Falling Path Sum |[Python](./Python/931.py)| Medium | DP | | 
 | 935 | Knight Dialer |[Python](./Python/935.py)| Medium | DP | 不明显的滚动数组 | | 
 | 939 | Minimum Area Rectangle |[Python](./Python/939.py)| Medium | | | 
+| 940 | Distinct Subsequences II |[Python](./Python/940.py)| Hard | | :construction: |
 | 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |  |
 | 951 | Flip Equivalent Binary Trees |[Python](./Python/951.py)| Medium | Binary Tree / Divide&Conquer|
 | 958 | Check Completeness of a Binary Tree |[Python](./Python/935.py)| Medium | Divide&Conquer | perfect / complete binary tree| 
@@ -404,7 +410,8 @@ Data Structure and Algorithms
 | 1011 | Capacity To Ship Packages Within D Days |[Python](./Python/1011.py)| Medium | Binary Search |  | 
 | 1028 | Recover a Tree From Preorder Traversal |[Python](./Python/1028.py)| Hard | Divide&Conquer | ||
 | 1029 | Two City Scheduling |[Python](./Python/1029.py)| Easy | heap | ||
-| 1043 | Partition Array for Maximum Sum |[Python](./Python/1043.py)| Medium | DP | :construction: |
+| 1043 | Partition Array for Maximum Sum |[Python](./Python/1043.py)| Medium | DP | return dp[n-1] |
+| 1048 | Longest String Chain |[Python](./Python/1043.py)| Medium | dfs+memoization | 这题真会了 |
 | 1055 | Shortest Way to Form String |[Python](./Python/1055.py)| Medium | greedy |:construction:|
 | 1056 | Confusing Number |[Python](./Python/1056.py)| Easy | | |
 | 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
@@ -423,6 +430,7 @@ Data Structure and Algorithms
 | 1176 | Diet Plan Performance |[Python](./Python/1176.py)| Easy | | |
 | 1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
 | 1219 | Path with Maximum Gold |[Python](./Python/1219.py)| Medium | Search |  |
+| 1223 | Dice Roll Simulation |[Python](./Python/1223.py)| Medium | DP| :construction: 太难了，最难的medium|
 | 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line |  | 
 | 1231 |Divide Chocolate|[Python](./Python/1231.py)| Hard | 二分答案 | dfs+pruning=>TLE，二分方法=>AC  | 
 | 1245 | Tree Diameter |[Python](./Python/1245.py)| Medium | graph |  | 
@@ -432,7 +440,7 @@ Data Structure and Algorithms
 | 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit |  | 
 | 1366 | Rank Teams by Votes |[Python](./Python/1366.py)| Medium | heap |  | 
 | 1367 | Linked List in Binary Tree|[Python](./Python/1367.py)| Medium | BFS |  | 
-| 1389 |Create Target Array in the Given Order |[Python](./Python/1389.py)| Easy |  |  | 
+| 1389 |Create Target Array in the Given Order |[Python](./Python/1389.py)| Easy |  |  |
 | 1390 | Four Divisors |[Python](./Python/1390.py)| Medium |  |  | 
 | 1391 | Check if There is a Valid Path in a Grid |[Python](./Python/1391.py)| Medium | BFS with condition |  | 
 | 1392 | Longest Happy Prefix|[Python](./Python/1392.py)| Hard | KMP |  | 
