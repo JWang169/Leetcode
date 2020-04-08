@@ -261,6 +261,7 @@ Data Structure and Algorithms
 | 90 |SubsetsII |[Python](./Python/90.py)| Medium | dfs | |
 | 92 | Reverse Linked List II |[Python](./Python/92.py)| Medium | | |
 | 94 |Binary Tree Inorder Traversal |[Python](./Python/94.py)| Medium | Morris Traversal | |
+| 95 | Unique Binary Search Trees II |[Python](./Python/95.py)| Medium | DP|  :construction:|
 | 96 | Unique Binary Search Trees |[Python](./Python/96.py)| Medium | DP|  :construction:|
 | 97 | Interleaving String | [Python](./Python/97.py)| Hard | dp 双序列 |:construction: |
 | 98 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | :construction:|
@@ -389,6 +390,7 @@ Data Structure and Algorithms
 | 847 | Shortest Path Visiting All Nodes |[Python](./Python/847.py)| Hard | dfs + memoization| :construction: |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium | | G |
 | 859 | Buddy Strings|[Python](./Python/859.py)| Easy| |  |
+| 876 | Middle of the Linked List |[Python](./Python/876.py)| Easy|  |  |
 | 877 | Stone Game|[Python](./Python/877.py)| Medium | | |
 | 887 | Super Egg Drop |[Python](./Python/887.py)| Hard | |  |
 | 889 | Construct Binary Tree from Preorder and Postorder Traversal |[Python](./Python/889.py)| Medium | Binary Tree | Pre/Post order |
@@ -404,7 +406,7 @@ Data Structure and Algorithms
 | 951 | Flip Equivalent Binary Trees |[Python](./Python/951.py)| Medium | Binary Tree / Divide&Conquer|
 | 958 | Check Completeness of a Binary Tree |[Python](./Python/935.py)| Medium | Divide&Conquer | perfect / complete binary tree| 
 | 973  | K Closest Points to Origin |[Python](./Python/KClosestPointstoOrigin.py)| Medium |Kth: Heap / Quick Select  |list(map(lambda x: x[1], h))|
-| 975 | Odd Even Jump|[Python](./Python/975.py)| Hard |  |  |
+| 975 | Odd Even Jump|[Python](./Python/975.py)| Hard |  | :construction: G  不会，考了就凉 |
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | 
 | 1007 | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array |  | 
 | 1011 | Capacity To Ship Packages Within D Days |[Python](./Python/1011.py)| Medium | Binary Search |  | 
@@ -420,7 +422,9 @@ Data Structure and Algorithms
 | 1086 | High Five |[Python](./Python/1086.py)| Easy | heap | |
 | 1088 | Confusing Number II |[Python](./Python/1088.py)| Hard | dfs & backtracking |:construction:|
 | 1091 | Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
+| 1092 | Shortest Common Supersequence |[Python](./Python/1092.py)| Hard | LCS | :construction: | 
 | 1102 | Path With Maximum Minimum Value|[Python](./Python/1102.py)| Medium | bfs+heap | Dijkstr | 
+| 1140 | Stone Game II |[Python](./Python/1140.py)| Medium | DP |  | 
 | 1146 | Snapshot Array |[Python](./Python/1146.py)| Medium | bisect |  | 
 | 1153 | String Transforms Into Another String |[Python](./Python/1153.py)| Hard |  | It's a brain teaser | 
 | 1161 | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | BSF |  |
