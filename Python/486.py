@@ -1,3 +1,29 @@
+# 我可能是真的会了 April 8th
+class Solution:
+    def PredictTheWinner(self, nums: List[int]) -> bool:
+        self.seen = {}
+        first = self.dfs(nums)
+        total = sum(nums)
+        return first >= total - first 
+        
+    def dfs(self, nums):
+        if not nums:
+            return 0
+        key = tuple(nums)
+        if key in self.seen:
+            return self.seen[key]
+        
+        if len(nums) == 1:
+            self.seen[key] = nums[0]
+            return nums[0]
+        
+        total = sum(nums)
+        
+        cur = total - min(self.dfs(nums[1:]), self.dfs(nums[:len(nums) - 1]))
+        self.seen[key] = cur
+        return cur
+        
+
 # 这个就是把recursive的方法翻译过来了
 class Solution:
     def PredictTheWinner(self, nums: List[int]) -> bool:
@@ -46,7 +72,8 @@ class Solution:
             self.seen[key] = nums[0]
             return self.seen[key]
         
-        #         if pick from the front, the other person will do the optimal way. and next time I will choose the max from the min
+        # if pick from the front, the other person will do the optimal way. 
+        # and next time I will choose the max from the min
         n = len(nums)
         cur = max(nums[0] + min(self.dfs(nums[2:]), self.dfs(nums[1: n - 1])), 
                   nums[-1] + min(self.dfs(nums[1: n-1]), self.dfs(nums[:n - 2])))

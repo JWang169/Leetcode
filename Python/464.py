@@ -1,3 +1,36 @@
+# 不你没背下来 April 8 你又写错了
+class Solution:
+    def canIWin(self, maxChoosableInteger: int, desiredTotal: int) -> bool:
+        self.seen = {}
+        nums = [i for i in range(1, maxChoosableInteger + 1)]
+        if sum(nums) < desiredTotal:
+            return False 
+        return self.dfs(nums, desiredTotal)        
+            
+    
+    def dfs(self, nums, remain):
+        if tuple(nums) in self.seen:
+            return self.seen[tuple(nums)]
+
+        key = tuple(nums)
+        if nums and nums[-1] >= remain:
+            self.seen[key] = True 
+            return True
+    
+        if not nums and remain > 0:
+            return False 
+        
+        for i in range(len(nums)):
+            if not self.dfs(nums[:i] + nums[i + 1:], remain - nums[i]):
+                self.seen[key] = True
+                return True
+        
+        self.seen[key] = False
+            
+        return self.seen[key]
+    
+
+
  # April 4 写了两次，差不多背下来了
 class Solution:
     def canIWin(self, maxChoosableInteger: int, desiredTotal: int) -> bool:

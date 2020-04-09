@@ -307,7 +307,8 @@ Data Structure and Algorithms
 | 272 | Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search 
 | 276 | Paint Fence |[Python](./Python/276.py)| Easy | |G|
 | 289 | Game of Life |[Python](./Python/289.py)| Medium | |G|
-| 293 | Flip Game |[Python](./Python/297.py)| Easy |  | | 
+| 292 | Nim Game |[Python](./Python/292.py)| Easy |  | | 
+| 293 | Flip Game |[Python](./Python/293.py)| Easy |  | | 
 | 294 | Flip Game II |[Python](./Python/294.py)| Medium | dfs+memoization | 
 | 296 | Best Meeting Point |[Python](./Python/296.py)| Hard | G | 1. the 2D case as two independent 1D problems. 2. the median must be the optimal meeting point. | 
 | 297 | Serialize and Deserialize Binary Tree |[Python](./Python/297.py)| Hard | BFS | | 
@@ -351,6 +352,7 @@ Data Structure and Algorithms
 | 526 |Beautiful Arrangement |[Python](./Python/526.py)| Medium |  |  |
 | 535 |Encode and Decode TinyURL |[Python](./Python/535.py)| Medium |  |  |
 | 543 | Diameter of Binary Tree |[Python](./Python/543.py)| Easy | Tree | 1245 |
+| 562 | Longest Line of Consecutive One in Matrix |[Python](./Python/562.py)| Medium | | G |
 | 583 | Delete Operation for Two Strings |[Python](./Python/583.py)| Medium | DP | longest common subsequence |
 | 593 | Valid Square |[Python](./Python/593.py)| Medium | | G |
 | 604 | Design Compressed String Iterator |[Python](./Python/604.py)| Easy | | G |
@@ -439,6 +441,8 @@ Data Structure and Algorithms
 | 1231 |Divide Chocolate|[Python](./Python/1231.py)| Hard | 二分答案 | dfs+pruning=>TLE，二分方法=>AC  | 
 | 1245 | Tree Diameter |[Python](./Python/1245.py)| Medium | graph |  | 
 | 1257 | Smallest Common Region |[Python](./Python/1257.py)| Medium | Unionfind |  | 
+| 1262 | Greatest Sum Divisible by Three |[Python](./Python/1262.py)| Medium | DP|  | 
+| 1296 | Divide Array in Sets of K Consecutive Numbers |[Python](./Python/1296.py)| Medium | | G | 
 | 1320 | Minimum Distance to Type a Word Using Two Fingers |[Python](./Python/1330.py)| Hard | DP | :construction: G |
 | 1332 |Remove Palindromic Subsequences|[Python](./Python/1332.py)| Easy | |  | 
 | 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit |  | 
