@@ -271,6 +271,7 @@ Data Structure and Algorithms
 | 114 | Flatten Binary Tree to Linked List |[Python](./Python/114.py)| Medium | :construction:Mar23 |
 | 115 | Distinct Subsequences |[Python](./Python/125.py)| Hard | DP |
 | 117 | Populating Next Right Pointers in Each Node II |[Python](./Python/117.py)| Medium | BFS |
+| 121 | Best Time to Buy and Sell Stock |[Python](./Python/121.py)| Easy | |
 | 122 | Best Time to Buy and Sell Stock II |[Python](./Python/122.py)| Easy | |
 | 126 | Word Ladder II |[Python](./Python/126.py)| Hard | BFS |
 | 127 | Word Ladder |[Python](./Python/127.py)| Medium | BFS |
@@ -370,6 +371,7 @@ Data Structure and Algorithms
 | 708  |Insert into a Sorted Circular Linked List |[Python](./Python/708.py)|Medium | LinkedList | :construction: |  
 | 720 | Longest Word in Dictionary|[Python](./Python/720.py)| Easy| Trie | |
 | 721 | Accounts Merge |[Python](./Python/721.py)| Medium | Union Find |  |
+| 722 | Remove Comments |[Python](./Python/722.py)| Medium | | Kill me |
 | 724 | Find Pivot Index |[Python](./Python/724.py)| Easy |  |  |
 | 727 | Minimum Window Subsequence |[Python](./Python/727.py)| Hard | DP | G:construction: |
 | 729 |My Calendar I|[Python](./Python/729.py)| Medium | Binary Search Tree | :construction:swipeline也可以做，但mutable每次更新都要扫一遍，所以treemap(Binary search tree)可以避免重复 |
@@ -388,7 +390,9 @@ Data Structure and Algorithms
 | 800 | Similar RGB Color|[Python](./Python/800.py)| Easy | Hexadecimal | G |
 | 801 | Minimum Swaps To Make Sequences Increasing |[Python](./Python/801.py)| Hard | DP | G |
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
+| 833 | Find And Replace in String |[Python](./Python/833.py)| Medium |  | G |
 | 835 | Image Overlap |[Python](./Python/835.py)| Medium |  | G |
+| 844 | Backspace String Compare |[Python](./Python/844.py)| Easy |
 | 847 | Shortest Path Visiting All Nodes |[Python](./Python/847.py)| Hard | dfs + memoization| :construction: |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium | | G |
 | 859 | Buddy Strings|[Python](./Python/859.py)| Easy| |  |
@@ -412,6 +416,7 @@ Data Structure and Algorithms
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | 
 | 1007 | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array |  | 
 | 1011 | Capacity To Ship Packages Within D Days |[Python](./Python/1011.py)| Medium | Binary Search |  | 
+| 1014 | Best Sightseeing Pair |[Python](./Python/1014.py)| Medium |  | :construction: |
 | 1028 | Recover a Tree From Preorder Traversal |[Python](./Python/1028.py)| Hard | Divide&Conquer | ||
 | 1029 | Two City Scheduling |[Python](./Python/1029.py)| Easy | heap | ||
 | 1043 | Partition Array for Maximum Sum |[Python](./Python/1043.py)| Medium | DP | return dp[n-1] |
@@ -422,10 +427,12 @@ Data Structure and Algorithms
 | 1062 | Longest Repeating Substring |[Python](./Python/1062.py)| Medium | dp |:construction:G|
 | 1081 | Smallest Subsequence of Distinct Characters |[Python](./Python/1081.py)| Hard | Stack | |:construction:|
 | 1086 | High Five |[Python](./Python/1086.py)| Easy | heap | |
+| 1087 | Brace Expansion |[Python](./Python/1087.py)| Medium | dfs | |
 | 1088 | Confusing Number II |[Python](./Python/1088.py)| Hard | dfs & backtracking |:construction:|
 | 1091 | Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST |  | 
 | 1092 | Shortest Common Supersequence |[Python](./Python/1092.py)| Hard | LCS | :construction: | 
 | 1102 | Path With Maximum Minimum Value|[Python](./Python/1102.py)| Medium | bfs+heap | Dijkstr | 
+| 1131 | Maximum of Absolute Value Expression |[Python](./Python/1131.py)| Medium | 121, 1013 | :construction:coordinate.wang |   
 | 1140 | Stone Game II |[Python](./Python/1140.py)| Medium | DP |  | 
 | 1146 | Snapshot Array |[Python](./Python/1146.py)| Medium | bisect |  | 
 | 1153 | String Transforms Into Another String |[Python](./Python/1153.py)| Hard |  | It's a brain teaser | 
@@ -442,6 +449,8 @@ Data Structure and Algorithms
 | 1245 | Tree Diameter |[Python](./Python/1245.py)| Medium | graph |  | 
 | 1257 | Smallest Common Region |[Python](./Python/1257.py)| Medium | Unionfind |  | 
 | 1262 | Greatest Sum Divisible by Three |[Python](./Python/1262.py)| Medium | DP|  | 
+| 1277 | Count Square Submatrices with All Ones |[Python](./Python/1277.py)| Medium | DP |
+| 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold |[Python](./Python/1292.py)| Medium | | G | 
 | 1296 | Divide Array in Sets of K Consecutive Numbers |[Python](./Python/1296.py)| Medium | | G | 
 | 1320 | Minimum Distance to Type a Word Using Two Fingers |[Python](./Python/1330.py)| Hard | DP | :construction: G |
 | 1332 |Remove Palindromic Subsequences|[Python](./Python/1332.py)| Easy | |  | 
