@@ -357,6 +357,7 @@ Data Structure and Algorithms
 | 583 | Delete Operation for Two Strings |[Python](./Python/583.py)| Medium | DP | longest common subsequence |
 | 593 | Valid Square |[Python](./Python/593.py)| Medium | | G |
 | 604 | Design Compressed String Iterator |[Python](./Python/604.py)| Easy | | G |
+| 636 |Exclusive Time of Functions |[Python](./Python/636.py)| Medium | stack |  |
 | 638 | Shopping Offer |[Python](./Python/638.py)| Medium | DFS + Pruning |  |
 | 642 | Design Search Autocomplete System |[Python](./Python/642.py)| Hard | Heap/Queue | Edge Case |
 | 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | 
@@ -452,6 +453,7 @@ Data Structure and Algorithms
 | 1277 | Count Square Submatrices with All Ones |[Python](./Python/1277.py)| Medium | DP |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold |[Python](./Python/1292.py)| Medium | | G | 
 | 1296 | Divide Array in Sets of K Consecutive Numbers |[Python](./Python/1296.py)| Medium | | G | 
+| 1300 | Sum of Mutated Array Closest to Target |[Python](./Python/1300.py)| Medium | Binary Search |  | 
 | 1320 | Minimum Distance to Type a Word Using Two Fingers |[Python](./Python/1330.py)| Hard | DP | :construction: G |
 | 1332 |Remove Palindromic Subsequences|[Python](./Python/1332.py)| Easy | |  | 
 | 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit |  | 
@@ -469,6 +471,7 @@ Data Structure and Algorithms
 | 1400 | Construct K Palindrome Strings |[Python](./Python/1400.py)| Medium |  |  |
 | 1401 | Circle and Rectangle Overlapping |[Python](./Python/1401.py)| Medium |  |  | 	
 | 1402 | Reducing Dishes |[Python](./Python/1402.py)| Hard |  |  |
+| 1404 | Number of Steps to Reduce a Number in Binary Representation to One|[Python](./Python/1404.py)| Medium |  |  | 	
 | 1405 | Longest Happy String |[Python](./Python/1405.py)| Medium |  |  | 	
 | 1406 | Stone Game III |[Python](./Python/1406.py)| Hard| DP | :construction: Alice and Bob bothering me again | 	
 

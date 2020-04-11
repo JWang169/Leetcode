@@ -4,9 +4,9 @@ class Solution:
         if not prices:
             return 0
         buy, sell = -prices[0], 0
-        for i in prices[1:]:
-            buy = max(buy, -i)
-            sell = max(sell, buy + i)
+        for price in prices[1:]:
+            buy = max(buy, -price)
+            sell = max(sell, price + buy)
         return sell
         
 #           GREEDY
@@ -20,6 +20,3 @@ class Solution:
 #                 cur = prices[i]
             
 #         return result
-        
-        
-        
