@@ -273,6 +273,7 @@ Data Structure and Algorithms
 | 117 | Populating Next Right Pointers in Each Node II |[Python](./Python/117.py)| Medium | BFS |
 | 121 | Best Time to Buy and Sell Stock |[Python](./Python/121.py)| Easy | |
 | 122 | Best Time to Buy and Sell Stock II |[Python](./Python/122.py)| Easy | |
+| 123 | Best Time to Buy and Sell Stock III |[Python](./Python/123.py)| Hard | |:construction:|
 | 126 | Word Ladder II |[Python](./Python/126.py)| Hard | BFS |
 | 127 | Word Ladder |[Python](./Python/127.py)| Medium | BFS |
 | 133 | Clone Graph |[Python](./Python/133.py)| Medium | BFS |
@@ -448,6 +449,7 @@ Data Structure and Algorithms
 | 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line |  | 
 | 1231 |Divide Chocolate|[Python](./Python/1231.py)| Hard | 二分答案 | dfs+pruning=>TLE，二分方法=>AC  | 
 | 1245 | Tree Diameter |[Python](./Python/1245.py)| Medium | graph |  | 
+| 1256 | Print Immutable Linked List in Reverse |[Python](./Python/1256.py)| Medium | |  | 
 | 1257 | Smallest Common Region |[Python](./Python/1257.py)| Medium | Unionfind |  | 
 | 1262 | Greatest Sum Divisible by Three |[Python](./Python/1262.py)| Medium | DP|  | 
 | 1277 | Count Square Submatrices with All Ones |[Python](./Python/1277.py)| Medium | DP |
@@ -459,6 +461,7 @@ Data Structure and Algorithms
 | 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit |  | 
 | 1366 | Rank Teams by Votes |[Python](./Python/1366.py)| Medium | heap |  | 
 | 1367 | Linked List in Binary Tree|[Python](./Python/1367.py)| Medium | BFS |  | 
+| 1376 | Time Needed to Inform All Employees|[Python](./Python/1376.py)| Medium | BFS |  | 
 | 1389 |Create Target Array in the Given Order |[Python](./Python/1389.py)| Easy |  |  |
 | 1390 | Four Divisors |[Python](./Python/1390.py)| Medium |  |  | 
 | 1391 | Check if There is a Valid Path in a Grid |[Python](./Python/1391.py)| Medium | BFS with condition |  | 
