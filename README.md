@@ -430,6 +430,7 @@ Data Structure and Algorithms
 | 1055 | Shortest Way to Form String |[Python](./Python/1055.py)| Medium | greedy |:construction:|
 | 1056 | Confusing Number |[Python](./Python/1056.py)| Easy | | |
 | 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
+| 1074 | Number of Submatrices That Sum to Target |[Python](./Python/1074.py)| Hard | 363 |:construction:G|
 | 1062 | Longest Repeating Substring |[Python](./Python/1062.py)| Medium | dp |:construction:G|
 | 1081 | Smallest Subsequence of Distinct Characters |[Python](./Python/1081.py)| Hard | Stack | |:construction:|
 | 1086 | High Five |[Python](./Python/1086.py)| Easy | heap | |
@@ -439,6 +440,7 @@ Data Structure and Algorithms
 | 1092 | Shortest Common Supersequence |[Python](./Python/1092.py)| Hard | LCS | :construction: | 
 | 1102 | Path With Maximum Minimum Value|[Python](./Python/1102.py)| Medium | bfs+heap | Dijkstr | 
 | 1131 | Maximum of Absolute Value Expression |[Python](./Python/1131.py)| Medium | 121, 1013 | :construction:coordinate.wang |   
+| 1134 | Armstrong Number |[Python](./Python/1134.py)| Easy|  |  | 
 | 1140 | Stone Game II |[Python](./Python/1140.py)| Medium | DP |  | 
 | 1146 | Snapshot Array |[Python](./Python/1146.py)| Medium | bisect |  | 
 | 1153 | String Transforms Into Another String |[Python](./Python/1153.py)| Hard |  | It's a brain teaser | 
@@ -463,6 +465,7 @@ Data Structure and Algorithms
 | 1320 | Minimum Distance to Type a Word Using Two Fingers |[Python](./Python/1330.py)| Hard | DP | :construction: G |
 | 1332 |Remove Palindromic Subsequences|[Python](./Python/1332.py)| Easy | |  | 
 | 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit |  | 
+| 1365 | How Many Numbers Are Smaller Than the Current Number |[Python](./Python/1365.py)| Easy | bisect |  | 
 | 1366 | Rank Teams by Votes |[Python](./Python/1366.py)| Medium | heap |  | 
 | 1367 | Linked List in Binary Tree|[Python](./Python/1367.py)| Medium | BFS |  | 
 | 1376 | Time Needed to Inform All Employees|[Python](./Python/1376.py)| Medium | BFS |  | 
