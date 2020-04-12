@@ -426,7 +426,9 @@ Data Structure and Algorithms
 | 1028 | Recover a Tree From Preorder Traversal |[Python](./Python/1028.py)| Hard | Divide&Conquer | ||
 | 1029 | Two City Scheduling |[Python](./Python/1029.py)| Easy | heap | ||
 | 1043 | Partition Array for Maximum Sum |[Python](./Python/1043.py)| Medium | DP | return dp[n-1] |
+| 1046 | Last Stone Weight |[Python](./Python/1046.py)| Easy|  |
 | 1048 | Longest String Chain |[Python](./Python/1043.py)| Medium | dfs+memoization | 这题真会了 |
+| 1049 | Last Stone Weight II |[Python](./Python/1049.py)| Medium | knapsack | :construction: 0/1背包 就本来没有那么难吧 discuss里非秀操作写的贼跳 看了二年都看不懂 为什么不能写的朴实一点|
 | 1055 | Shortest Way to Form String |[Python](./Python/1055.py)| Medium | greedy |:construction:|
 | 1056 | Confusing Number |[Python](./Python/1056.py)| Easy | | |
 | 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
