@@ -324,6 +324,7 @@ Data Structure and Algorithms
 | 333 | Largest BST Subtree |[Python](./Python/333.py)| Medium | BST | Divide&Conquer |
 | 334 | Increasing Triplet Subsequence |[Python](./Python/334.py)| Medium |  |  |
 | 337 | House Robber III |[Python](./Python/337.py)| Medium | DFS Divide&Conquer |  |
+| 348 | Design Tic-Tac-Toe |[Python](./Python/348.py)| Medium |  |  |
 | 358 | Design Snake Game |[Python](./Python/358.py)| Medium |  | G |
 | 359 | Logger Rate Limiter |[Python](./Python/359.py)| Easy | |  |
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
@@ -348,6 +349,7 @@ Data Structure and Algorithms
 | 472 | Conncatenated Words |[Python](./Python/472.py)| Hard | DP | :construction: |
 | 485 | Max Consecutive Ones |[Python](./Python/468.py)| Easy |  | G |
 | 486 | Predict the Winner |[Python](./Python/486.py)| Medium |  | G |
+| 489 | Robot Room Cleaner |[Python](./Python/489.py)| Hard | dfs+backtracking | :construction: |
 | 503 | Next Greater Element II |[Python](./Python/503.py)| Medium |  |  |
 | 509 | Fibonacci Number |[Python](./Python/509.py)| Easy |  | 用dfs+memoization做fibonacci我简直是太拼了 |
 | 516 | Longest Palindromic Subsequence |[Python](./Python/516.py)| Medium | dp |  |
@@ -388,9 +390,11 @@ Data Structure and Algorithms
 | 774 | Minimize Max Distance to Gas Station |[Python](./Python/774.py)| Hard | Binary Search | G二分方法 |
 | 777 | Swap Adjacent in LR String |[Python](./Python/777.py)| Medium | | |
 | 787 |Cheapest Flights Within K Stops|[Python](./Python/787.py)| Medium | heap + | Dijkstra's Algo |
+| 792 | Number of Matching Subsequences |[Python](./Python/792.py)| Medium | bisect | |
 | 797 | All Paths From Source to Target |[Python](./Python/797.py)| Medium | | |
 | 800 | Similar RGB Color|[Python](./Python/800.py)| Easy | Hexadecimal | G |
 | 801 | Minimum Swaps To Make Sequences Increasing |[Python](./Python/801.py)| Hard | DP | G |
+| 802 | Find Eventual Safe States |[Python](./Python/802.py)| Medium |  | G |
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium |  | G |
 | 833 | Find And Replace in String |[Python](./Python/833.py)| Medium |  | G |
 | 835 | Image Overlap |[Python](./Python/835.py)| Medium |  | G |
