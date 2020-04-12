@@ -308,6 +308,7 @@ Data Structure and Algorithms
 | 271 | Encode and Decode Strings |[Python](./Python/271.py)| Medium | |G|
 | 272 | Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search 
 | 276 | Paint Fence |[Python](./Python/276.py)| Easy | |G|
+| 286 | Walls and Gates |[Python](./Python/286.py)| Medium | | |
 | 289 | Game of Life |[Python](./Python/289.py)| Medium | |G|
 | 292 | Nim Game |[Python](./Python/292.py)| Easy |  | | 
 | 293 | Flip Game |[Python](./Python/293.py)| Easy |  | | 
@@ -364,6 +365,7 @@ Data Structure and Algorithms
 | 638 | Shopping Offer |[Python](./Python/638.py)| Medium | DFS + Pruning |  |
 | 642 | Design Search Autocomplete System |[Python](./Python/642.py)| Hard | Heap/Queue | Edge Case |
 | 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | 
+| 662 |  Maximum Width of Binary Tree |[Python](./Python/662.py)| Medium | | G |
 | 679  |  24 Game |[Python](./Python/679.py)| Hard | DFS |  |  
 | 681  | Next Closest Time |[Python](./Python/681.py)| Medium | | G |  
 | 685  | Redundant Connection II |[Python](./Python/685.py)| Hard | Union Find | 判断valid tree: 只有root的indegere是0， 其他node的indegree一定是1 => 有环出现，root的indegree变成1， 或者某个非根节点indegree变成2 :construction:|  
@@ -432,8 +434,9 @@ Data Structure and Algorithms
 | 1055 | Shortest Way to Form String |[Python](./Python/1055.py)| Medium | greedy |:construction:|
 | 1056 | Confusing Number |[Python](./Python/1056.py)| Easy | | |
 | 1057 | Campus Bikes |[Python](./Python/1057.py)| Medium | heap |  |
-| 1074 | Number of Submatrices That Sum to Target |[Python](./Python/1074.py)| Hard | 363 |:construction:G|
+| 1060 | Missing Element in Sorted Array |[Python](./Python/1060.py)| Medium | Binary Search | |
 | 1062 | Longest Repeating Substring |[Python](./Python/1062.py)| Medium | dp |:construction:G|
+| 1074 | Number of Submatrices That Sum to Target |[Python](./Python/1074.py)| Hard | 363 |:construction:G|
 | 1081 | Smallest Subsequence of Distinct Characters |[Python](./Python/1081.py)| Hard | Stack | |:construction:|
 | 1086 | High Five |[Python](./Python/1086.py)| Easy | heap | |
 | 1087 | Brace Expansion |[Python](./Python/1087.py)| Medium | dfs | |
@@ -470,6 +473,7 @@ Data Structure and Algorithms
 | 1365 | How Many Numbers Are Smaller Than the Current Number |[Python](./Python/1365.py)| Easy | bisect |  | 
 | 1366 | Rank Teams by Votes |[Python](./Python/1366.py)| Medium | heap |  | 
 | 1367 | Linked List in Binary Tree|[Python](./Python/1367.py)| Medium | BFS |  | 
+| 1372 | Longest ZigZag Path in a Binary Tree |[Python](./Python/1372.py)| Medium | Divide and Couquer |  | 
 | 1376 | Time Needed to Inform All Employees|[Python](./Python/1376.py)| Medium | BFS |  | 
 | 1389 |Create Target Array in the Given Order |[Python](./Python/1389.py)| Easy |  |  |
 | 1390 | Four Divisors |[Python](./Python/1390.py)| Medium |  |  | 
