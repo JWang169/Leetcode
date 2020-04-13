@@ -17,6 +17,15 @@
 | Memoization Search |[140](https://leetcode.com/problems/word-break-ii/)<br> | Word Break II<br> | Medium  <br> |
 
 
+#### Sliding Window
+| __No.__ |      __Title__      |
+| 862 | Shortest Subarray with Sum at Least K |
+| 209 | Minimum Size Subarray Sum |
+| 1248| Count Number of Nice Subarrays  |
+| 992 | Subarrays with K Different Integers |
+
+
+
 #### April 1
 #### Linked List
 | __No.__ |      __Title__      |

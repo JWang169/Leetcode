@@ -1,3 +1,25 @@
+# Apr 12
+class Solution:
+    def totalFruit(self, tree: List[int]) -> int:
+        left = 0
+        result = 0
+        seen = dict()
+        cur = 0
+        for i, n in enumerate(tree):
+            seen[n] = seen.get(n, 0) + 1
+            if len(seen) <= 2:
+                result = max(result, i - left + 1)
+                cur += 1 
+                continue 
+            while len(seen) > 2:
+                seen[tree[left]] -= 1 
+                if seen[tree[left]] == 0:
+                    del seen[tree[left]]
+                left += 1 
+        return result 
+            
+
+
 class Solution(object):
     def totalFruit(self, tree):
         """

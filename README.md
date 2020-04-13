@@ -296,12 +296,13 @@ Data Structure and Algorithms
 | :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
 | 202 | Happy Number |[Python](./Python/202.py)| Easy | |
 | 206 | Reverse Linked List |[Python](./Python/206.py)| Easy | recursive |
+| 209 | Minimum Size Subarray Sum |[Python](./Python/209.py)| Medium | sliding window(每次pop都要update result) | follow up 862 |  
 | 214 | Shortest Palindrome |[Python](./Python/214.py)| Hard | KMP |
 | 219 | Contains Duplicate II |[Python](./Python/219.py)| Easy|  |
 | 220 | Contains Duplicate III |[Python](./Python/220.py)| Medium| Bucket Sort |
-| 230 |   Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
-| 236 |    Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
-| 239 |  Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
+| 230 | Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
+| 236 | Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
+| 239 | Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
 | 253 |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
 | 267 | Palindrome Permutation II |[Python](./Python/267.py)| Medium | | |
 | 270 | Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy | Binary Tree |
@@ -361,6 +362,7 @@ Data Structure and Algorithms
 | 583 | Delete Operation for Two Strings |[Python](./Python/583.py)| Medium | DP | longest common subsequence |
 | 593 | Valid Square |[Python](./Python/593.py)| Medium | | G |
 | 604 | Design Compressed String Iterator |[Python](./Python/604.py)| Easy | | G |
+| 635 | Design Log Storage System |[Python](./Python/635.py)| Medium | |  |
 | 636 |Exclusive Time of Functions |[Python](./Python/636.py)| Medium | stack |  |
 | 638 | Shopping Offer |[Python](./Python/638.py)| Medium | DFS + Pruning |  |
 | 642 | Design Search Autocomplete System |[Python](./Python/642.py)| Hard | Heap/Queue | Edge Case |
@@ -460,6 +462,7 @@ Data Structure and Algorithms
 | 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line |  | 
 | 1231 |Divide Chocolate|[Python](./Python/1231.py)| Hard | 二分答案 | dfs+pruning=>TLE，二分方法=>AC  | 
 | 1245 | Tree Diameter |[Python](./Python/1245.py)| Medium | graph |  | 
+| 1248 | Count Number of Nice Subarrays |[Python](./Python/1248.py)| Medium | Sliding window | 992 | 
 | 1256 | Print Immutable Linked List in Reverse |[Python](./Python/1256.py)| Medium | |  | 
 | 1257 | Smallest Common Region |[Python](./Python/1257.py)| Medium | Unionfind |  | 
 | 1262 | Greatest Sum Divisible by Three |[Python](./Python/1262.py)| Medium | DP|  | 
@@ -468,6 +471,7 @@ Data Structure and Algorithms
 | 1296 | Divide Array in Sets of K Consecutive Numbers |[Python](./Python/1296.py)| Medium | | G | 
 | 1300 | Sum of Mutated Array Closest to Target |[Python](./Python/1300.py)| Medium | Binary Search |  | 
 | 1320 | Minimum Distance to Type a Word Using Two Fingers |[Python](./Python/1330.py)| Hard | DP | :construction: G |
+| 1325 |Delete Leaves With a Given Value|[Python](./Python/1325.py)| Medium |  | G |
 | 1332 |Remove Palindromic Subsequences|[Python](./Python/1332.py)| Easy | |  | 
 | 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit |  | 
 | 1365 | How Many Numbers Are Smaller Than the Current Number |[Python](./Python/1365.py)| Easy | bisect |  | 
