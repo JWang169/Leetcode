@@ -19,6 +19,7 @@
 
 #### Sliding Window
 | __No.__ |      __Title__      |
+|:-------|:--------------------|
 | 862 | Shortest Subarray with Sum at Least K |
 | 209 | Minimum Size Subarray Sum |
 | 1248| Count Number of Nice Subarrays  |
@@ -29,6 +30,7 @@
 #### April 1
 #### Linked List
 | __No.__ |      __Title__      |
+|:-------|:--------------------|
 | 21 | Merge Two Sorted Lists |
 | 92 | Reverse Linked List II |
 | 206 | Reverse Linked List  |
@@ -38,12 +40,13 @@
 
 #### Mar 31
 总结几道关于subString的DP:
-
-72 Edit Distance
-727 Minumum Window Subsequence
-801 
-583 Delete Operation for Two Strings
-1143 Longest Common Subsequence
+| __No.__ |      __Title__      |
+|:-------|:--------------------|
+72 | Edit Distance
+727| Minumum Window Subsequence
+801 |
+583 | Delete Operation for Two Strings
+1143 | Longest Common Subsequence
 
 
 
