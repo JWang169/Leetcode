@@ -305,6 +305,7 @@ Data Structure and Algorithms
 | 236 | Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
 | 239 | Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
 | 253 |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
+| 254 | Factor Combinations |[Python](./Python/254.py)| Medium | |  |
 | 267 | Palindrome Permutation II |[Python](./Python/267.py)| Medium | | |
 | 270 | Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy | Binary Tree |
 | 271 | Encode and Decode Strings |[Python](./Python/271.py)| Medium | |G|
@@ -323,6 +324,7 @@ Data Structure and Algorithms
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
 | 310 | Minimum Height Trees |[Python](./Python/310.py)| Medium | UF | :construction: |
 | 316 | Remove Duplicate Letters |[Python](./Python/316.py)| Hard | Stack | |:construction:|
+| 320 | Generalized Abbreviation |[Python](./Python/323.py)| Medium | dfs | G |
 | 323 | Number of Connected Components in an Undirected Graph |[Python](./Python/323.py)| Medium | UnionFind | |
 | 333 | Largest BST Subtree |[Python](./Python/333.py)| Medium | BST | Divide&Conquer |
 | 334 | Increasing Triplet Subsequence |[Python](./Python/334.py)| Medium |  |  |
@@ -363,6 +365,7 @@ Data Structure and Algorithms
 | 535 | Encode and Decode TinyURL |[Python](./Python/535.py)| Medium |  |  |
 | 543 | Diameter of Binary Tree |[Python](./Python/543.py)| Easy | Tree | 1245 |
 | 562 | Longest Line of Consecutive One in Matrix |[Python](./Python/562.py)| Medium | | G |
+| 582 | Kill Process |[Python](./Python/582.py)| Medium |  |
 | 583 | Delete Operation for Two Strings |[Python](./Python/583.py)| Medium | DP | longest common subsequence |
 | 593 | Valid Square |[Python](./Python/593.py)| Medium | | G |
 | 604 | Design Compressed String Iterator |[Python](./Python/604.py)| Easy | | G |
@@ -463,6 +466,7 @@ Data Structure and Algorithms
 | 1110 | Delete Nodes And Return Forest |[Python](./Python/1110.py)| Medium | BFS |  |
 | 1176 | Diet Plan Performance |[Python](./Python/1176.py)| Easy | | |
 | 1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges | [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
+| 1215 | Stepping Numbers |[Python](./Python/1215.py)| Medium | dfs |  |
 | 1219 | Path with Maximum Gold |[Python](./Python/1219.py)| Medium | Search |  |
 | 1223 | Dice Roll Simulation |[Python](./Python/1223.py)| Medium | DP| :construction: 太难了，最难的medium|
 | 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line |  | 
