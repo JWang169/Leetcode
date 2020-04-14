@@ -246,10 +246,11 @@ Data Structure and Algorithms
 | 33 |Search in Rotated Sorted Array|[Python](./Python/33.py)| Medium  | Binary Search | Rotated Array Your weakness |
 | 39 | Combination Sum |[Python](./Python/39.py)| Medium | dfs  | |
 | 40 | Combination Sum II |[Python](./Python/40.py)| Medium | dfs  | |
-| 42 |Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | 
+| 42 | Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | 
 | 46 | Permutations |[Python](./Python/46.py)| Medium | dfs  | |
 | 47 | Permutations II |[Python](./Python/47.py)| Medium | dfs  | |
 | 56 | Merge Intervals |[Python](./Python/56.py)| Medium | | | 
+| 57 | Insert Interval |[Python](./Python/57.py)| Hard | | | 
 | 62 |  Unique Paths |[Python](./Python/62.py)| Medium |  dp | | 
 | 63 |  Unique Paths II |[Python](./Python/63.py)| Medium |  dp | | 
 | 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
@@ -354,36 +355,38 @@ Data Structure and Algorithms
 | 489 | Robot Room Cleaner |[Python](./Python/489.py)| Hard | dfs+backtracking | :construction: |
 | 503 | Next Greater Element II |[Python](./Python/503.py)| Medium |  |  |
 | 509 | Fibonacci Number |[Python](./Python/509.py)| Easy |  | 用dfs+memoization做fibonacci我简直是太拼了 |
-| 516 | Longest Palindromic Subsequence |[Python](./Python/516.py)| Medium | dp |  |
-| 526 |Beautiful Arrangement |[Python](./Python/526.py)| Medium |  |  |
-| 535 |Encode and Decode TinyURL |[Python](./Python/535.py)| Medium |  |  |
+| 516 | Longest Palindromic Subsequence |[Python](./Python/516.py)| Medium | dp | 会了 |
+| 525 | Contiguous Array |[Python](./Python/525.py)| Medium |  |  |
+| 526 | Beautiful Arrangement |[Python](./Python/526.py)| Medium |  |  |
+| 535 | Encode and Decode TinyURL |[Python](./Python/535.py)| Medium |  |  |
 | 543 | Diameter of Binary Tree |[Python](./Python/543.py)| Easy | Tree | 1245 |
 | 562 | Longest Line of Consecutive One in Matrix |[Python](./Python/562.py)| Medium | | G |
 | 583 | Delete Operation for Two Strings |[Python](./Python/583.py)| Medium | DP | longest common subsequence |
 | 593 | Valid Square |[Python](./Python/593.py)| Medium | | G |
 | 604 | Design Compressed String Iterator |[Python](./Python/604.py)| Easy | | G |
 | 635 | Design Log Storage System |[Python](./Python/635.py)| Medium | |  |
-| 636 |Exclusive Time of Functions |[Python](./Python/636.py)| Medium | stack |  |
+| 636 | Exclusive Time of Functions |[Python](./Python/636.py)| Medium | stack |  |
 | 638 | Shopping Offer |[Python](./Python/638.py)| Medium | DFS + Pruning |  |
 | 642 | Design Search Autocomplete System |[Python](./Python/642.py)| Hard | Heap/Queue | Edge Case |
-| 644  |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | 
+| 644 |  Maximum Average Subarray II |[Python](./Python/644.py)| Hard | binary search| presum array | 
 | 662 |  Maximum Width of Binary Tree |[Python](./Python/662.py)| Medium | | G |
-| 679  |  24 Game |[Python](./Python/679.py)| Hard | DFS |  |  
-| 681  | Next Closest Time |[Python](./Python/681.py)| Medium | | G |  
-| 685  | Redundant Connection II |[Python](./Python/685.py)| Hard | Union Find | 判断valid tree: 只有root的indegere是0， 其他node的indegree一定是1 => 有环出现，root的indegree变成1， 或者某个非根节点indegree变成2 :construction:|  
-| 695  |  Max Area of Island |[Python](./Python/695.py)| Medium | dfs | |  
+| 679 |  24 Game |[Python](./Python/679.py)| Hard | DFS |  |  
+| 681 | Next Closest Time |[Python](./Python/681.py)| Medium | | G |  
+| 685 | Redundant Connection II |[Python](./Python/685.py)| Hard | Union Find | 判断valid tree: 只有root的indegere是0， 其他node的indegree一定是1 => 有环出现，root的indegree变成1， 或者某个非根节点indegree变成2 :construction:|  
+| 692  | Top K Frequent Words |[Python](./Python/692.py)| Medium | heap | |  
+| 695  | Max Area of Island |[Python](./Python/695.py)| Medium | dfs | |  
 | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap | |  
-| 705  |  Design HashSet |[Python](./Python/705.py)| Easy |hashset| G |  
-| 706  |  Design HashMap |[Python](./Python/706.py)| Easy |hashfunc, open hash| G |  
+| 705  | Design HashSet |[Python](./Python/705.py)| Easy |hashset| G |  
+| 706  | Design HashMap |[Python](./Python/706.py)| Easy |hashfunc, open hash| G |  
 | 707  | Design Linked List |[Python](./Python/707.py)| Medium |  |  |
-| 708  |Insert into a Sorted Circular Linked List |[Python](./Python/708.py)|Medium | LinkedList | :construction: |  
+| 708  | Insert into a Sorted Circular Linked List |[Python](./Python/708.py)|Medium | LinkedList | :construction: |  
 | 720 | Longest Word in Dictionary|[Python](./Python/720.py)| Easy| Trie | |
 | 721 | Accounts Merge |[Python](./Python/721.py)| Medium | Union Find |  |
 | 722 | Remove Comments |[Python](./Python/722.py)| Medium | | Kill me |
 | 724 | Find Pivot Index |[Python](./Python/724.py)| Easy |  |  |
 | 727 | Minimum Window Subsequence |[Python](./Python/727.py)| Hard | DP | G:construction: |
-| 729 |My Calendar I|[Python](./Python/729.py)| Medium | Binary Search Tree | :construction:swipeline也可以做，但mutable每次更新都要扫一遍，所以treemap(Binary search tree)可以避免重复 |
-| 731 |My Calendar II|[Python](./Python/731.py)| Medium |  | 这题要把overlap判定和insert分开。如果同时进行会导致已经insert了一部分并且改变了之前的root之后发现overlap，return false同时改变了前面的root => 错了 |
+| 729 | My Calendar I|[Python](./Python/729.py)| Medium | Binary Search Tree | :construction:swipeline也可以做，但mutable每次更新都要扫一遍，所以treemap(Binary search tree)可以避免重复 |
+| 731 | My Calendar II|[Python](./Python/731.py)| Medium |  | 这题要把overlap判定和insert分开。如果同时进行会导致已经insert了一部分并且改变了之前的root之后发现overlap，return false同时改变了前面的root => 错了 |
 | 733 | Flood Fill |[Python](./Python/733.py)| Easy | BFS | G |
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + Dijkstra's Algo | 这道题要注意的是每次要把cost都放到heap里面，不能用global cost | 
 | 745 | Prefix and Suffix Search |[Python](./Python/745.py)| Hard |  | |
