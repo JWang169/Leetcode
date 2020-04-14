@@ -350,12 +350,14 @@ Data Structure and Algorithms
 | 465 | Optimal Account Balancing |[Python](./Python/465.py)| Hard | Greedy | :construction: G |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
 | 472 | Conncatenated Words |[Python](./Python/472.py)| Hard | DP | :construction: |
+| 482 | License Key Formatting |[Python](./Python/482.py)| Easy |  | G |
 | 485 | Max Consecutive Ones |[Python](./Python/468.py)| Easy |  | G |
 | 486 | Predict the Winner |[Python](./Python/486.py)| Medium |  | G |
 | 489 | Robot Room Cleaner |[Python](./Python/489.py)| Hard | dfs+backtracking | :construction: |
 | 503 | Next Greater Element II |[Python](./Python/503.py)| Medium |  |  |
 | 509 | Fibonacci Number |[Python](./Python/509.py)| Easy |  | 用dfs+memoization做fibonacci我简直是太拼了 |
 | 516 | Longest Palindromic Subsequence |[Python](./Python/516.py)| Medium | dp | 会了 |
+| 518 | Coin Change 2 |[Python](./Python/518.py)| Medium |  |  |
 | 525 | Contiguous Array |[Python](./Python/525.py)| Medium |  |  |
 | 526 | Beautiful Arrangement |[Python](./Python/526.py)| Medium |  |  |
 | 535 | Encode and Decode TinyURL |[Python](./Python/535.py)| Medium |  |  |
@@ -388,6 +390,7 @@ Data Structure and Algorithms
 | 729 | My Calendar I|[Python](./Python/729.py)| Medium | Binary Search Tree | :construction:swipeline也可以做，但mutable每次更新都要扫一遍，所以treemap(Binary search tree)可以避免重复 |
 | 731 | My Calendar II|[Python](./Python/731.py)| Medium |  | 这题要把overlap判定和insert分开。如果同时进行会导致已经insert了一部分并且改变了之前的root之后发现overlap，return false同时改变了前面的root => 错了 |
 | 733 | Flood Fill |[Python](./Python/733.py)| Easy | BFS | G |
+| 740 | Delete and Earn |[Python](./Python/740.py)| Medium | DP | 198 |
 | 743 |Network Delay Time|[Python](./Python/743.py)| Medium | heap + Dijkstra's Algo | 这道题要注意的是每次要把cost都放到heap里面，不能用global cost | 
 | 745 | Prefix and Suffix Search |[Python](./Python/745.py)| Hard |  | |
 | 748 | Shortest Completing Word |[Python](./Python/748.py)| Easy |  | |
