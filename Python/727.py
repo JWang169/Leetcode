@@ -1,5 +1,34 @@
+# April 14 没做出来
+class Solution:
+    def minWindow(self, S: str, T: str) -> str:
+        m, n = len(S), len(T)
+        dp = [[sys.maxsize] * (n + 1) for _ in range(m + 1)]
+        for i in range(1, m + 1):
+            for j in range(1, n + 1):
+                if T[j - 1] == S[i - 1]:
+                    if j == 1:
+                        dp[i][j] = 1
+                    else:
+                        dp[i][j] = dp[i - 1][j - 1] + 1
+                else:
+                    dp[i][j] = dp[i - 1][j] + 1
+        
+        start, end = 0, len(S) - 1
+        length = sys.maxsize
+        for i in range(1, m + 1):
+            if dp[i][n] < length:
+                length = dp[i][n]
+                start = i - length
+                end = i 
+                        
+        if length < sys.maxsize:
+            return S[start: end]
+        return ""
+        
+
 # Mar 31  总结
 class Solution:
+    # dp[i][j]代表在S[:i]位置上包含整个T[:j]的最小长度，如果不能实现就是sys.maxsize() 
     def minWindow(self, S: str, T: str) -> str:
         m, n = len(S), len(T)
         dp = [[sys.maxsize] * (n + 1)  for _ in range(m + 1)]

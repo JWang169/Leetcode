@@ -1,3 +1,33 @@
+# April 14
+class Solution:
+    def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
+        self.seen = dict()
+        words = set(wordDict)
+        self.dfs(s, words)
+        return self.seen[s]
+        
+    
+    def dfs(self, s, words):
+        if not s:
+            return []
+        if s in self.seen:
+            return self.seen[s]
+        
+        cur = []
+        for i in range(1, len(s) + 1):
+            if s[:i] in words:
+                nexts = self.dfs(s[i:], words)
+                for nxt in nexts:
+                    cur.append(s[:i] + ' ' + nxt)
+        
+        if s in words:
+            cur.append(s)
+        
+        self.seen[s] = cur
+        return cur
+        
+        
+
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
         wordSet = set(wordDict)

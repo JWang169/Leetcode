@@ -484,6 +484,7 @@ Data Structure and Algorithms
 | 1325 |Delete Leaves With a Given Value|[Python](./Python/1325.py)| Medium |  | G |
 | 1332 |Remove Palindromic Subsequences|[Python](./Python/1332.py)| Easy | |  | 
 | 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit |  | 
+| 1361| Validate Binary Tree Nodes |[Python](./Python/1361.py)| Medium | UnionFind |  | 
 | 1365 | How Many Numbers Are Smaller Than the Current Number |[Python](./Python/1365.py)| Easy | bisect |  | 
 | 1366 | Rank Teams by Votes |[Python](./Python/1366.py)| Medium | heap |  | 
 | 1367 | Linked List in Binary Tree|[Python](./Python/1367.py)| Medium | BFS |  | 
