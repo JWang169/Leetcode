@@ -434,6 +434,7 @@ Data Structure and Algorithms
 | 975 | Odd Even Jump|[Python](./Python/975.py)| Hard |  | :construction: G  不会，考了就凉 |
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | | 
 | 1007 | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array |  | 
+| 1008 | Construct Binary Search Tree from Preorder Traversal |[Python](./Python/1008.py)| Medium | bst  | 
 | 1011 | Capacity To Ship Packages Within D Days |[Python](./Python/1011.py)| Medium | Binary Search |  | 
 | 1014 | Best Sightseeing Pair |[Python](./Python/1014.py)| Medium |  | :construction: |
 | 1028 | Recover a Tree From Preorder Traversal |[Python](./Python/1028.py)| Hard | Divide&Conquer | ||
