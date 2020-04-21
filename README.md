@@ -6,9 +6,13 @@ Data Structure and Algorithms
 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ |   __Notes__ |
 |-------:|:--------------------|:-----------:|:---------------:|:------------|
-| 430 | Flatten a multilevel Doubly Linked List |[Python](./Python/430.py)| Medium | :construction: |
-| 34 | Find First and Last Position of Element in Sorted Array |[Python](./Python/34.py)| Medium | 三次binary search |
-| 253 |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | |
+| 430  | Flatten a multilevel Doubly Linked List | [Python](./Python/430.py)| Medium | :construction: |
+| 34   | Find First and Last Position of Element in Sorted Array | [Python](./Python/34.py)| Medium | 三次binary search |
+| 253  | Meeting Rooms II | [Python](./Python/253.py)| Medium |       |
+| 1029 | Two City Scheduling | [Python](./Python/1029.py)| Medium |   |
+
+
+
 
 ## Leetcode Solution 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
