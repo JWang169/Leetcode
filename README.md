@@ -6,8 +6,9 @@ Data Structure and Algorithms
 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ |   __Notes__ |
 |-------:|:--------------------|:-----------:|:---------------:|:------------|
-| 430 | Flatten a multilevel Doubly Linked List |[Python](./Python/430.py)| Medium |  |
-
+| 430 | Flatten a multilevel Doubly Linked List |[Python](./Python/430.py)| Medium | :construction: |
+| 34 | Find First and Last Position of Element in Sorted Array |[Python](./Python/34.py)| Medium | 三次binary search |
+| 253 |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | |
 
 ## Leetcode Solution 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
@@ -256,6 +257,7 @@ Data Structure and Algorithms
 | 1256 | Print Immutable Linked List in Reverse |[Python](./Python/1256.py)| Medium | |  | 
 | 1257 | Smallest Common Region |[Python](./Python/1257.py)| Medium | Unionfind |  | 
 | 1262 | Greatest Sum Divisible by Three |[Python](./Python/1262.py)| Medium | DP|  | 
+| 1273 | Delete Tree Nodes |[Python](./Python/1273.py)| Medium |  |
 | 1277 | Count Square Submatrices with All Ones |[Python](./Python/1277.py)| Medium | DP |
 | 1292 | Maximum Side Length of a Square with Sum Less than or Equal to Threshold |[Python](./Python/1292.py)| Medium | | G | 
 | 1296 | Divide Array in Sets of K Consecutive Numbers |[Python](./Python/1296.py)| Medium | | G | 

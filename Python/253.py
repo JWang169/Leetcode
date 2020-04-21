@@ -1,3 +1,29 @@
+# Apr 21
+class Solution(object):
+    def minMeetingRooms(self, intervals):
+        """
+        :type intervals: List[List[int]]
+        :rtype: int
+        """
+        result = 0
+        heap = []
+        count = 0
+            
+        for start, end in intervals:
+            heapq.heappush(heap, [start, 1])
+            heapq.heappush(heap, [end, 0])
+        
+        while heap:
+            time, status = heapq.heappop(heap)
+            if status == 0:
+                count -= 1        
+            else:
+                count += 1 
+                result = max(result, count)
+        
+        return result
+                
+        
 class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
         if not intervals:
