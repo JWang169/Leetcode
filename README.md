@@ -114,6 +114,7 @@ Data Structure and Algorithms
 | 334 | Increasing Triplet Subsequence |[Python](./Python/334.py)| Medium |  |  |
 | 337 | House Robber III |[Python](./Python/337.py)| Medium | DFS Divide&Conquer |  |
 | 348 | Design Tic-Tac-Toe |[Python](./Python/348.py)| Medium |  |  |
+| 355 | Design Twitter |[Python](./Python/355.py)| Medium |  | |
 | 358 | Design Snake Game |[Python](./Python/358.py)| Medium |  | G |
 | 359 | Logger Rate Limiter |[Python](./Python/359.py)| Easy | |  |
 | 360 | Sliding Window Median |[Java](./Java/360.java)| Hard | PriorityQueue | maxheap/minheap |
