@@ -17,6 +17,8 @@ Data Structure and Algorithms
 ## Leetcode Solution 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
 |-------:|:--------------------|:-----------:|:---------------:|:------------|:---------------|
+| 1 | Two Sum |[Python](./Python/1.py)|Easy|  |
+| 3 | Longest Substring Without Repeating Characters |[Python](./Python/3.py)|Medium|  |
 | 4| Median of Two Sorted Arrays |[Python](./Python/4.py)| Hard | | :construction: |
 | 5 | Longest Palindromic Substring |[Python](./Python/5.py)| Medium | DP |
 | 15 | 3Sum |[Python](./Python/15.py)| Medium | two pointers |
@@ -33,6 +35,7 @@ Data Structure and Algorithms
 | 42 | Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | 
 | 46 | Permutations |[Python](./Python/46.py)| Medium | dfs  | |
 | 47 | Permutations II |[Python](./Python/47.py)| Medium | dfs  | |
+| 54 | Spiral Matrix |[Python](./Python/54.py)| Medium | | | 
 | 56 | Merge Intervals |[Python](./Python/56.py)| Medium | | | 
 | 57 | Insert Interval |[Python](./Python/57.py)| Hard | | | 
 | 62 |  Unique Paths |[Python](./Python/62.py)| Medium |  dp | | 
@@ -42,7 +45,8 @@ Data Structure and Algorithms
 | 72 | Edit Distance |[Python](./Python/72.py)| Hard | DP | |
 | 78 | Subsets |[Python](./Python/78.py)| Medium | dfs| |
 | 84 |Largest Rectangle in Histogram |[Python](./Python/84.py)<br> [Java](./Java/ladder122.java) | Hard | |
-| 85 |Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
+| 85 | Maximal Rectangle |[Python](./Python/85.py)| Hard | Monotonic Stack |  |
+| 88 | Merge Sorted Array |[Python](./Python/88.py)| Medium |  |  |
 | 90 |SubsetsII |[Python](./Python/90.py)| Medium | dfs | |
 | 92 | Reverse Linked List II |[Python](./Python/92.py)| Medium | | |
 | 94 |Binary Tree Inorder Traversal |[Python](./Python/94.py)| Medium | Morris Traversal | |
@@ -56,6 +60,7 @@ Data Structure and Algorithms
 | 114 | Flatten Binary Tree to Linked List |[Python](./Python/114.py)| Medium | :construction:Mar23 |
 | 115 | Distinct Subsequences |[Python](./Python/125.py)| Hard | DP |
 | 117 | Populating Next Right Pointers in Each Node II |[Python](./Python/117.py)| Medium | BFS |
+| 118 | Pascal's Triangle |[Python](./Python/118.py)| Easy | |
 | 121 | Best Time to Buy and Sell Stock |[Python](./Python/121.py)| Easy | |
 | 122 | Best Time to Buy and Sell Stock II |[Python](./Python/122.py)| Easy | |
 | 123 | Best Time to Buy and Sell Stock III |[Python](./Python/123.py)| Hard | |:construction:|
@@ -78,16 +83,18 @@ Data Structure and Algorithms
 | 163 | Missing Ranges |[Python](./Python/163.py)| Medium |  | G |
 | 168 | Excel Sheet Column Title |[Python](./Python/168.py)| Easy |  | G |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
-| :boom:218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
+| 201 | Bitwise AND of Numbers Range |[Python](./Python/201.py)| Medium | bit |
 | 202 | Happy Number |[Python](./Python/202.py)| Easy | |
 | 206 | Reverse Linked List |[Python](./Python/206.py)| Easy | recursive |
 | 209 | Minimum Size Subarray Sum |[Python](./Python/209.py)| Medium | sliding window(每次pop都要update result) | follow up 862 |  
 | 214 | Shortest Palindrome |[Python](./Python/214.py)| Hard | KMP |
+| 218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  | 
 | 219 | Contains Duplicate II |[Python](./Python/219.py)| Easy|  |
 | 220 | Contains Duplicate III |[Python](./Python/220.py)| Medium| Bucket Sort |
 | 230 | Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
 | 236 | Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
 | 239 | Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
+| 242 |Valid Anagram |[Python](./Python/242.py)| Easy|  |
 | 253 |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
 | 254 | Factor Combinations |[Python](./Python/254.py)| Medium | |  |
 | 267 | Palindrome Permutation II |[Python](./Python/267.py)| Medium | | |
@@ -431,6 +438,35 @@ Data Structure and Algorithms
 
 
 -----
+### Ladder - System Design
+
+#### 1 - Introduction to System Design & News Feed System
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+| 355 | Design Twitter   |[Python](./Python/355.py)| Medium |
+
+
+
+#### 2 - User System - Database & Cache
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+| Lintcode 560 | Friendship Service   |[Python](./Python/ladder1070.py)| Easy |
+| Lintcode 538 | Memcache  |[Python](./Python/ladder538.py)| Medium |
+| Lintcode 502 | Mini Cassandra  |[Python](./Python/ladder502.py)| Medium |
+
+
+#### 3 - Database Sharding & Consistent Hashing
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+| Lintcode 519 | Consistent Hashing  | [Python](./Python/ladder519.py)| Easy |
+| Lintcode 526 | Load Balancer  | [Python](./Python/ladder526.py)| Medium |
+| Lintcode 520 | Consistent Hashing II | [Python](./Python/ladder520.py)| Medium |
+| Lintcode 505 | Web Logger  |  [Python](./Python/ladder505.py)| Medium |
+| Lintcode 215 | Rate Limiter | [Python](./Python/ladder215.py)| Hard |
+
 ### Ladder - Advanced Algorithm 
 
 #### 2 - Union Find & Trie

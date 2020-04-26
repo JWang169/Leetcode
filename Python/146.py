@@ -1,3 +1,55 @@
+
+# Apr 24
+class LRUCache(object):
+
+    def __init__(self, capacity):
+        self.capacity = capacity
+        self.size = 0
+        self.cache = dict()
+        self.visited = dict()
+        self.queue = deque()
+        
+
+    def get(self, key):
+        if key in self.cache:
+            self.queue.append(key)
+            self.visited[key] += 1 
+            return self.cache[key]
+        return -1
+                  
+
+    def put(self, key, value):
+        if key not in self.cache:
+            self.size += 1 
+        
+        self.cache[key] = value 
+        self.visited[key] = self.visited.get(key, 0) + 1
+        self.queue.append(key)
+        
+        
+        if self.size > self.capacity:
+            self.remove()
+        return         
+    
+    
+    def remove(self):
+        
+        while self.queue:
+            cur = self.queue.popleft()
+            self.visited[cur] -= 1 
+            if self.visited[cur] == 0:
+                self.size -= 1 
+                del self.cache[cur]
+                # print(self.cache)
+                return 
+
+
+
+# Your LRUCache object will be instantiated and called as such:
+# obj = LRUCache(capacity)
+# param_1 = obj.get(key)
+# obj.put(key,value)
+
 class LRUCache:
     """
     @param: capacity: An integer
