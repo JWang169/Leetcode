@@ -24,5 +24,3 @@ class WebLogger:
             self.times.popleft()
         return len(self.times)
         
-        
-        

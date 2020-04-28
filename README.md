@@ -18,6 +18,7 @@ Data Structure and Algorithms
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
 |-------:|:--------------------|:-----------:|:---------------:|:------------|:---------------|
 | 1 | Two Sum |[Python](./Python/1.py)|Easy|  |
+| 2 | Add Two Numbers |[Python](./Python/2.py)|Medium|  |
 | 3 | Longest Substring Without Repeating Characters |[Python](./Python/3.py)|Medium|  |
 | 4| Median of Two Sorted Arrays |[Python](./Python/4.py)| Hard | | :construction: |
 | 5 | Longest Palindromic Substring |[Python](./Python/5.py)| Medium | DP |
@@ -68,7 +69,8 @@ Data Structure and Algorithms
 | 127 | Word Ladder |[Python](./Python/127.py)| Medium | BFS |
 | 133 | Clone Graph |[Python](./Python/133.py)| Medium | BFS |
 | 134 | Gas Station |[Python](./Python/134.py)| Medium |  |
-| 136 |  Single Number |[Python](./Python/136.py)| Easy | XOR |
+| 136 | Single Number |[Python](./Python/136.py)| Easy | XOR |
+| 138 | Copy List with Random Pointer |[Python](./Python/138.py)| Medium |  |
 | 139 | Word Break |[Python](./Python/139.py)| Medium | DP |
 | 140 | Word Break II |[Python](./Python/140.py)| Hard | DP | :construction: |
 | 141 | Linked List Cycle |[Python](./Python/141.py)| Easy |  |
@@ -101,6 +103,7 @@ Data Structure and Algorithms
 | 270 | Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy | Binary Tree |
 | 271 | Encode and Decode Strings |[Python](./Python/271.py)| Medium | |G|
 | 272 | Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search 
+| 273 | Integer to English Words |[Python](./Python/273.py)| Hard | ||
 | 276 | Paint Fence |[Python](./Python/276.py)| Easy | |G|
 | 286 | Walls and Gates |[Python](./Python/286.py)| Medium | | |
 | 289 | Game of Life |[Python](./Python/289.py)| Medium | |G|
@@ -128,6 +131,7 @@ Data Structure and Algorithms
 | 362 | Design Hit Counter |[Python](./Python/362.py)| Medium | queue |  |
 | 363 | Max Sum of Rectangle No Larger Than K |[Python](./Python/363.py)| Hard | prefixSum + bisect | |
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
+| 387 | First Unique Character in a String Solution|[Python](./Python/387.py)|Easy|
 | 389 | Find the Difference |[Python](./Python/389.py)| Easy | |  |
 | 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
 | 395 | Longest Substring with At Least K Repeating Characters |[Python](./Python/395.py)<br>| Medium | Divide and Conquer | :construction: | 
@@ -135,6 +139,7 @@ Data Structure and Algorithms
 | 415 |  Add Strings|[Python](./Python/415.py)| Easy | | |
 | 422 | Valid Word Square|[Python](./Python/422.py)| Easy | | |
 | 425 | Word Squares |[Python](./Python/425.py)| Hard | DFS + Memorization |:construction:|
+| 443 |String Compression|[Python](./Python/444.py)| Easy |
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | Topological Sort |
 | 445 | Add Two Numbers II |[Python](./Python/445.py)| Medium |  |
 | 451 | Sort Characters By Frequency |[Python](./Python/451.py)| Medium |  |
@@ -156,6 +161,7 @@ Data Structure and Algorithms
 | 526 | Beautiful Arrangement |[Python](./Python/526.py)| Medium |  |  |
 | 535 | Encode and Decode TinyURL |[Python](./Python/535.py)| Medium |  |  |
 | 543 | Diameter of Binary Tree |[Python](./Python/543.py)| Easy | Tree | 1245 |
+| 560 | Subarray Sum Equals K |[Python](./Python/560.py)| Medium | |  |
 | 562 | Longest Line of Consecutive One in Matrix |[Python](./Python/562.py)| Medium | | G |
 | 582 | Kill Process |[Python](./Python/582.py)| Medium |  |
 | 583 | Delete Operation for Two Strings |[Python](./Python/583.py)| Medium | DP | longest common subsequence |
@@ -180,6 +186,7 @@ Data Structure and Algorithms
 | 720 | Longest Word in Dictionary|[Python](./Python/720.py)| Easy| Trie | |
 | 721 | Accounts Merge |[Python](./Python/721.py)| Medium | Union Find |  |
 | 722 | Remove Comments |[Python](./Python/722.py)| Medium | | Kill me |
+| 723 |Candy Crush|[Python](./Python/723.py)| Medium | | |
 | 724 | Find Pivot Index |[Python](./Python/724.py)| Easy |  |  |
 | 727 | Minimum Window Subsequence |[Python](./Python/727.py)| Hard | DP | G:construction: |
 | 729 | My Calendar I|[Python](./Python/729.py)| Medium | Binary Search Tree | :construction:swipeline也可以做，但mutable每次更新都要扫一遍，所以treemap(Binary search tree)可以避免重复 |
