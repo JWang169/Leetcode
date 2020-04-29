@@ -1,3 +1,32 @@
+# Apr 28
+
+class Solution:
+    def isValidBST(self, root: TreeNode) -> bool:
+        isValid, ma, mi = self.helper(root)
+        return isValid
+        
+        
+    
+    def helper(self, root):
+        # return isValid, maxval, minval
+        if not root:
+            return True, None, None 
+        leftValid, leftMax, leftMin = self.helper(root.left)
+        rightValid, rightMax, rightMin = self.helper(root.right)
+        valid = False
+        curMin, curMax = None, None
+        if leftValid and rightValid:
+            if (leftMax == None or leftMax < root.val) and (rightMin == None or rightMin > root.val):
+                valid = True 
+                curMin = leftMin or root.val 
+                curMax = rightMax or root.val 
+        return valid, curMax, curMin
+        
+        
+        
+        
+
+
 # Mar 25
 class Solution:
     def isValidBST(self, root: TreeNode) -> bool:

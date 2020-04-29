@@ -54,12 +54,14 @@ Data Structure and Algorithms
 | 95 | Unique Binary Search Trees II |[Python](./Python/95.py)| Medium | DP|  :construction:|
 | 96 | Unique Binary Search Trees |[Python](./Python/96.py)| Medium | DP|  :construction:|
 | 97 | Interleaving String | [Python](./Python/97.py)| Hard | dp 双序列 |:construction: |
-| 98 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | :construction:|
+| 98 | Validate Binary Search Tree|[Python](./Python/98.py)| Medium | |
 | 99 | Recover Binary Search Tree|[Python](./Python/99.py)| Hard | Morris | :construction:|
 | 102| Binary Tree Level Order Traversal |[Java](BinaryTreeLevelOrderTraversal.java)<br>[Python](./Python/102.py)| Medium | BFS |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal |[Python](./Python/105.py)| Medium | |
 | 111 | Minimum Depth of Binary Tree |[Python](./Python/111.py)| Easy | BFS |
 | 114 | Flatten Binary Tree to Linked List |[Python](./Python/114.py)| Medium | :construction:Mar23 |
 | 115 | Distinct Subsequences |[Python](./Python/125.py)| Hard | DP |
+| 116 | Populating Next Right Pointers in Each Node |[Python](./Python/116.py)| Medium | |
 | 117 | Populating Next Right Pointers in Each Node II |[Python](./Python/117.py)| Medium | BFS |
 | 118 | Pascal's Triangle |[Python](./Python/118.py)| Easy | |
 | 121 | Best Time to Buy and Sell Stock |[Python](./Python/121.py)| Easy | |
@@ -85,6 +87,7 @@ Data Structure and Algorithms
 | 163 | Missing Ranges |[Python](./Python/163.py)| Medium |  | G |
 | 168 | Excel Sheet Column Title |[Python](./Python/168.py)| Easy |  | G |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | |
+| 199 | Binary Tree Right Side View Solution |[Python](./Python/199.py)| Medium | |
 | 201 | Bitwise AND of Numbers Range |[Python](./Python/201.py)| Medium | bit |
 | 202 | Happy Number |[Python](./Python/202.py)| Easy | |
 | 206 | Reverse Linked List |[Python](./Python/206.py)| Easy | recursive |
@@ -100,6 +103,7 @@ Data Structure and Algorithms
 | 253 |  Meeting Rooms II |[Python](./Python/253.py)| Medium | | sorted(lis, key=(lambda x: [x[1], x[0]])) |
 | 254 | Factor Combinations |[Python](./Python/254.py)| Medium | |  |
 | 267 | Palindrome Permutation II |[Python](./Python/267.py)| Medium | | |
+| 269 | Alien Dictionary |[Python](./Python/269.py)| Hard | | fook the edge cases |
 | 270 | Closest Binary Search Tree Value |[Python](./Python/270.py)| Easy | Binary Tree |
 | 271 | Encode and Decode Strings |[Python](./Python/271.py)| Medium | |G|
 | 272 | Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search 
@@ -123,6 +127,7 @@ Data Structure and Algorithms
 | 333 | Largest BST Subtree |[Python](./Python/333.py)| Medium | BST | Divide&Conquer |
 | 334 | Increasing Triplet Subsequence |[Python](./Python/334.py)| Medium |  |  |
 | 337 | House Robber III |[Python](./Python/337.py)| Medium | DFS Divide&Conquer |  |
+| 341 |  Flatten Nested List Iterator |[Python](./Python/341341.py)| Medium |  |  |
 | 348 | Design Tic-Tac-Toe |[Python](./Python/348.py)| Medium |  |  |
 | 355 | Design Twitter |[Python](./Python/355.py)| Medium |  | |
 | 358 | Design Snake Game |[Python](./Python/358.py)| Medium |  | G |

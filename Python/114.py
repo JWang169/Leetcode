@@ -1,3 +1,27 @@
+# Apr 28
+
+class Solution:
+    def flatten(self, root: TreeNode) -> None:
+        """
+        Do not return anything, modify root in-place instead.
+        """
+        return self.helper(root)
+    
+    
+    def helper(self, root):
+        if not root:
+            return None, None 
+        left, leftLast = self.helper(root.left)
+        right, rightLast = self.helper(root.right)
+
+        if leftLast:
+            leftLast.right = right  
+        root.right = left or right
+        root.left = None
+        rootLast = rightLast or leftLast or root
+        return root, rootLast
+        
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):

@@ -1,5 +1,43 @@
 class Solution:
     def decodeString(self, s: str) -> str:
+        stack = []
+        number = 0
+        for ch in s:
+            if ch == '[':
+                stack.append(number)
+                number = 0
+                continue
+            if ch == ']':
+                chars = []   
+                while stack:
+                    letter = stack.pop()
+                    if isinstance(letter, int):
+                        num = letter
+                        break
+                    chars.append(letter)
+                
+                newString = ""
+                while chars:
+                    newString += chars.pop()
+                stack.append(newString * num)
+                        
+            if ch.isalpha():
+                stack.append(ch)
+            if ch.isdigit():
+                number *= 10
+                number += int(ch)
+            
+
+        res = ""
+        stack = stack[::-1]
+        while stack:
+            res += stack.pop()
+        return res
+
+
+    
+class Solution:
+    def decodeString(self, s: str) -> str:
         self.stack = []
         number = 0
         for i in range(len(s)):
