@@ -480,6 +480,15 @@ Data Structure and Algorithms
 | Lintcode 505 | Web Logger  |  [Python](./Python/ladder505.py)| Medium |
 | Lintcode 215 | Rate Limiter | [Python](./Python/ladder215.py)| Hard |
 
+#### 4 - API Design & TinyURL 
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+| 522 | Tiny URL II  |[Python](./Python/lc522.py)| Medium |
+| 232 | Tiny URL  |[Python](./Python/lc232.py)| Medium |
+
+
+
 ### Ladder - Advanced Algorithm 
 
 #### 2 - Union Find & Trie
