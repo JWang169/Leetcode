@@ -36,6 +36,7 @@ Data Structure and Algorithms
 | 42 | Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | 
 | 46 | Permutations |[Python](./Python/46.py)| Medium | dfs  | |
 | 47 | Permutations II |[Python](./Python/47.py)| Medium | dfs  | |
+| 49 | Group Anagrams |[Python](./Python/49.py)| Medium |  | |
 | 54 | Spiral Matrix |[Python](./Python/54.py)| Medium | | | 
 | 56 | Merge Intervals |[Python](./Python/56.py)| Medium | | | 
 | 57 | Insert Interval |[Python](./Python/57.py)| Hard | | | 
