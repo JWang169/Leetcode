@@ -121,6 +121,7 @@ Data Structure and Algorithms
 | 303 | Range Sum Query - Immutable |[Python](./Python/303.py)| Easy | 前缀和 | | 
 | 304 | Range Sum Query 2D - Immutable |[Python](./Python/304.py)| Medium | 2d前缀和 |  |
 | 307 |Range Sum Query - Mutable |[Python](./Python/307.py)| Medium | Segment Tree |  |
+| 309 | Best Time to Buy and Sell Stock with Cooldown |[Python](./Python/309.py)| Medium |  |  |
 | 310 | Minimum Height Trees |[Python](./Python/310.py)| Medium | UF | :construction: |
 | 316 | Remove Duplicate Letters |[Python](./Python/316.py)| Hard | Stack | |:construction:|
 | 320 | Generalized Abbreviation |[Python](./Python/323.py)| Medium | dfs | G |
@@ -316,6 +317,54 @@ Data Structure and Algorithms
 
 
 ## Lintcode Solution 
+
+### Ladder - System Design
+
+#### 1 - Introduction to System Design & News Feed System
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+| 355 | Design Twitter   |[Python](./Python/355.py)| Medium |
+
+
+
+#### 2 - User System - Database & Cache
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+| Lintcode 560 | Friendship Service   |[Python](./Python/ladder1070.py)| Easy |
+| Lintcode 538 | Memcache  |[Python](./Python/ladder538.py)| Medium |
+| Lintcode 502 | Mini Cassandra  |[Python](./Python/ladder502.py)| Medium |
+
+
+#### 3 - Database Sharding & Consistent Hashing
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+| Lintcode 519 | Consistent Hashing  | [Python](./Python/ladder519.py)| Easy |
+| Lintcode 526 | Load Balancer  | [Python](./Python/ladder526.py)| Medium |
+| Lintcode 520 | Consistent Hashing II | [Python](./Python/ladder520.py)| Medium |
+| Lintcode 505 | Web Logger  |  [Python](./Python/ladder505.py)| Medium |
+| Lintcode 215 | Rate Limiter | [Python](./Python/ladder215.py)| Hard |
+
+#### 4 - API Design & TinyURL 
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+| 522 | Tiny URL II  |[Python](./Python/lc522.py)| Medium |
+| 232 | Tiny URL  |[Python](./Python/lc232.py)| Medium |
+
+
+#### 5 - Location Based Service 
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+| 530 | Geohash II |[Python](./Python/lc530.py)| Medium |
+| 529 | Geohash |[Python](./Python/lc529.py)| Medium |
+| 525 | Mini Uber |[Python](./Python/lc525.py)| Medium |
+| 509 | Mini Yelp |[Python](./Python/lc509.py)| Hard |
+
+
 ### Ladder - Algorithm 
 ----
 #### 1 - Defeat the Algorithm Interview 
@@ -451,41 +500,7 @@ Data Structure and Algorithms
 
 
 -----
-### Ladder - System Design
 
-#### 1 - Introduction to System Design & News Feed System
-
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
-|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
-| 355 | Design Twitter   |[Python](./Python/355.py)| Medium |
-
-
-
-#### 2 - User System - Database & Cache
-
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
-|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
-| Lintcode 560 | Friendship Service   |[Python](./Python/ladder1070.py)| Easy |
-| Lintcode 538 | Memcache  |[Python](./Python/ladder538.py)| Medium |
-| Lintcode 502 | Mini Cassandra  |[Python](./Python/ladder502.py)| Medium |
-
-
-#### 3 - Database Sharding & Consistent Hashing
-
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
-|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
-| Lintcode 519 | Consistent Hashing  | [Python](./Python/ladder519.py)| Easy |
-| Lintcode 526 | Load Balancer  | [Python](./Python/ladder526.py)| Medium |
-| Lintcode 520 | Consistent Hashing II | [Python](./Python/ladder520.py)| Medium |
-| Lintcode 505 | Web Logger  |  [Python](./Python/ladder505.py)| Medium |
-| Lintcode 215 | Rate Limiter | [Python](./Python/ladder215.py)| Hard |
-
-#### 4 - API Design & TinyURL 
-
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
-|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
-| 522 | Tiny URL II  |[Python](./Python/lc522.py)| Medium |
-| 232 | Tiny URL  |[Python](./Python/lc232.py)| Medium |
 
 
 
