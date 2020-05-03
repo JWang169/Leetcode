@@ -31,6 +31,7 @@ Data Structure and Algorithms
 | 30 | Substring with Concatenation of All Words|[Python](./Python/30.py)| Hard | | | 
 | 31 | Next Permutation|[Python](./Python/31.py)| Medium  | | | 
 | 33 |Search in Rotated Sorted Array|[Python](./Python/33.py)| Medium  | Binary Search | Rotated Array Your weakness |
+| 37 | Sudoku Solver |[Python](./Python/37.py)| Hard | dfs  | |
 | 39 | Combination Sum |[Python](./Python/39.py)| Medium | dfs  | |
 | 40 | Combination Sum II |[Python](./Python/40.py)| Medium | dfs  | |
 | 42 | Trapping Rain Water|[Java](./Java/ladder353.java)<br>[Python](./Python/42.py)| Hard  | | 
@@ -130,7 +131,9 @@ Data Structure and Algorithms
 | 334 | Increasing Triplet Subsequence |[Python](./Python/334.py)| Medium |  |  |
 | 337 | House Robber III |[Python](./Python/337.py)| Medium | DFS Divide&Conquer |  |
 | 341 |  Flatten Nested List Iterator |[Python](./Python/341341.py)| Medium |  |  |
+| 347 | Top K Frequent Elements |[Python](./Python/347.py)| Medium |  |  |
 | 348 | Design Tic-Tac-Toe |[Python](./Python/348.py)| Medium |  |  |
+| 349 | Intersection of Two Arrays |[Python](./Python/349.py)| Easy |  |  |
 | 355 | Design Twitter |[Python](./Python/355.py)| Medium |  | |
 | 358 | Design Snake Game |[Python](./Python/358.py)| Medium |  | G |
 | 359 | Logger Rate Limiter |[Python](./Python/359.py)| Easy | |  |
@@ -138,6 +141,7 @@ Data Structure and Algorithms
 | 362 | Design Hit Counter |[Python](./Python/362.py)| Medium | queue |  |
 | 363 | Max Sum of Rectangle No Larger Than K |[Python](./Python/363.py)| Hard | prefixSum + bisect | |
 | 372 |Super Pow|[Python](./Python/372.py)| Medium | pow | Mod |
+| 383 | Ransom note |[Python](./Python/383.py)| Easy |
 | 387 | First Unique Character in a String Solution|[Python](./Python/387.py)|Easy|
 | 389 | Find the Difference |[Python](./Python/389.py)| Easy | |  |
 | 394 | Decode String |[Java](./Java/ladder575.java)<br>[Python](./Python/394.py)| Medium | Stack |  | 
@@ -146,6 +150,8 @@ Data Structure and Algorithms
 | 415 |  Add Strings|[Python](./Python/415.py)| Easy | | |
 | 422 | Valid Word Square|[Python](./Python/422.py)| Easy | | |
 | 425 | Word Squares |[Python](./Python/425.py)| Hard | DFS + Memorization |:construction:|
+| 435 | Non-overlapping Intervals |[Python](./Python/435.py)| Medium |  |
+| 438 | Find All Anagrams in a String |[Python](./Python/438.py)| Medium |  |
 | 443 |String Compression|[Python](./Python/444.py)| Easy |
 | 444 |Sequence Reconstruction|[Python](./Python/444.py)| Medium | BFS | Topological Sort |
 | 445 | Add Two Numbers II |[Python](./Python/445.py)| Medium |  |
