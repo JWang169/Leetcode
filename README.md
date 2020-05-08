@@ -10,6 +10,7 @@ Data Structure and Algorithms
 | 3 | Longest Substring Without Repeating Characters |[Python](./Python/3.py)|Medium|  |
 | 4| Median of Two Sorted Arrays |[Python](./Python/4.py)| Hard | | :construction: |
 | 5 | Longest Palindromic Substring |[Python](./Python/5.py)| Medium | DP |
+| 10 | Regular Expression Matching |[Python](./Python/10.py)| Hard | 难一点的192 | :construction:  |
 | 15 | 3Sum |[Python](./Python/15.py)| Medium | two pointers |
 | 17 |  Letter Combinations of a Phone Number |[Python](./Python/17.py)| Medium |  dfs  |
 | 20 | Valid Parentheses |[Python](./Python/20.py)|Easy|  |
@@ -70,8 +71,8 @@ Data Structure and Algorithms
 | 142 | Linked List Cycle II |[Python](./Python/142.py)| Medium |  |
 | 145|Binary Tree Postorder Traversal |[Python](./Python/145.py)| Hard | Morris | :construction: |
 | 147| Insertion Sort List |[Python](./Python/147.py)| Medium |LinkedList | :construction: |
-| 153 | Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  | Rotated Array | weakness |
-| 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| weakness 
+| 153 | Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  | Rotated Array | |
+| 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| 
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 160 | Intersection of Two Linked Lists |[Python](./Python/160.py)| Easy  | Linked List Overlap | |
 | 161 | One Edit Distance |[Python](./Python/161.py)| Medium |  |  |
