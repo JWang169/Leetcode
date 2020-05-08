@@ -2,18 +2,6 @@ Data Structure and Algorithms
 ==========================================================
 ![](static/Gifs/dragonMaid.gif)
 
-## BBG TAG by frequency, starts form Apr 21@4:30AM
-
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ |   __Notes__ |
-|-------:|:--------------------|:-----------:|:---------------:|:------------|
-| 430  | Flatten a multilevel Doubly Linked List | [Python](./Python/430.py)| Medium | :construction: |
-| 34   | Find First and Last Position of Element in Sorted Array | [Python](./Python/34.py)| Medium | 三次binary search |
-| 253  | Meeting Rooms II | [Python](./Python/253.py)| Medium |       |
-| 1029 | Two City Scheduling | [Python](./Python/1029.py)| Medium |   |
-
-
-
-
 ## Leetcode Solution 
 | __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |  __Notes__ |
 |-------:|:--------------------|:-----------:|:---------------:|:------------|:---------------|
@@ -31,6 +19,7 @@ Data Structure and Algorithms
 | 30 | Substring with Concatenation of All Words|[Python](./Python/30.py)| Hard | | | 
 | 31 | Next Permutation|[Python](./Python/31.py)| Medium  | | | 
 | 33 |Search in Rotated Sorted Array|[Python](./Python/33.py)| Medium  | Binary Search | Rotated Array Your weakness |
+| 34   | Find First and Last Position of Element in Sorted Array | [Python](./Python/34.py)| Medium | 三次binary search |
 | 37 | Sudoku Solver |[Python](./Python/37.py)| Hard | dfs  | |
 | 39 | Combination Sum |[Python](./Python/39.py)| Medium | dfs  | |
 | 40 | Combination Sum II |[Python](./Python/40.py)| Medium | dfs  | |
@@ -150,6 +139,7 @@ Data Structure and Algorithms
 | 415 |  Add Strings|[Python](./Python/415.py)| Easy | | |
 | 422 | Valid Word Square|[Python](./Python/422.py)| Easy | | |
 | 425 | Word Squares |[Python](./Python/425.py)| Hard | DFS + Memorization |:construction:|
+| 430  | Flatten a multilevel Doubly Linked List | [Python](./Python/430.py)| Medium | :construction: |
 | 435 | Non-overlapping Intervals |[Python](./Python/435.py)| Medium |  |
 | 438 | Find All Anagrams in a String |[Python](./Python/438.py)| Medium |  |
 | 443 |String Compression|[Python](./Python/444.py)| Easy |
