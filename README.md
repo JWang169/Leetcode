@@ -10,7 +10,11 @@ Data Structure and Algorithms
 | 3 | Longest Substring Without Repeating Characters |[Python](./Python/3.py)|Medium|  |
 | 4| Median of Two Sorted Arrays |[Python](./Python/4.py)| Hard | | :construction: |
 | 5 | Longest Palindromic Substring |[Python](./Python/5.py)| Medium | DP |
-| 10 | Regular Expression Matching |[Python](./Python/10.py)| Hard | 难一点的192 | :construction:  |
+| 6 | ZigZag Conversion |[Python](./Python/6.py)| Medium | :construction: |
+| 7 | Reverse Integer |[Python](./Python/7.py)| Easy |  |
+| 8 | String to Integer (atoi) |[Python](./Python/8.py)| Medium |  |
+| 9 | Palindrome Number |[Python](./Python/9.py)| Easy |  |
+| 10 | Regular Expression Matching |[Python](./Python/10.py)| Hard | 9章强化版 dp |
 | 15 | 3Sum |[Python](./Python/15.py)| Medium | two pointers |
 | 17 |  Letter Combinations of a Phone Number |[Python](./Python/17.py)| Medium |  dfs  |
 | 20 | Valid Parentheses |[Python](./Python/20.py)|Easy|  |
@@ -20,7 +24,6 @@ Data Structure and Algorithms
 | 30 | Substring with Concatenation of All Words|[Python](./Python/30.py)| Hard | | | 
 | 31 | Next Permutation|[Python](./Python/31.py)| Medium  | | | 
 | 33 |Search in Rotated Sorted Array|[Python](./Python/33.py)| Medium  | Binary Search | Rotated Array Your weakness |
-| 34   | Find First and Last Position of Element in Sorted Array | [Python](./Python/34.py)| Medium | 三次binary search |
 | 37 | Sudoku Solver |[Python](./Python/37.py)| Hard | dfs  | |
 | 39 | Combination Sum |[Python](./Python/39.py)| Medium | dfs  | |
 | 40 | Combination Sum II |[Python](./Python/40.py)| Medium | dfs  | |
@@ -34,6 +37,7 @@ Data Structure and Algorithms
 | 62 |  Unique Paths |[Python](./Python/62.py)| Medium |  dp | | 
 | 63 |  Unique Paths II |[Python](./Python/63.py)| Medium |  dp | | 
 | 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | |
+| 65 | Valid Number |[Python](./Python/65.py)| Hard| 啥题啊这是 | 啥啊 |
 | 66 |Plus One|[Python](./Python/66.py)| Easy | | |
 | 72 | Edit Distance |[Python](./Python/72.py)| Hard | DP | |
 | 78 | Subsets |[Python](./Python/78.py)| Medium | dfs| |
@@ -71,8 +75,8 @@ Data Structure and Algorithms
 | 142 | Linked List Cycle II |[Python](./Python/142.py)| Medium |  |
 | 145|Binary Tree Postorder Traversal |[Python](./Python/145.py)| Hard | Morris | :construction: |
 | 147| Insertion Sort List |[Python](./Python/147.py)| Medium |LinkedList | :construction: |
-| 153 | Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  | Rotated Array | |
-| 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| 
+| 153 | Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  | Rotated Array | weakness |
+| 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| weakness 
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack | |
 | 160 | Intersection of Two Linked Lists |[Python](./Python/160.py)| Easy  | Linked List Overlap | |
 | 161 | One Edit Distance |[Python](./Python/161.py)| Medium |  |  |
@@ -140,7 +144,6 @@ Data Structure and Algorithms
 | 415 |  Add Strings|[Python](./Python/415.py)| Easy | | |
 | 422 | Valid Word Square|[Python](./Python/422.py)| Easy | | |
 | 425 | Word Squares |[Python](./Python/425.py)| Hard | DFS + Memorization |:construction:|
-| 430  | Flatten a multilevel Doubly Linked List | [Python](./Python/430.py)| Medium | :construction: |
 | 435 | Non-overlapping Intervals |[Python](./Python/435.py)| Medium |  |
 | 438 | Find All Anagrams in a String |[Python](./Python/438.py)| Medium |  |
 | 443 |String Compression|[Python](./Python/444.py)| Easy |
@@ -148,11 +151,13 @@ Data Structure and Algorithms
 | 445 | Add Two Numbers II |[Python](./Python/445.py)| Medium |  |
 | 451 | Sort Characters By Frequency |[Python](./Python/451.py)| Medium |  |
 | 459 | Repeated Substring Pattern|[Python](./Python/459.py)| Easy | String |  |
+| 460 | LFU Cache |[Python](./Python/460.py)| Hard |  |  |
 | 462 | Minimum Moves to Equal Array Elements II |[Python](./Python/462.py)| Medium | Median Arr |  |
 | 464 | Can I Win |[Python](./Python/464.py)| Medium | Memoization + dfs | :construction: |
 | 465 | Optimal Account Balancing |[Python](./Python/465.py)| Hard | Greedy | :construction: G |
 | 468 | Validate IP Address |[Python](./Python/468.py)| Medium | String | |  |
 | 472 | Conncatenated Words |[Python](./Python/472.py)| Hard | DP | :construction: |
+| 476 | Number Complement |[Python](./Python/476.py)| Easy | |  |
 | 482 | License Key Formatting |[Python](./Python/482.py)| Easy |  | G |
 | 485 | Max Consecutive Ones |[Python](./Python/468.py)| Easy |  | G |
 | 486 | Predict the Winner |[Python](./Python/486.py)| Medium |  | G |
@@ -287,6 +292,7 @@ Data Structure and Algorithms
 | 1300 | Sum of Mutated Array Closest to Target |[Python](./Python/1300.py)| Medium | Binary Search |  | 
 | 1320 | Minimum Distance to Type a Word Using Two Fingers |[Python](./Python/1330.py)| Hard | DP | :construction: G |
 | 1325 |Delete Leaves With a Given Value|[Python](./Python/1325.py)| Medium |  | G |
+| 1331 |Rank Transform of an Array|[Python](./Python/1331.py)| Easy | |  | 
 | 1332 |Remove Palindromic Subsequences|[Python](./Python/1332.py)| Easy | |  | 
 | 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit |  | 
 | 1361| Validate Binary Tree Nodes |[Python](./Python/1361.py)| Medium | UnionFind |  | 
