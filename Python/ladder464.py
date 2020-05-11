@@ -7,8 +7,6 @@ class Solution:
         # quick sort 
         self.mergeSort(A)
     
-    
-    
     def quickSort(self, A, start, end):
         if start >= end:
             return 

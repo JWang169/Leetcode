@@ -1,14 +1,40 @@
-# Apr 21 
-
+# May 5
 """
 # Definition for a Node.
-class Node(object):
+class Node:
     def __init__(self, val, prev, next, child):
         self.val = val
         self.prev = prev
         self.next = next
         self.child = child
 """
+
+class Solution:
+    def flatten(self, head: 'Node') -> 'Node':
+        stack = []
+        cur = head
+
+        while cur or stack:
+            if cur.child:
+                if cur.next:
+                    stack.append(cur.next)
+                cur.next = cur.child
+                cur.child.prev = cur
+                cur.child = None
+                cur = cur.next 
+                continue 
+            if cur.next:
+                cur = cur.next 
+                continue
+            if stack:
+                node = stack.pop()
+                cur.next = node
+                node.prev = cur 
+            cur = cur.next 
+        return head 
+        
+        
+# Apr 21 
 
 class Solution(object):
     def flatten(self, head):
