@@ -237,6 +237,7 @@ Data Structure and Algorithms
 | 939 | Minimum Area Rectangle |[Python](./Python/939.py)| Medium | |
 | 940 | Distinct Subsequences II |[Python](./Python/940.py)| Hard | :construction: |
 | 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |
+| 949 | Largest Time for Given Digits |[Python](./Python/949.py)| Easy |itertools.permutations(arr)
 | 951 | Flip Equivalent Binary Trees |[Python](./Python/951.py)| Medium | Binary Tree / Divide&Conquer|
 | 958 | Check Completeness of a Binary Tree |[Python](./Python/935.py)| Medium | Divide&Conquer perfect / complete binary tree| 
 | 973  | K Closest Points to Origin |[Python](./Python/KClosestPointstoOrigin.py)| Medium |Kth: Heap / Quick Select  list(map(lambda x: x[1], h))|
