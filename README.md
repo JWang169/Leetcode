@@ -96,6 +96,7 @@ Data Structure and Algorithms
 | 218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  
 | 219 | Contains Duplicate II |[Python](./Python/219.py)| Easy|  |
 | 220 | Contains Duplicate III |[Python](./Python/220.py)| Medium| Bucket Sort |
+| 223 | Rectangle Area |[Python](./Python/223.py)| Medium |  |
 | 226 | Invert Binary Tree |[Python](./Python/226.py)| Easy|  |
 | 230 | Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
 | 236 | Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
@@ -228,6 +229,7 @@ Data Structure and Algorithms
 | 841 | Keys and Rooms |[Python](./Python/841.py)| Medium |  |
 | 844 | Backspace String Compare |[Python](./Python/844.py)| Easy |
 | 847 | Shortest Path Visiting All Nodes |[Python](./Python/847.py)| Hard | dfs + memoization :construction: |
+| 850 | Rectangle Area II |[Python](./Python/850.py)| Hard | Sweep line |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium |G |
 | 859 | Buddy Strings|[Python](./Python/859.py)| Easy|  |
 | 876 | Middle of the Linked List |[Python](./Python/876.py)| Easy| 
