@@ -225,6 +225,7 @@ Data Structure and Algorithms
 | 809 | Expressive Words|[Python](./Python/809.py)| Medium | G |
 | 833 | Find And Replace in String |[Python](./Python/833.py)| Medium | G |
 | 835 | Image Overlap |[Python](./Python/835.py)| Medium | G |
+| 841 | Keys and Rooms |[Python](./Python/841.py)| Medium |  |
 | 844 | Backspace String Compare |[Python](./Python/844.py)| Easy |
 | 847 | Shortest Path Visiting All Nodes |[Python](./Python/847.py)| Hard | dfs + memoization :construction: |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium |G |
@@ -242,6 +243,7 @@ Data Structure and Algorithms
 | 939 | Minimum Area Rectangle |[Python](./Python/939.py)| Medium | |
 | 940 | Distinct Subsequences II |[Python](./Python/940.py)| Hard | :construction: |
 | 946 | Validate Stack Sequences |[Python](./Python/946.py)| Medium | Stack |
+| 949 | Largest Time for Given Digits |[Python](./Python/949.py)| Easy |itertools.permutations(arr)
 | 951 | Flip Equivalent Binary Trees |[Python](./Python/951.py)| Medium | Binary Tree / Divide&Conquer|
 | 958 | Check Completeness of a Binary Tree |[Python](./Python/935.py)| Medium | Divide&Conquer perfect / complete binary tree| 
 | 973  | K Closest Points to Origin |[Python](./Python/KClosestPointstoOrigin.py)| Medium |Kth: Heap / Quick Select  list(map(lambda x: x[1], h))|
@@ -251,6 +253,7 @@ Data Structure and Algorithms
 | 1008 | Construct Binary Search Tree from Preorder Traversal |[Python](./Python/1008.py)| Medium | bst  
 | 1011 | Capacity To Ship Packages Within D Days |[Python](./Python/1011.py)| Medium | Binary Search |
 | 1014 | Best Sightseeing Pair |[Python](./Python/1014.py)| Medium | :construction: |
+| 1026 | Maximum Difference Between Node and Ancestor |[Python](./Python/1026.py)|Medium | Divide&Conquer | 
 | 1028 | Recover a Tree From Preorder Traversal |[Python](./Python/1028.py)| Hard | Divide&Conquer | 
 | 1029 | Two City Scheduling |[Python](./Python/1029.py)| Easy | heap |
 | 1043 | Partition Array for Maximum Sum |[Python](./Python/1043.py)| Medium | DP return dp[n-1] |
@@ -270,21 +273,21 @@ Data Structure and Algorithms
 | 1091 | Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST  | 
 | 1092 | Shortest Common Supersequence |[Python](./Python/1092.py)| Hard | LCS :construction: | 
 | 1102 | Path With Maximum Minimum Value|[Python](./Python/1102.py)| Medium | bfs+heap  Dijkstr | 
+| 1110 | Delete Nodes And Return Forest |[Python](./Python/1110.py)| Medium | BFS 
 | 1131 | Maximum of Absolute Value Expression |[Python](./Python/1131.py)| Medium | 121, 1013 :construction:coordinate.wang |   
 | 1134 | Armstrong Number |[Python](./Python/1134.py)| Easy|   | 
 | 1140 | Stone Game II |[Python](./Python/1140.py)| Medium | DP | 
+| 1145 | Binary Tree Coloring Game |[Python](./Python/1145.py)| Medium |  | 
 | 1146 | Snapshot Array |[Python](./Python/1146.py)| Medium | bisect | 
 | 1153 | String Transforms Into Another String |[Python](./Python/1153.py)| Hard |It's a brain teaser | 
 | 1161 | Maximum Level Sum of a Binary Tree |[Python](./Python/maxLevelSumBTree.py)| Medium | BSF |
-| 1230 | Toss Strange Coins |[Python](./Python/1230.py)| Medium | DP :construction: |
-| 1352 | Product of the Last K Numbers|[Python](./Python/1352.py)| Medium | 
-| 1110 | Delete Nodes And Return Forest |[Python](./Python/1110.py)| Medium | BFS 
 | 1176 | Diet Plan Performance |[Python](./Python/1176.py)| Easy | 
 | 1192 | Critical Connections in a Network |[Python](./Python/1192.py)| Hard | Graph Bridges [tutorial](https://www.youtube.com/watch?v=aZXi1unBdJA&feature=youtu.be) |
 | 1215 | Stepping Numbers |[Python](./Python/1215.py)| Medium | dfs  
 | 1219 | Path with Maximum Gold |[Python](./Python/1219.py)| Medium | Search 
 | 1223 | Dice Roll Simulation |[Python](./Python/1223.py)| Medium | DP :construction: 太难了，最难的medium|
 | 1229 |Meeting Scheduler|[Python](./Python/1229.py)| Medium | swipe line  
+| 1230 | Toss Strange Coins |[Python](./Python/1230.py)| Medium | DP :construction: |
 | 1231 |Divide Chocolate|[Python](./Python/1231.py)| Hard | 二分答案 dfs+pruning=>TLE，二分方法=>AC  | 
 | 1245 | Tree Diameter |[Python](./Python/1245.py)| Medium | graph |   
 | 1248 | Count Number of Nice Subarrays |[Python](./Python/1248.py)| Medium | Sliding window 992 | 
@@ -300,7 +303,8 @@ Data Structure and Algorithms
 | 1325 |Delete Leaves With a Given Value|[Python](./Python/1325.py)| Medium | G |
 | 1331 |Rank Transform of an Array|[Python](./Python/1331.py)| Easy 
 | 1332 |Remove Palindromic Subsequences|[Python](./Python/1332.py)| Easy  
-| 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit   | 
+| 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit |
+| 1352 | Product of the Last K Numbers|[Python](./Python/1352.py)| Medium |  
 | 1361| Validate Binary Tree Nodes |[Python](./Python/1361.py)| Medium | UnionFind |   
 | 1365 | How Many Numbers Are Smaller Than the Current Number |[Python](./Python/1365.py)| Easy | bisect | 
 | 1366 | Rank Teams by Votes |[Python](./Python/1366.py)| Medium | heap 
@@ -323,56 +327,10 @@ Data Structure and Algorithms
 | 1405 | Longest Happy String |[Python](./Python/1405.py)| Medium 
 | 1406 | Stone Game III |[Python](./Python/1406.py)| Hard| DP :construction: Alice and Bob bothering me again | 	
 
+| 1460 | Make Two Arrays Equal by Reversing Sub-arrays |[Python](./Python/1460.py)|Easy| | 	
 
 
 ## Lintcode Solution 
-
-### Ladder - System Design
-
-#### 1 - Introduction to System Design & News Feed System
-
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
-|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
-| 355 | Design Twitter   |[Python](./Python/355.py)| Medium |
-
-
-
-#### 2 - User System - Database & Cache
-
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
-|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
-| Lintcode 560 | Friendship Service   |[Python](./Python/ladder1070.py)| Easy |
-| Lintcode 538 | Memcache  |[Python](./Python/ladder538.py)| Medium |
-| Lintcode 502 | Mini Cassandra  |[Python](./Python/ladder502.py)| Medium |
-
-
-#### 3 - Database Sharding & Consistent Hashing
-
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
-|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
-| Lintcode 519 | Consistent Hashing  | [Python](./Python/ladder519.py)| Easy |
-| Lintcode 526 | Load Balancer  | [Python](./Python/ladder526.py)| Medium |
-| Lintcode 520 | Consistent Hashing II | [Python](./Python/ladder520.py)| Medium |
-| Lintcode 505 | Web Logger  |  [Python](./Python/ladder505.py)| Medium |
-| Lintcode 215 | Rate Limiter | [Python](./Python/ladder215.py)| Hard |
-
-#### 4 - API Design & TinyURL 
-
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
-|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
-| 522 | Tiny URL II  |[Python](./Python/lc522.py)| Medium |
-| 232 | Tiny URL  |[Python](./Python/lc232.py)| Medium |
-
-
-#### 5 - Location Based Service 
-
-| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
-|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
-| 530 | Geohash II |[Python](./Python/lc530.py)| Medium |
-| 529 | Geohash |[Python](./Python/lc529.py)| Medium |
-| 525 | Mini Uber |[Python](./Python/lc525.py)| Medium |
-| 509 | Mini Yelp |[Python](./Python/lc509.py)| Hard |
-
 
 ### Ladder - Algorithm 
 ----
@@ -611,4 +569,51 @@ Data Structure and Algorithms
 | 430 |  Flatten a Multilevel Doubly Linked List |[Python](./Python/430.py)| Medium | linkedlist + bfs | :construction: very good question | 
 | 374 |  Guess Number Higher or Lower  |[Python](./Python/374.py)|Easy | Binary Search | | 
 | 375 |  Guess Number Higher or Lower II  |[Python](./Python/375.py)| Medium | DP | :construction: | 
+
+
+### Ladder - System Design
+
+#### 1 - Introduction to System Design & News Feed System
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+| 355 | Design Twitter   |[Python](./Python/355.py)| Medium |
+
+
+
+#### 2 - User System - Database & Cache
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+| Lintcode 560 | Friendship Service   |[Python](./Python/ladder1070.py)| Easy |
+| Lintcode 538 | Memcache  |[Python](./Python/ladder538.py)| Medium |
+| Lintcode 502 | Mini Cassandra  |[Python](./Python/ladder502.py)| Medium |
+
+
+#### 3 - Database Sharding & Consistent Hashing
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+| Lintcode 519 | Consistent Hashing  | [Python](./Python/ladder519.py)| Easy |
+| Lintcode 526 | Load Balancer  | [Python](./Python/ladder526.py)| Medium |
+| Lintcode 520 | Consistent Hashing II | [Python](./Python/ladder520.py)| Medium |
+| Lintcode 505 | Web Logger  |  [Python](./Python/ladder505.py)| Medium |
+| Lintcode 215 | Rate Limiter | [Python](./Python/ladder215.py)| Hard |
+
+#### 4 - API Design & TinyURL 
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+| 522 | Tiny URL II  |[Python](./Python/lc522.py)| Medium |
+| 232 | Tiny URL  |[Python](./Python/lc232.py)| Medium |
+
+
+#### 5 - Location Based Service 
+
+| __No.__ |      __Title__      | __Solution__ | __Difficulty__ | __Tags__ |__Notes__ |
+|-------:|:--------------------|:------------:|:--------------:|:------------|:---------------|
+| 530 | Geohash II |[Python](./Python/lc530.py)| Medium |
+| 529 | Geohash |[Python](./Python/lc529.py)| Medium |
+| 525 | Mini Uber |[Python](./Python/lc525.py)| Medium |
+| 509 | Mini Yelp |[Python](./Python/lc509.py)| Hard |
 
