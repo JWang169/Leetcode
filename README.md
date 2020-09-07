@@ -15,6 +15,10 @@ Data Structure and Algorithms
 | 8 | String to Integer (atoi) |[Python](./Python/8.py)| Medium |  |
 | 9 | Palindrome Number |[Python](./Python/9.py)| Easy |  |
 | 10 | Regular Expression Matching |[Python](./Python/10.py)| Hard | 9章强化班 dp |
+| 11 | Container With Most Water |[Python](./Python/11.py)| Medium | two pointers |
+| 12 | Integer to Roman |[Python](./Python/12.py)| Medium | |
+| 13 | Roman to Integer |[Python](./Python/13.py)| Easy | |
+| 14 | Longest Common Prefix |[Python](./Python/14.py)| Easy | |
 | 15 | 3Sum |[Python](./Python/15.py)| Medium | two pointers |
 | 17 |  Letter Combinations of a Phone Number |[Python](./Python/17.py)| Medium |  dfs  |
 | 20 | Valid Parentheses |[Python](./Python/20.py)|Easy|  |
@@ -92,6 +96,7 @@ Data Structure and Algorithms
 | 218 | The Skyline Problem |[Python](./Python/218.py)| HARD | sweepline |  
 | 219 | Contains Duplicate II |[Python](./Python/219.py)| Easy|  |
 | 220 | Contains Duplicate III |[Python](./Python/220.py)| Medium| Bucket Sort |
+| 226 | Invert Binary Tree |[Python](./Python/226.py)| Easy|  |
 | 230 | Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
 | 236 | Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
 | 239 | Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
@@ -104,6 +109,7 @@ Data Structure and Algorithms
 | 271 | Encode and Decode Strings |[Python](./Python/271.py)| Medium | G|
 | 272 | Closest Binary Search Tree Value II |[Python](./Python/272.py)| Hard | inorder + Binary search 
 | 273 | Integer to English Words |[Python](./Python/273.py)| Hard | |
+| 274 | H-Index |[Python](./Python/274.py)| Medium | |
 | 276 | Paint Fence |[Python](./Python/276.py)| Easy | G|
 | 286 | Walls and Gates |[Python](./Python/286.py)| Medium |  |
 | 289 | Game of Life |[Python](./Python/289.py)| Medium | G|
