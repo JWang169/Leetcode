@@ -130,8 +130,9 @@ Data Structure and Algorithms
 | 323 | Number of Connected Components in an Undirected Graph |[Python](./Python/323.py)| Medium | UnionFind | 
 | 333 | Largest BST Subtree |[Python](./Python/333.py)| Medium | BST Divide&Conquer |
 | 334 | Increasing Triplet Subsequence |[Python](./Python/334.py)| Medium |    |
-| 337 | House Robber III |[Python](./Python/337.py)| Medium | DFS Divide&Conquer |  
-| 341 |  Flatten Nested List Iterator |[Python](./Python/341341.py)| Medium |  |  
+| 337 | House Robber III |[Python](./Python/337.py)| Medium | DFS Divide&Conquer |
+| 341 | Flatten Nested List Iterator |[Python](./Python/341341.py)| Medium |  |  
+| 346 | Moving Average from Data Stream |[Python](./Python/346.py)| Easy |  |  
 | 347 | Top K Frequent Elements |[Python](./Python/347.py)| Medium |  |  
 | 348 | Design Tic-Tac-Toe |[Python](./Python/348.py)| Medium |  |  
 | 349 | Intersection of Two Arrays |[Python](./Python/349.py)| Easy |  |  
@@ -232,6 +233,7 @@ Data Structure and Algorithms
 | 850 | Rectangle Area II |[Python](./Python/850.py)| Hard | Sweep line |
 | 853 | Car Fleet|[Python](./Python/853.py)| Medium |G |
 | 859 | Buddy Strings|[Python](./Python/859.py)| Easy|  |
+| 862 | Shortest Subarray with Sum at Least K|[Python](./Python/862.py)| Hard| monotonic queue|
 | 876 | Middle of the Linked List |[Python](./Python/876.py)| Easy| 
 | 877 | Stone Game|[Python](./Python/877.py)| Medium | 
 | 887 | Super Egg Drop |[Python](./Python/887.py)| Hard | 
@@ -255,6 +257,7 @@ Data Structure and Algorithms
 | 1008 | Construct Binary Search Tree from Preorder Traversal |[Python](./Python/1008.py)| Medium | bst  
 | 1011 | Capacity To Ship Packages Within D Days |[Python](./Python/1011.py)| Medium | Binary Search |
 | 1014 | Best Sightseeing Pair |[Python](./Python/1014.py)| Medium | :construction: |
+| 1022 | Sum of Root To Leaf Binary Numbers |[Python](./Python/1022.py)| easy | 
 | 1026 | Maximum Difference Between Node and Ancestor |[Python](./Python/1026.py)|Medium | Divide&Conquer | 
 | 1028 | Recover a Tree From Preorder Traversal |[Python](./Python/1028.py)| Hard | Divide&Conquer | 
 | 1029 | Two City Scheduling |[Python](./Python/1029.py)| Easy | heap |
