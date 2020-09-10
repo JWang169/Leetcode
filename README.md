@@ -85,6 +85,7 @@ Data Structure and Algorithms
 | 160 | Intersection of Two Linked Lists |[Python](./Python/160.py)| Easy  | Linked List Overlap | 
 | 161 | One Edit Distance |[Python](./Python/161.py)| Medium |  |
 | 163 | Missing Ranges |[Python](./Python/163.py)| Medium |  G |
+| 165 | Compare Version Numbers |[Python](./Python/165.py)| Medium |   |
 | 168 | Excel Sheet Column Title |[Python](./Python/168.py)| Easy | G |
 | 189 | Rotate Array |[Python](./Python/189.py)| Easy  | inplace swap | 
 | 199 | Binary Tree Right Side View Solution |[Python](./Python/199.py)| Medium | 
@@ -253,6 +254,7 @@ Data Structure and Algorithms
 | 973  | K Closest Points to Origin |[Python](./Python/KClosestPointstoOrigin.py)| Medium |Kth: Heap / Quick Select  list(map(lambda x: x[1], h))|
 | 975 | Odd Even Jump|[Python](./Python/975.py)| Hard |  :construction: G  不会，考了就凉 |
 | 987 |Vertical Order Traversal of a Binary Tree|[Python](./Python/987.py)| Medium | BST | 
+| 992 |Subarrays with K Different Integers|[Python](./Python/992.py)| Hard | Sliding Window | 
 | 1007 | Minimum Domino Rotations For Equal Row |[Python](./Python/domino.py)| Medium | Array | 
 | 1008 | Construct Binary Search Tree from Preorder Traversal |[Python](./Python/1008.py)| Medium | bst  
 | 1011 | Capacity To Ship Packages Within D Days |[Python](./Python/1011.py)| Medium | Binary Search |

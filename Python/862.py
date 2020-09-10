@@ -1,3 +1,6 @@
+"""
+为什么要保证deque递增： 
+"""
 from collections import deque
 class Solution:
     def shortestSubarray(self, A, K):
