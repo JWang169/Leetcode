@@ -37,7 +37,7 @@ Data Structure and Algorithms
 | 49 | Group Anagrams |[Python](./Python/49.py)| Medium |  | 
 | 54 | Spiral Matrix |[Python](./Python/54.py)| Medium | | 
 | 56 | Merge Intervals |[Python](./Python/56.py)| Medium | |
-| 57 | Insert Interval |[Python](./Python/57.py)| Hard | |
+| 57 | Insert Interval |[Python](./Python/57.py)| Hard | :construction: NlogN as 56|
 | 62 |  Unique Paths |[Python](./Python/62.py)| Medium | dp | 
 | 63 |  Unique Paths II |[Python](./Python/63.py)| Medium | dp |
 | 64 |Minimum Path Sum|[Python](./Python/64.py)| Medium  | dp | 
@@ -79,6 +79,7 @@ Data Structure and Algorithms
 | 142 | Linked List Cycle II |[Python](./Python/142.py)| Medium |  |
 | 145|Binary Tree Postorder Traversal |[Python](./Python/145.py)| Hard | Morris :construction: |
 | 147| Insertion Sort List |[Python](./Python/147.py)| Medium |LinkedList :construction: |
+| 152| Maximum Product Subarray |[Python](./Python/152.py)| Medium |DP :construction: |
 | 153 | Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  | Rotated Array |
 | 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| 
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack |
