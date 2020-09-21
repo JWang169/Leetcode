@@ -114,6 +114,7 @@ Data Structure and Algorithms
 | 273 | Integer to English Words |[Python](./Python/273.py)| Hard | |
 | 274 | H-Index |[Python](./Python/274.py)| Medium | |
 | 276 | Paint Fence |[Python](./Python/276.py)| Easy | G|
+| 285 | Inorder Successor in BST |[Python](./Python/285.py)| Medium |510 |
 | 286 | Walls and Gates |[Python](./Python/286.py)| Medium |  |
 | 289 | Game of Life |[Python](./Python/289.py)| Medium | G|
 | 292 | Nim Game |[Python](./Python/292.py)| Easy |   | 
@@ -174,6 +175,7 @@ Data Structure and Algorithms
 | 489 | Robot Room Cleaner |[Python](./Python/489.py)| Hard | dfs+backtracking :construction: |
 | 503 | Next Greater Element II |[Python](./Python/503.py)| Medium |  | 
 | 509 | Fibonacci Number |[Python](./Python/509.py)| Easy |  用dfs+memoization做fibonacci我简直是太拼了 |
+| 510 | Inorder Successor in BST II |[Python](./Python/510.py)| Medium | 285 |
 | 516 | Longest Palindromic Subsequence |[Python](./Python/516.py)| Medium | dp 会了 |
 | 518 | Coin Change 2 |[Python](./Python/518.py)| Medium |  |  
 | 525 | Contiguous Array |[Python](./Python/525.py)| Medium |  |  
@@ -280,6 +282,7 @@ Data Structure and Algorithms
 | 1088 | Confusing Number II |[Python](./Python/1088.py)| Hard | dfs & backtracking :construction:|
 | 1091 | Shortest Path in Binary Matrix|[Python](./Python/1091.py)| Medium | BST  | 
 | 1092 | Shortest Common Supersequence |[Python](./Python/1092.py)| Hard | LCS :construction: | 
+| 1094 | Car Pooling |[Python](./Python/1094.py)| Medium | | 
 | 1102 | Path With Maximum Minimum Value|[Python](./Python/1102.py)| Medium | bfs+heap  Dijkstr | 
 | 1110 | Delete Nodes And Return Forest |[Python](./Python/1110.py)| Medium | BFS 
 | 1131 | Maximum of Absolute Value Expression |[Python](./Python/1131.py)| Medium | 121, 1013 :construction:coordinate.wang |   
@@ -311,6 +314,7 @@ Data Structure and Algorithms
 | 1325 |Delete Leaves With a Given Value|[Python](./Python/1325.py)| Medium | G |
 | 1331 |Rank Transform of an Array|[Python](./Python/1331.py)| Easy 
 | 1332 |Remove Palindromic Subsequences|[Python](./Python/1332.py)| Easy  
+| 1339 |Maximum Product of Splitted Binary Tree|[Python](./Python/1339.py)| Medium  
 | 1342 | Number of Steps to Reduce a Number to Zero|[Python](./Python/1342.py)| Easy | bit |
 | 1352 | Product of the Last K Numbers|[Python](./Python/1352.py)| Medium |  
 | 1361| Validate Binary Tree Nodes |[Python](./Python/1361.py)| Medium | UnionFind |   
@@ -334,7 +338,7 @@ Data Structure and Algorithms
 | 1404 | Number of Steps to Reduce a Number in Binary Representation to One|[Python](./Python/1404.py)| Medium | 	
 | 1405 | Longest Happy String |[Python](./Python/1405.py)| Medium 
 | 1406 | Stone Game III |[Python](./Python/1406.py)| Hard| DP :construction: Alice and Bob bothering me again | 	
-
+| 1448 | Count Good Nodes in Binary Tree |[Python](./Python/14648.py)| Medium | | 
 | 1460 | Make Two Arrays Equal by Reversing Sub-arrays |[Python](./Python/1460.py)|Easy| | 	
 
 
