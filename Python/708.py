@@ -32,4 +32,41 @@ class Solution:
         prev.next = newNode
         newNode.next = cur
         return head
+"""
+Sep. 22, 2020
+"""
+
+class Solution:
+    def insert(self, head: 'Node', insertVal: int) -> 'Node':
+        node = Node(insertVal)
+        if not head:
+            node.next = node
+            return node 
         
+        prev, cur = head, head.next
+        while cur != head:
+            if cur.val == insertVal or prev.val == insertVal:
+                prev.next = node
+                node.next = cur
+                return head
+            
+            # increasing: prev.val < cur.val
+            if prev.val <= cur.val:
+                if insertVal < prev.val or insertVal > cur.val:
+                    prev = cur
+                    cur = cur.next 
+                elif prev.val < insertVal < cur.val:
+                    prev.next = node
+                    node.next = cur
+                    return head
+            else: # prev.val > cur.val, end of increasing
+                if insertVal > prev.val or insertVal < cur.val:
+                    prev.next = node
+                    node.next = cur
+                    return head                  
+                else:
+                    prev = cur
+                    cur = cur.next 
+        prev.next = node
+        node.next = cur
+        return head

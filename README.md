@@ -83,6 +83,7 @@ Data Structure and Algorithms
 | 153 | Find Minimum in Rotated Sorted Array |[Python](./Python/153.py)| Medium  | Rotated Array |
 | 154 | Find Minimum in Rotated Sorted Array II |[Python](./Python/154.py)| Hard  | Rotated Array with duplicates| 
 | 155 | Min Stack |[Python](./Python/155.py)| Easy  | stack |
+| 159 | Longest Substring with At Most Two Distinct Characters |[Python](./Python/159.py)| Medium | Sliding Window |
 | 160 | Intersection of Two Linked Lists |[Python](./Python/160.py)| Easy  | Linked List Overlap | 
 | 161 | One Edit Distance |[Python](./Python/161.py)| Medium |  |
 | 163 | Missing Ranges |[Python](./Python/163.py)| Medium |  G |
@@ -100,6 +101,7 @@ Data Structure and Algorithms
 | 220 | Contains Duplicate III |[Python](./Python/220.py)| Medium| Bucket Sort |
 | 223 | Rectangle Area |[Python](./Python/223.py)| Medium |  |
 | 226 | Invert Binary Tree |[Python](./Python/226.py)| Easy|  |
+| 229 | Majority Element II |[Python](./Python/229.py)| Medium | time-O(n) space-O(1) |
 | 230 | Kth Smallest Element in a BST |[Python](./Python/230.py)| Medium | inorder |
 | 236 | Lowest Common Ancestor III |[Python](./Python/236.py)| Medium | :construction:|
 | 239 | Sliding Window Maximum |[Python](./Python/239.py)| Hard | queue | :construction: | 
@@ -197,13 +199,14 @@ Data Structure and Algorithms
 | 679 |  24 Game |[Python](./Python/679.py)| Hard | DFS |  
 | 681 | Next Closest Time |[Python](./Python/681.py)| Medium | G |  
 | 685 | Redundant Connection II |[Python](./Python/685.py)| Hard | Union Find 判断valid tree: 只有root的indegere是0， 其他node的indegree一定是1 => 有环出现，root的indegree变成1， 或者某个非根节点indegree变成2 :construction:|  
+| 690  | Employee Importance |[Python](./Python/690.py)| Easy | G |  
 | 692  | Top K Frequent Words |[Python](./Python/692.py)| Medium | heap  |  
 | 695  | Max Area of Island |[Python](./Python/695.py)| Medium | dfs  |  
 | 703  | Kth Largest Element in a Stream |[Python](./Python/703.py)| Easy |heap  |  
 | 705  | Design HashSet |[Python](./Python/705.py)| Easy |hashset  G |  
 | 706  | Design HashMap |[Python](./Python/706.py)| Easy |hashfunc, open hash G |  
 | 707  | Design Linked List |[Python](./Python/707.py)| Medium |   |
-| 708  | Insert into a Sorted Circular Linked List |[Python](./Python/708.py)|Medium | LinkedList :construction: |  
+| 708  | Insert into a Sorted Circular Linked List |[Python](./Python/708.py)|Medium | LinkedList :white_check_mark: |  
 | 720 | Longest Word in Dictionary|[Python](./Python/720.py)| Easy| Trie |
 | 721 | Accounts Merge |[Python](./Python/721.py)| Medium | Union Find |  
 | 722 | Remove Comments |[Python](./Python/722.py)| Medium | Kill me |
