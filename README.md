@@ -266,6 +266,7 @@ Data Structure and Algorithms
 | 1011 | Capacity To Ship Packages Within D Days |[Python](./Python/1011.py)| Medium | Binary Search |
 | 1014 | Best Sightseeing Pair |[Python](./Python/1014.py)| Medium | :construction: |
 | 1022 | Sum of Root To Leaf Binary Numbers |[Python](./Python/1022.py)| easy | 
+| 1024 | Video Stitching |[Python](./Python/1024.py)| Medium | :construction: greedy!!! | 
 | 1026 | Maximum Difference Between Node and Ancestor |[Python](./Python/1026.py)|Medium | Divide&Conquer | 
 | 1028 | Recover a Tree From Preorder Traversal |[Python](./Python/1028.py)| Hard | Divide&Conquer | 
 | 1029 | Two City Scheduling |[Python](./Python/1029.py)| Easy | heap |
