@@ -3,8 +3,7 @@ Data Structure and Algorithms
 ![](static/Gifs/dragonMaid.gif)
 
 
-## Lintcode Solution 
-
+## Lintcode Solution
 ### Ladder - Algorithm 
 ----
 #### 1 - Defeat the Algorithm Interview 
@@ -208,7 +207,7 @@ Data Structure and Algorithms
 #### 6 - Dynamic Problem II
 | __No.__ |      __Title__      |       __Solution__      | __Difficulty__ |  __Tags__ |__Notes__|
 |:-------:|:--------------------|:-----------------------:|:--------------:|:------------|:--------------|
-|  :heavy_exclamation_mark:593    | Stone Game II       | [Python](./Python/ladder593.py) | Medium | 
+|  :heavy_exclamation_mark:593    | Stone Game II       | [Python](./Python/ladder593.py) | Medium | Alice和Bob这一天天的啊 1686/1690
 |  :heavy_exclamation_mark:476    | Stone Game          |[Python](./Python/ladder476.py)  | Medium | 
 | :heavy_exclamation_mark: 395    | Coins in a Line II         |[Java](./Java/CoinsinaLineII.java)    | Medium | 
 | :heavy_exclamation_mark: 394    | Coins in a Line  |[Java](./Java/CoinsinaLine.java)  | Medium |
